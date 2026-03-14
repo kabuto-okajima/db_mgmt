@@ -1,0 +1,1742 @@
+year,month,basis,fsc_or_place_of_birth,visa_class,issuances,source_file,source_row
+2025,2,FSC,Afghanistan,CR1,25,2025-02_dos_iv_fsc_pob_visa_class.xlsx,3
+2025,2,FSC,Afghanistan,DV,109,2025-02_dos_iv_fsc_pob_visa_class.xlsx,4
+2025,2,FSC,Afghanistan,F1,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,5
+2025,2,FSC,Afghanistan,F2A,5,2025-02_dos_iv_fsc_pob_visa_class.xlsx,6
+2025,2,FSC,Afghanistan,F3,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,7
+2025,2,FSC,Afghanistan,F4,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,8
+2025,2,FSC,Afghanistan,FX,5,2025-02_dos_iv_fsc_pob_visa_class.xlsx,9
+2025,2,FSC,Afghanistan,IR1,36,2025-02_dos_iv_fsc_pob_visa_class.xlsx,10
+2025,2,FSC,Afghanistan,IR2,29,2025-02_dos_iv_fsc_pob_visa_class.xlsx,11
+2025,2,FSC,Afghanistan,IR5,75,2025-02_dos_iv_fsc_pob_visa_class.xlsx,12
+2025,2,FSC,Afghanistan,SQ1,268,2025-02_dos_iv_fsc_pob_visa_class.xlsx,13
+2025,2,FSC,Afghanistan,SQ2,160,2025-02_dos_iv_fsc_pob_visa_class.xlsx,14
+2025,2,FSC,Afghanistan,SQ3,460,2025-02_dos_iv_fsc_pob_visa_class.xlsx,15
+2025,2,FSC,Afghanistan,SW,14,2025-02_dos_iv_fsc_pob_visa_class.xlsx,16
+2025,2,FSC,Albania,CR1,6,2025-02_dos_iv_fsc_pob_visa_class.xlsx,17
+2025,2,FSC,Albania,DV,144,2025-02_dos_iv_fsc_pob_visa_class.xlsx,18
+2025,2,FSC,Albania,E3,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,19
+2025,2,FSC,Albania,F1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,20
+2025,2,FSC,Albania,F2A,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,21
+2025,2,FSC,Albania,F2B,11,2025-02_dos_iv_fsc_pob_visa_class.xlsx,22
+2025,2,FSC,Albania,F3,19,2025-02_dos_iv_fsc_pob_visa_class.xlsx,23
+2025,2,FSC,Albania,F4,8,2025-02_dos_iv_fsc_pob_visa_class.xlsx,24
+2025,2,FSC,Albania,FX,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,25
+2025,2,FSC,Albania,IR1,10,2025-02_dos_iv_fsc_pob_visa_class.xlsx,26
+2025,2,FSC,Albania,IR2,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,27
+2025,2,FSC,Albania,IR5,107,2025-02_dos_iv_fsc_pob_visa_class.xlsx,28
+2025,2,FSC,Algeria,CR1,11,2025-02_dos_iv_fsc_pob_visa_class.xlsx,29
+2025,2,FSC,Algeria,DV,285,2025-02_dos_iv_fsc_pob_visa_class.xlsx,30
+2025,2,FSC,Algeria,F2A,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,31
+2025,2,FSC,Algeria,IR1,24,2025-02_dos_iv_fsc_pob_visa_class.xlsx,32
+2025,2,FSC,Algeria,IR2,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,33
+2025,2,FSC,Algeria,IR5,38,2025-02_dos_iv_fsc_pob_visa_class.xlsx,34
+2025,2,FSC,Algeria,SB1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,35
+2025,2,FSC,Angola,CR1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,36
+2025,2,FSC,Angola,DV,15,2025-02_dos_iv_fsc_pob_visa_class.xlsx,37
+2025,2,FSC,Angola,F2B,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,38
+2025,2,FSC,Angola,F4,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,39
+2025,2,FSC,Angola,IR1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,40
+2025,2,FSC,Angola,IR5,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,41
+2025,2,FSC,Anguilla,IR5,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,42
+2025,2,FSC,Antigua and Barbuda,F1,6,2025-02_dos_iv_fsc_pob_visa_class.xlsx,43
+2025,2,FSC,Antigua and Barbuda,F2A,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,44
+2025,2,FSC,Antigua and Barbuda,F4,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,45
+2025,2,FSC,Antigua and Barbuda,IR1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,46
+2025,2,FSC,Antigua and Barbuda,IR2,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,47
+2025,2,FSC,Antigua and Barbuda,IR5,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,48
+2025,2,FSC,Antigua and Barbuda,SB1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,49
+2025,2,FSC,Argentina,CR1,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,50
+2025,2,FSC,Argentina,CR2,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,51
+2025,2,FSC,Argentina,DV,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,52
+2025,2,FSC,Argentina,E1,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,53
+2025,2,FSC,Argentina,E2,20,2025-02_dos_iv_fsc_pob_visa_class.xlsx,54
+2025,2,FSC,Argentina,E3,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,55
+2025,2,FSC,Argentina,F1,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,56
+2025,2,FSC,Argentina,F3,5,2025-02_dos_iv_fsc_pob_visa_class.xlsx,57
+2025,2,FSC,Argentina,F4,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,58
+2025,2,FSC,Argentina,FX,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,59
+2025,2,FSC,Argentina,I5,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,60
+2025,2,FSC,Argentina,IR1,7,2025-02_dos_iv_fsc_pob_visa_class.xlsx,61
+2025,2,FSC,Argentina,IR2,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,62
+2025,2,FSC,Argentina,IR5,19,2025-02_dos_iv_fsc_pob_visa_class.xlsx,63
+2025,2,FSC,Armenia,CR1,11,2025-02_dos_iv_fsc_pob_visa_class.xlsx,64
+2025,2,FSC,Armenia,DV,101,2025-02_dos_iv_fsc_pob_visa_class.xlsx,65
+2025,2,FSC,Armenia,E1,6,2025-02_dos_iv_fsc_pob_visa_class.xlsx,66
+2025,2,FSC,Armenia,E3,7,2025-02_dos_iv_fsc_pob_visa_class.xlsx,67
+2025,2,FSC,Armenia,F1,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,68
+2025,2,FSC,Armenia,F2A,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,69
+2025,2,FSC,Armenia,F2B,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,70
+2025,2,FSC,Armenia,F3,29,2025-02_dos_iv_fsc_pob_visa_class.xlsx,71
+2025,2,FSC,Armenia,F4,8,2025-02_dos_iv_fsc_pob_visa_class.xlsx,72
+2025,2,FSC,Armenia,GV2,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,73
+2025,2,FSC,Armenia,GV3,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,74
+2025,2,FSC,Armenia,IR1,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,75
+2025,2,FSC,Armenia,IR2,7,2025-02_dos_iv_fsc_pob_visa_class.xlsx,76
+2025,2,FSC,Armenia,IR5,37,2025-02_dos_iv_fsc_pob_visa_class.xlsx,77
+2025,2,FSC,Armenia,IW,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,78
+2025,2,FSC,Aruba,CR1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,79
+2025,2,FSC,Australia,CR1,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,80
+2025,2,FSC,Australia,DV,21,2025-02_dos_iv_fsc_pob_visa_class.xlsx,81
+2025,2,FSC,Australia,E1,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,82
+2025,2,FSC,Australia,E3,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,83
+2025,2,FSC,Australia,F3,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,84
+2025,2,FSC,Australia,IR1,16,2025-02_dos_iv_fsc_pob_visa_class.xlsx,85
+2025,2,FSC,Australia,IR2,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,86
+2025,2,FSC,Australia,RH1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,87
+2025,2,FSC,Australia,SQ3,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,88
+2025,2,FSC,Austria,E1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,89
+2025,2,FSC,Azerbaijan,CR1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,90
+2025,2,FSC,Azerbaijan,DV,13,2025-02_dos_iv_fsc_pob_visa_class.xlsx,91
+2025,2,FSC,Azerbaijan,F2A,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,92
+2025,2,FSC,Azerbaijan,GV1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,93
+2025,2,FSC,Azerbaijan,IR1,9,2025-02_dos_iv_fsc_pob_visa_class.xlsx,94
+2025,2,FSC,Azerbaijan,IR2,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,95
+2025,2,FSC,Azerbaijan,IR5,27,2025-02_dos_iv_fsc_pob_visa_class.xlsx,96
+2025,2,FSC,"Bahamas, The",F1,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,97
+2025,2,FSC,"Bahamas, The",F2A,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,98
+2025,2,FSC,"Bahamas, The",F3,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,99
+2025,2,FSC,"Bahamas, The",F4,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,100
+2025,2,FSC,"Bahamas, The",IR2,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,101
+2025,2,FSC,"Bahamas, The",IR5,11,2025-02_dos_iv_fsc_pob_visa_class.xlsx,102
+2025,2,FSC,Bahrain,CR1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,103
+2025,2,FSC,Bahrain,F2B,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,104
+2025,2,FSC,Bahrain,F3,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,105
+2025,2,FSC,Bahrain,F4,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,106
+2025,2,FSC,Bahrain,IR1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,107
+2025,2,FSC,Bahrain,IR5,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,108
+2025,2,FSC,Bangladesh,CR1,5,2025-02_dos_iv_fsc_pob_visa_class.xlsx,109
+2025,2,FSC,Bangladesh,E1,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,110
+2025,2,FSC,Bangladesh,E2,9,2025-02_dos_iv_fsc_pob_visa_class.xlsx,111
+2025,2,FSC,Bangladesh,EW,6,2025-02_dos_iv_fsc_pob_visa_class.xlsx,112
+2025,2,FSC,Bangladesh,F1,6,2025-02_dos_iv_fsc_pob_visa_class.xlsx,113
+2025,2,FSC,Bangladesh,F2B,13,2025-02_dos_iv_fsc_pob_visa_class.xlsx,114
+2025,2,FSC,Bangladesh,F3,28,2025-02_dos_iv_fsc_pob_visa_class.xlsx,115
+2025,2,FSC,Bangladesh,F4,870,2025-02_dos_iv_fsc_pob_visa_class.xlsx,116
+2025,2,FSC,Bangladesh,FX,37,2025-02_dos_iv_fsc_pob_visa_class.xlsx,117
+2025,2,FSC,Bangladesh,GV1,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,118
+2025,2,FSC,Bangladesh,GV2,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,119
+2025,2,FSC,Bangladesh,GV3,7,2025-02_dos_iv_fsc_pob_visa_class.xlsx,120
+2025,2,FSC,Bangladesh,I5,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,121
+2025,2,FSC,Bangladesh,IR1,341,2025-02_dos_iv_fsc_pob_visa_class.xlsx,122
+2025,2,FSC,Bangladesh,IR2,49,2025-02_dos_iv_fsc_pob_visa_class.xlsx,123
+2025,2,FSC,Bangladesh,IR4,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,124
+2025,2,FSC,Bangladesh,IR5,597,2025-02_dos_iv_fsc_pob_visa_class.xlsx,125
+2025,2,FSC,Bangladesh,SB1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,126
+2025,2,FSC,Barbados,E3,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,127
+2025,2,FSC,Barbados,F1,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,128
+2025,2,FSC,Barbados,IR1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,129
+2025,2,FSC,Barbados,IR2,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,130
+2025,2,FSC,Barbados,IR5,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,131
+2025,2,FSC,Belarus,CR1,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,132
+2025,2,FSC,Belarus,DV,48,2025-02_dos_iv_fsc_pob_visa_class.xlsx,133
+2025,2,FSC,Belarus,E1,5,2025-02_dos_iv_fsc_pob_visa_class.xlsx,134
+2025,2,FSC,Belarus,E2,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,135
+2025,2,FSC,Belarus,F2A,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,136
+2025,2,FSC,Belarus,IR1,7,2025-02_dos_iv_fsc_pob_visa_class.xlsx,137
+2025,2,FSC,Belarus,IR2,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,138
+2025,2,FSC,Belarus,IR5,12,2025-02_dos_iv_fsc_pob_visa_class.xlsx,139
+2025,2,FSC,Belgium,CR1,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,140
+2025,2,FSC,Belgium,DV,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,141
+2025,2,FSC,Belgium,E2,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,142
+2025,2,FSC,Belgium,IR1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,143
+2025,2,FSC,Belgium,IR5,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,144
+2025,2,FSC,Belize,CR1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,145
+2025,2,FSC,Belize,CR2,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,146
+2025,2,FSC,Belize,F1,5,2025-02_dos_iv_fsc_pob_visa_class.xlsx,147
+2025,2,FSC,Belize,F2A,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,148
+2025,2,FSC,Belize,F3,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,149
+2025,2,FSC,Belize,F4,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,150
+2025,2,FSC,Belize,GV1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,151
+2025,2,FSC,Belize,GV2,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,152
+2025,2,FSC,Belize,GV3,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,153
+2025,2,FSC,Belize,IR1,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,154
+2025,2,FSC,Belize,IR2,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,155
+2025,2,FSC,Belize,IR5,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,156
+2025,2,FSC,Benin,CR1,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,157
+2025,2,FSC,Benin,CR2,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,158
+2025,2,FSC,Benin,DV,35,2025-02_dos_iv_fsc_pob_visa_class.xlsx,159
+2025,2,FSC,Benin,IR1,6,2025-02_dos_iv_fsc_pob_visa_class.xlsx,160
+2025,2,FSC,Benin,IR2,15,2025-02_dos_iv_fsc_pob_visa_class.xlsx,161
+2025,2,FSC,Benin,IR5,5,2025-02_dos_iv_fsc_pob_visa_class.xlsx,162
+2025,2,FSC,Bermuda,CR1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,163
+2025,2,FSC,Bermuda,IR1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,164
+2025,2,FSC,Bermuda,IR2,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,165
+2025,2,FSC,Bhutan,DV,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,166
+2025,2,FSC,Bolivia,CR1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,167
+2025,2,FSC,Bolivia,DV,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,168
+2025,2,FSC,Bolivia,E1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,169
+2025,2,FSC,Bolivia,E2,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,170
+2025,2,FSC,Bolivia,F1,10,2025-02_dos_iv_fsc_pob_visa_class.xlsx,171
+2025,2,FSC,Bolivia,F2A,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,172
+2025,2,FSC,Bolivia,F2B,9,2025-02_dos_iv_fsc_pob_visa_class.xlsx,173
+2025,2,FSC,Bolivia,F3,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,174
+2025,2,FSC,Bolivia,F4,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,175
+2025,2,FSC,Bolivia,FX,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,176
+2025,2,FSC,Bolivia,IR1,7,2025-02_dos_iv_fsc_pob_visa_class.xlsx,177
+2025,2,FSC,Bolivia,IR2,5,2025-02_dos_iv_fsc_pob_visa_class.xlsx,178
+2025,2,FSC,Bolivia,IR5,16,2025-02_dos_iv_fsc_pob_visa_class.xlsx,179
+2025,2,FSC,Bosnia-Herzegovina,CR1,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,180
+2025,2,FSC,Bosnia-Herzegovina,F3,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,181
+2025,2,FSC,Bosnia-Herzegovina,IR1,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,182
+2025,2,FSC,Bosnia-Herzegovina,IR2,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,183
+2025,2,FSC,Bosnia-Herzegovina,IR5,5,2025-02_dos_iv_fsc_pob_visa_class.xlsx,184
+2025,2,FSC,Botswana,IR2,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,185
+2025,2,FSC,Brazil,CR1,14,2025-02_dos_iv_fsc_pob_visa_class.xlsx,186
+2025,2,FSC,Brazil,CR2,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,187
+2025,2,FSC,Brazil,E1,8,2025-02_dos_iv_fsc_pob_visa_class.xlsx,188
+2025,2,FSC,Brazil,E2,72,2025-02_dos_iv_fsc_pob_visa_class.xlsx,189
+2025,2,FSC,Brazil,E3,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,190
+2025,2,FSC,Brazil,EW,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,191
+2025,2,FSC,Brazil,F1,7,2025-02_dos_iv_fsc_pob_visa_class.xlsx,192
+2025,2,FSC,Brazil,F2B,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,193
+2025,2,FSC,Brazil,F3,6,2025-02_dos_iv_fsc_pob_visa_class.xlsx,194
+2025,2,FSC,Brazil,F4,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,195
+2025,2,FSC,Brazil,FX,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,196
+2025,2,FSC,Brazil,I5,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,197
+2025,2,FSC,Brazil,IR1,98,2025-02_dos_iv_fsc_pob_visa_class.xlsx,198
+2025,2,FSC,Brazil,IR2,13,2025-02_dos_iv_fsc_pob_visa_class.xlsx,199
+2025,2,FSC,Brazil,IR5,73,2025-02_dos_iv_fsc_pob_visa_class.xlsx,200
+2025,2,FSC,Brazil,IW,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,201
+2025,2,FSC,Brazil,RR1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,202
+2025,2,FSC,Brazil,RR2,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,203
+2025,2,FSC,Bulgaria,CR1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,204
+2025,2,FSC,Bulgaria,DV,6,2025-02_dos_iv_fsc_pob_visa_class.xlsx,205
+2025,2,FSC,Bulgaria,F2B,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,206
+2025,2,FSC,Bulgaria,IH3,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,207
+2025,2,FSC,Bulgaria,IR2,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,208
+2025,2,FSC,Bulgaria,IR5,7,2025-02_dos_iv_fsc_pob_visa_class.xlsx,209
+2025,2,FSC,Burkina Faso,CR1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,210
+2025,2,FSC,Burkina Faso,F2A,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,211
+2025,2,FSC,Burkina Faso,FX,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,212
+2025,2,FSC,Burkina Faso,IR1,16,2025-02_dos_iv_fsc_pob_visa_class.xlsx,213
+2025,2,FSC,Burkina Faso,IR2,19,2025-02_dos_iv_fsc_pob_visa_class.xlsx,214
+2025,2,FSC,Burkina Faso,IR5,24,2025-02_dos_iv_fsc_pob_visa_class.xlsx,215
+2025,2,FSC,Burma,CR1,15,2025-02_dos_iv_fsc_pob_visa_class.xlsx,216
+2025,2,FSC,Burma,DV,8,2025-02_dos_iv_fsc_pob_visa_class.xlsx,217
+2025,2,FSC,Burma,E2,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,218
+2025,2,FSC,Burma,EW,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,219
+2025,2,FSC,Burma,F1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,220
+2025,2,FSC,Burma,F4,19,2025-02_dos_iv_fsc_pob_visa_class.xlsx,221
+2025,2,FSC,Burma,FX,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,222
+2025,2,FSC,Burma,GV1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,223
+2025,2,FSC,Burma,GV2,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,224
+2025,2,FSC,Burma,GV3,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,225
+2025,2,FSC,Burma,IR1,19,2025-02_dos_iv_fsc_pob_visa_class.xlsx,226
+2025,2,FSC,Burma,IR2,8,2025-02_dos_iv_fsc_pob_visa_class.xlsx,227
+2025,2,FSC,Burma,IR5,34,2025-02_dos_iv_fsc_pob_visa_class.xlsx,228
+2025,2,FSC,Burundi,F2A,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,229
+2025,2,FSC,Burundi,FX,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,230
+2025,2,FSC,Burundi,GV1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,231
+2025,2,FSC,Burundi,GV2,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,232
+2025,2,FSC,Burundi,GV3,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,233
+2025,2,FSC,Burundi,IH3,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,234
+2025,2,FSC,Burundi,IR1,18,2025-02_dos_iv_fsc_pob_visa_class.xlsx,235
+2025,2,FSC,Burundi,IR2,6,2025-02_dos_iv_fsc_pob_visa_class.xlsx,236
+2025,2,FSC,Burundi,IR5,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,237
+2025,2,FSC,Cabo Verde,CR1,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,238
+2025,2,FSC,Cabo Verde,CR2,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,239
+2025,2,FSC,Cabo Verde,DV,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,240
+2025,2,FSC,Cabo Verde,F1,53,2025-02_dos_iv_fsc_pob_visa_class.xlsx,241
+2025,2,FSC,Cabo Verde,F2A,13,2025-02_dos_iv_fsc_pob_visa_class.xlsx,242
+2025,2,FSC,Cabo Verde,F2B,58,2025-02_dos_iv_fsc_pob_visa_class.xlsx,243
+2025,2,FSC,Cabo Verde,F3,5,2025-02_dos_iv_fsc_pob_visa_class.xlsx,244
+2025,2,FSC,Cabo Verde,F4,5,2025-02_dos_iv_fsc_pob_visa_class.xlsx,245
+2025,2,FSC,Cabo Verde,FX,59,2025-02_dos_iv_fsc_pob_visa_class.xlsx,246
+2025,2,FSC,Cabo Verde,GV1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,247
+2025,2,FSC,Cabo Verde,IR1,14,2025-02_dos_iv_fsc_pob_visa_class.xlsx,248
+2025,2,FSC,Cabo Verde,IR2,24,2025-02_dos_iv_fsc_pob_visa_class.xlsx,249
+2025,2,FSC,Cabo Verde,IR5,51,2025-02_dos_iv_fsc_pob_visa_class.xlsx,250
+2025,2,FSC,Cambodia,CR1,15,2025-02_dos_iv_fsc_pob_visa_class.xlsx,251
+2025,2,FSC,Cambodia,DV,19,2025-02_dos_iv_fsc_pob_visa_class.xlsx,252
+2025,2,FSC,Cambodia,F1,8,2025-02_dos_iv_fsc_pob_visa_class.xlsx,253
+2025,2,FSC,Cambodia,F2A,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,254
+2025,2,FSC,Cambodia,F2B,7,2025-02_dos_iv_fsc_pob_visa_class.xlsx,255
+2025,2,FSC,Cambodia,F3,9,2025-02_dos_iv_fsc_pob_visa_class.xlsx,256
+2025,2,FSC,Cambodia,F4,8,2025-02_dos_iv_fsc_pob_visa_class.xlsx,257
+2025,2,FSC,Cambodia,FX,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,258
+2025,2,FSC,Cambodia,I5,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,259
+2025,2,FSC,Cambodia,IR1,34,2025-02_dos_iv_fsc_pob_visa_class.xlsx,260
+2025,2,FSC,Cambodia,IR2,20,2025-02_dos_iv_fsc_pob_visa_class.xlsx,261
+2025,2,FSC,Cambodia,IR5,118,2025-02_dos_iv_fsc_pob_visa_class.xlsx,262
+2025,2,FSC,Cambodia,SD,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,263
+2025,2,FSC,Cameroon,CR1,8,2025-02_dos_iv_fsc_pob_visa_class.xlsx,264
+2025,2,FSC,Cameroon,DV,74,2025-02_dos_iv_fsc_pob_visa_class.xlsx,265
+2025,2,FSC,Cameroon,E1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,266
+2025,2,FSC,Cameroon,E2,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,267
+2025,2,FSC,Cameroon,F1,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,268
+2025,2,FSC,Cameroon,F2A,16,2025-02_dos_iv_fsc_pob_visa_class.xlsx,269
+2025,2,FSC,Cameroon,F2B,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,270
+2025,2,FSC,Cameroon,FX,16,2025-02_dos_iv_fsc_pob_visa_class.xlsx,271
+2025,2,FSC,Cameroon,GV1,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,272
+2025,2,FSC,Cameroon,GV2,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,273
+2025,2,FSC,Cameroon,GV3,10,2025-02_dos_iv_fsc_pob_visa_class.xlsx,274
+2025,2,FSC,Cameroon,IR1,28,2025-02_dos_iv_fsc_pob_visa_class.xlsx,275
+2025,2,FSC,Cameroon,IR2,38,2025-02_dos_iv_fsc_pob_visa_class.xlsx,276
+2025,2,FSC,Cameroon,IR3,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,277
+2025,2,FSC,Cameroon,IR5,115,2025-02_dos_iv_fsc_pob_visa_class.xlsx,278
+2025,2,FSC,Canada,CR1,19,2025-02_dos_iv_fsc_pob_visa_class.xlsx,279
+2025,2,FSC,Canada,CR2,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,280
+2025,2,FSC,Canada,E1,33,2025-02_dos_iv_fsc_pob_visa_class.xlsx,281
+2025,2,FSC,Canada,E2,37,2025-02_dos_iv_fsc_pob_visa_class.xlsx,282
+2025,2,FSC,Canada,E3,16,2025-02_dos_iv_fsc_pob_visa_class.xlsx,283
+2025,2,FSC,Canada,EW,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,284
+2025,2,FSC,Canada,F1,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,285
+2025,2,FSC,Canada,F2A,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,286
+2025,2,FSC,Canada,F2B,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,287
+2025,2,FSC,Canada,F3,20,2025-02_dos_iv_fsc_pob_visa_class.xlsx,288
+2025,2,FSC,Canada,F4,9,2025-02_dos_iv_fsc_pob_visa_class.xlsx,289
+2025,2,FSC,Canada,FX,6,2025-02_dos_iv_fsc_pob_visa_class.xlsx,290
+2025,2,FSC,Canada,I5,5,2025-02_dos_iv_fsc_pob_visa_class.xlsx,291
+2025,2,FSC,Canada,IR1,92,2025-02_dos_iv_fsc_pob_visa_class.xlsx,292
+2025,2,FSC,Canada,IR2,24,2025-02_dos_iv_fsc_pob_visa_class.xlsx,293
+2025,2,FSC,Canada,IR5,19,2025-02_dos_iv_fsc_pob_visa_class.xlsx,294
+2025,2,FSC,Canada,IW,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,295
+2025,2,FSC,Canada,SQ3,6,2025-02_dos_iv_fsc_pob_visa_class.xlsx,296
+2025,2,FSC,Cayman Islands,F1,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,297
+2025,2,FSC,Cayman Islands,F3,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,298
+2025,2,FSC,Central African Republic,IR1,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,299
+2025,2,FSC,Central African Republic,IR2,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,300
+2025,2,FSC,Central African Republic,IR5,5,2025-02_dos_iv_fsc_pob_visa_class.xlsx,301
+2025,2,FSC,Chad,DV,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,302
+2025,2,FSC,Chad,IR2,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,303
+2025,2,FSC,Chile,CR1,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,304
+2025,2,FSC,Chile,E1,8,2025-02_dos_iv_fsc_pob_visa_class.xlsx,305
+2025,2,FSC,Chile,E2,15,2025-02_dos_iv_fsc_pob_visa_class.xlsx,306
+2025,2,FSC,Chile,E3,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,307
+2025,2,FSC,Chile,EW,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,308
+2025,2,FSC,Chile,I5,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,309
+2025,2,FSC,Chile,IR1,8,2025-02_dos_iv_fsc_pob_visa_class.xlsx,310
+2025,2,FSC,Chile,IR2,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,311
+2025,2,FSC,Chile,IR5,13,2025-02_dos_iv_fsc_pob_visa_class.xlsx,312
+2025,2,FSC,China - mainland born,C5,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,313
+2025,2,FSC,China - mainland born,CR1,62,2025-02_dos_iv_fsc_pob_visa_class.xlsx,314
+2025,2,FSC,China - mainland born,CR2,9,2025-02_dos_iv_fsc_pob_visa_class.xlsx,315
+2025,2,FSC,China - mainland born,E1,138,2025-02_dos_iv_fsc_pob_visa_class.xlsx,316
+2025,2,FSC,China - mainland born,E2,31,2025-02_dos_iv_fsc_pob_visa_class.xlsx,317
+2025,2,FSC,China - mainland born,E3,118,2025-02_dos_iv_fsc_pob_visa_class.xlsx,318
+2025,2,FSC,China - mainland born,EW,31,2025-02_dos_iv_fsc_pob_visa_class.xlsx,319
+2025,2,FSC,China - mainland born,F1,17,2025-02_dos_iv_fsc_pob_visa_class.xlsx,320
+2025,2,FSC,China - mainland born,F2A,8,2025-02_dos_iv_fsc_pob_visa_class.xlsx,321
+2025,2,FSC,China - mainland born,F2B,70,2025-02_dos_iv_fsc_pob_visa_class.xlsx,322
+2025,2,FSC,China - mainland born,F3,63,2025-02_dos_iv_fsc_pob_visa_class.xlsx,323
+2025,2,FSC,China - mainland born,F4,63,2025-02_dos_iv_fsc_pob_visa_class.xlsx,324
+2025,2,FSC,China - mainland born,FX,15,2025-02_dos_iv_fsc_pob_visa_class.xlsx,325
+2025,2,FSC,China - mainland born,I5,315,2025-02_dos_iv_fsc_pob_visa_class.xlsx,326
+2025,2,FSC,China - mainland born,IR1,105,2025-02_dos_iv_fsc_pob_visa_class.xlsx,327
+2025,2,FSC,China - mainland born,IR2,50,2025-02_dos_iv_fsc_pob_visa_class.xlsx,328
+2025,2,FSC,China - mainland born,IR5,678,2025-02_dos_iv_fsc_pob_visa_class.xlsx,329
+2025,2,FSC,China - mainland born,R5,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,330
+2025,2,FSC,China - mainland born,RH1,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,331
+2025,2,FSC,China - mainland born,RH3,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,332
+2025,2,FSC,China - mainland born,RR1,7,2025-02_dos_iv_fsc_pob_visa_class.xlsx,333
+2025,2,FSC,China - mainland born,RR2,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,334
+2025,2,FSC,China - mainland born,RR3,7,2025-02_dos_iv_fsc_pob_visa_class.xlsx,335
+2025,2,FSC,China - mainland born,SB1,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,336
+2025,2,FSC,China - mainland born,T5,6,2025-02_dos_iv_fsc_pob_visa_class.xlsx,337
+2025,2,FSC,Colombia,CR1,40,2025-02_dos_iv_fsc_pob_visa_class.xlsx,338
+2025,2,FSC,Colombia,CR2,8,2025-02_dos_iv_fsc_pob_visa_class.xlsx,339
+2025,2,FSC,Colombia,E1,14,2025-02_dos_iv_fsc_pob_visa_class.xlsx,340
+2025,2,FSC,Colombia,E2,99,2025-02_dos_iv_fsc_pob_visa_class.xlsx,341
+2025,2,FSC,Colombia,E3,18,2025-02_dos_iv_fsc_pob_visa_class.xlsx,342
+2025,2,FSC,Colombia,EW,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,343
+2025,2,FSC,Colombia,F1,32,2025-02_dos_iv_fsc_pob_visa_class.xlsx,344
+2025,2,FSC,Colombia,F2A,24,2025-02_dos_iv_fsc_pob_visa_class.xlsx,345
+2025,2,FSC,Colombia,F2B,28,2025-02_dos_iv_fsc_pob_visa_class.xlsx,346
+2025,2,FSC,Colombia,F3,24,2025-02_dos_iv_fsc_pob_visa_class.xlsx,347
+2025,2,FSC,Colombia,F4,16,2025-02_dos_iv_fsc_pob_visa_class.xlsx,348
+2025,2,FSC,Colombia,FX,24,2025-02_dos_iv_fsc_pob_visa_class.xlsx,349
+2025,2,FSC,Colombia,GV1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,350
+2025,2,FSC,Colombia,I5,11,2025-02_dos_iv_fsc_pob_visa_class.xlsx,351
+2025,2,FSC,Colombia,IH3,10,2025-02_dos_iv_fsc_pob_visa_class.xlsx,352
+2025,2,FSC,Colombia,IR1,89,2025-02_dos_iv_fsc_pob_visa_class.xlsx,353
+2025,2,FSC,Colombia,IR2,59,2025-02_dos_iv_fsc_pob_visa_class.xlsx,354
+2025,2,FSC,Colombia,IR5,160,2025-02_dos_iv_fsc_pob_visa_class.xlsx,355
+2025,2,FSC,Colombia,IW,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,356
+2025,2,FSC,"Congo, Democratic Republic of the",DV,17,2025-02_dos_iv_fsc_pob_visa_class.xlsx,357
+2025,2,FSC,"Congo, Democratic Republic of the",F1,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,358
+2025,2,FSC,"Congo, Democratic Republic of the",F2A,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,359
+2025,2,FSC,"Congo, Democratic Republic of the",FX,12,2025-02_dos_iv_fsc_pob_visa_class.xlsx,360
+2025,2,FSC,"Congo, Democratic Republic of the",IR1,25,2025-02_dos_iv_fsc_pob_visa_class.xlsx,361
+2025,2,FSC,"Congo, Democratic Republic of the",IR2,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,362
+2025,2,FSC,"Congo, Democratic Republic of the",IR5,11,2025-02_dos_iv_fsc_pob_visa_class.xlsx,363
+2025,2,FSC,"Congo, Republic of the",IR2,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,364
+2025,2,FSC,Costa Rica,CR1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,365
+2025,2,FSC,Costa Rica,E2,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,366
+2025,2,FSC,Costa Rica,F1,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,367
+2025,2,FSC,Costa Rica,F2A,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,368
+2025,2,FSC,Costa Rica,IR1,11,2025-02_dos_iv_fsc_pob_visa_class.xlsx,369
+2025,2,FSC,Costa Rica,IR2,13,2025-02_dos_iv_fsc_pob_visa_class.xlsx,370
+2025,2,FSC,Costa Rica,IR5,9,2025-02_dos_iv_fsc_pob_visa_class.xlsx,371
+2025,2,FSC,Costa Rica,IW,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,372
+2025,2,FSC,Cote d'Ivoire,DV,12,2025-02_dos_iv_fsc_pob_visa_class.xlsx,373
+2025,2,FSC,Cote d'Ivoire,E2,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,374
+2025,2,FSC,Cote d'Ivoire,F1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,375
+2025,2,FSC,Cote d'Ivoire,F2A,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,376
+2025,2,FSC,Cote d'Ivoire,F2B,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,377
+2025,2,FSC,Cote d'Ivoire,FX,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,378
+2025,2,FSC,Cote d'Ivoire,IR1,12,2025-02_dos_iv_fsc_pob_visa_class.xlsx,379
+2025,2,FSC,Cote d'Ivoire,IR2,8,2025-02_dos_iv_fsc_pob_visa_class.xlsx,380
+2025,2,FSC,Cote d'Ivoire,IR5,5,2025-02_dos_iv_fsc_pob_visa_class.xlsx,381
+2025,2,FSC,Croatia,E3,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,382
+2025,2,FSC,Croatia,F3,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,383
+2025,2,FSC,Croatia,IR5,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,384
+2025,2,FSC,Cuba,CR1,9,2025-02_dos_iv_fsc_pob_visa_class.xlsx,385
+2025,2,FSC,Cuba,CR2,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,386
+2025,2,FSC,Cuba,DV,107,2025-02_dos_iv_fsc_pob_visa_class.xlsx,387
+2025,2,FSC,Cuba,E2,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,388
+2025,2,FSC,Cuba,F1,53,2025-02_dos_iv_fsc_pob_visa_class.xlsx,389
+2025,2,FSC,Cuba,F2A,96,2025-02_dos_iv_fsc_pob_visa_class.xlsx,390
+2025,2,FSC,Cuba,F2B,85,2025-02_dos_iv_fsc_pob_visa_class.xlsx,391
+2025,2,FSC,Cuba,F3,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,392
+2025,2,FSC,Cuba,F4,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,393
+2025,2,FSC,Cuba,FX,60,2025-02_dos_iv_fsc_pob_visa_class.xlsx,394
+2025,2,FSC,Cuba,GV1,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,395
+2025,2,FSC,Cuba,GV2,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,396
+2025,2,FSC,Cuba,IR1,37,2025-02_dos_iv_fsc_pob_visa_class.xlsx,397
+2025,2,FSC,Cuba,IR2,91,2025-02_dos_iv_fsc_pob_visa_class.xlsx,398
+2025,2,FSC,Cuba,IR5,835,2025-02_dos_iv_fsc_pob_visa_class.xlsx,399
+2025,2,FSC,Cuba,IW,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,400
+2025,2,FSC,Curacao,E1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,401
+2025,2,FSC,Curacao,IR2,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,402
+2025,2,FSC,Cyprus,IR5,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,403
+2025,2,FSC,Czech Republic,CR1,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,404
+2025,2,FSC,Czech Republic,DV,5,2025-02_dos_iv_fsc_pob_visa_class.xlsx,405
+2025,2,FSC,Czech Republic,F2B,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,406
+2025,2,FSC,Czech Republic,IR1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,407
+2025,2,FSC,Czech Republic,IR2,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,408
+2025,2,FSC,Denmark,E1,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,409
+2025,2,FSC,Denmark,E2,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,410
+2025,2,FSC,Denmark,IR1,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,411
+2025,2,FSC,Djibouti,DV,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,412
+2025,2,FSC,Djibouti,FX,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,413
+2025,2,FSC,Djibouti,GV3,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,414
+2025,2,FSC,Djibouti,IR1,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,415
+2025,2,FSC,Djibouti,IR2,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,416
+2025,2,FSC,Djibouti,IR5,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,417
+2025,2,FSC,Dominica,CR1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,418
+2025,2,FSC,Dominica,F1,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,419
+2025,2,FSC,Dominica,F3,9,2025-02_dos_iv_fsc_pob_visa_class.xlsx,420
+2025,2,FSC,Dominica,FX,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,421
+2025,2,FSC,Dominica,IR1,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,422
+2025,2,FSC,Dominica,IR2,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,423
+2025,2,FSC,Dominica,IR5,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,424
+2025,2,FSC,Dominican Republic,CR1,9,2025-02_dos_iv_fsc_pob_visa_class.xlsx,425
+2025,2,FSC,Dominican Republic,E1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,426
+2025,2,FSC,Dominican Republic,E2,8,2025-02_dos_iv_fsc_pob_visa_class.xlsx,427
+2025,2,FSC,Dominican Republic,F1,253,2025-02_dos_iv_fsc_pob_visa_class.xlsx,428
+2025,2,FSC,Dominican Republic,F2A,456,2025-02_dos_iv_fsc_pob_visa_class.xlsx,429
+2025,2,FSC,Dominican Republic,F2B,746,2025-02_dos_iv_fsc_pob_visa_class.xlsx,430
+2025,2,FSC,Dominican Republic,F3,15,2025-02_dos_iv_fsc_pob_visa_class.xlsx,431
+2025,2,FSC,Dominican Republic,F4,65,2025-02_dos_iv_fsc_pob_visa_class.xlsx,432
+2025,2,FSC,Dominican Republic,FX,1225,2025-02_dos_iv_fsc_pob_visa_class.xlsx,433
+2025,2,FSC,Dominican Republic,IB1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,434
+2025,2,FSC,Dominican Republic,IB2,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,435
+2025,2,FSC,Dominican Republic,IH3,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,436
+2025,2,FSC,Dominican Republic,IR1,754,2025-02_dos_iv_fsc_pob_visa_class.xlsx,437
+2025,2,FSC,Dominican Republic,IR2,651,2025-02_dos_iv_fsc_pob_visa_class.xlsx,438
+2025,2,FSC,Dominican Republic,IR5,618,2025-02_dos_iv_fsc_pob_visa_class.xlsx,439
+2025,2,FSC,Dominican Republic,IW,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,440
+2025,2,FSC,Dominican Republic,SB1,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,441
+2025,2,FSC,Ecuador,CR1,21,2025-02_dos_iv_fsc_pob_visa_class.xlsx,442
+2025,2,FSC,Ecuador,CR2,10,2025-02_dos_iv_fsc_pob_visa_class.xlsx,443
+2025,2,FSC,Ecuador,DV,15,2025-02_dos_iv_fsc_pob_visa_class.xlsx,444
+2025,2,FSC,Ecuador,E2,19,2025-02_dos_iv_fsc_pob_visa_class.xlsx,445
+2025,2,FSC,Ecuador,E3,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,446
+2025,2,FSC,Ecuador,EW,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,447
+2025,2,FSC,Ecuador,F1,43,2025-02_dos_iv_fsc_pob_visa_class.xlsx,448
+2025,2,FSC,Ecuador,F2A,23,2025-02_dos_iv_fsc_pob_visa_class.xlsx,449
+2025,2,FSC,Ecuador,F2B,75,2025-02_dos_iv_fsc_pob_visa_class.xlsx,450
+2025,2,FSC,Ecuador,F3,47,2025-02_dos_iv_fsc_pob_visa_class.xlsx,451
+2025,2,FSC,Ecuador,F4,42,2025-02_dos_iv_fsc_pob_visa_class.xlsx,452
+2025,2,FSC,Ecuador,FX,43,2025-02_dos_iv_fsc_pob_visa_class.xlsx,453
+2025,2,FSC,Ecuador,I5,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,454
+2025,2,FSC,Ecuador,IB1,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,455
+2025,2,FSC,Ecuador,IR1,167,2025-02_dos_iv_fsc_pob_visa_class.xlsx,456
+2025,2,FSC,Ecuador,IR2,86,2025-02_dos_iv_fsc_pob_visa_class.xlsx,457
+2025,2,FSC,Ecuador,IR5,171,2025-02_dos_iv_fsc_pob_visa_class.xlsx,458
+2025,2,FSC,Ecuador,IW,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,459
+2025,2,FSC,Ecuador,SB1,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,460
+2025,2,FSC,Egypt,DV,294,2025-02_dos_iv_fsc_pob_visa_class.xlsx,461
+2025,2,FSC,Egypt,E1,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,462
+2025,2,FSC,Egypt,E2,17,2025-02_dos_iv_fsc_pob_visa_class.xlsx,463
+2025,2,FSC,Egypt,E3,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,464
+2025,2,FSC,Egypt,F1,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,465
+2025,2,FSC,Egypt,F2A,13,2025-02_dos_iv_fsc_pob_visa_class.xlsx,466
+2025,2,FSC,Egypt,F2B,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,467
+2025,2,FSC,Egypt,F3,16,2025-02_dos_iv_fsc_pob_visa_class.xlsx,468
+2025,2,FSC,Egypt,F4,24,2025-02_dos_iv_fsc_pob_visa_class.xlsx,469
+2025,2,FSC,Egypt,FX,38,2025-02_dos_iv_fsc_pob_visa_class.xlsx,470
+2025,2,FSC,Egypt,IR1,61,2025-02_dos_iv_fsc_pob_visa_class.xlsx,471
+2025,2,FSC,Egypt,IR2,28,2025-02_dos_iv_fsc_pob_visa_class.xlsx,472
+2025,2,FSC,Egypt,IR5,48,2025-02_dos_iv_fsc_pob_visa_class.xlsx,473
+2025,2,FSC,El Salvador,CR1,21,2025-02_dos_iv_fsc_pob_visa_class.xlsx,474
+2025,2,FSC,El Salvador,CR2,5,2025-02_dos_iv_fsc_pob_visa_class.xlsx,475
+2025,2,FSC,El Salvador,E3,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,476
+2025,2,FSC,El Salvador,EW,5,2025-02_dos_iv_fsc_pob_visa_class.xlsx,477
+2025,2,FSC,El Salvador,F1,110,2025-02_dos_iv_fsc_pob_visa_class.xlsx,478
+2025,2,FSC,El Salvador,F2A,86,2025-02_dos_iv_fsc_pob_visa_class.xlsx,479
+2025,2,FSC,El Salvador,F2B,91,2025-02_dos_iv_fsc_pob_visa_class.xlsx,480
+2025,2,FSC,El Salvador,F3,55,2025-02_dos_iv_fsc_pob_visa_class.xlsx,481
+2025,2,FSC,El Salvador,F4,26,2025-02_dos_iv_fsc_pob_visa_class.xlsx,482
+2025,2,FSC,El Salvador,FX,219,2025-02_dos_iv_fsc_pob_visa_class.xlsx,483
+2025,2,FSC,El Salvador,GV1,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,484
+2025,2,FSC,El Salvador,GV2,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,485
+2025,2,FSC,El Salvador,GV3,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,486
+2025,2,FSC,El Salvador,IR1,325,2025-02_dos_iv_fsc_pob_visa_class.xlsx,487
+2025,2,FSC,El Salvador,IR2,90,2025-02_dos_iv_fsc_pob_visa_class.xlsx,488
+2025,2,FSC,El Salvador,IR5,158,2025-02_dos_iv_fsc_pob_visa_class.xlsx,489
+2025,2,FSC,El Salvador,IW,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,490
+2025,2,FSC,Equatorial Guinea,IR1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,491
+2025,2,FSC,Eritrea,DV,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,492
+2025,2,FSC,Eritrea,E2,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,493
+2025,2,FSC,Eritrea,F1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,494
+2025,2,FSC,Eritrea,F2A,7,2025-02_dos_iv_fsc_pob_visa_class.xlsx,495
+2025,2,FSC,Eritrea,FX,9,2025-02_dos_iv_fsc_pob_visa_class.xlsx,496
+2025,2,FSC,Eritrea,IR1,22,2025-02_dos_iv_fsc_pob_visa_class.xlsx,497
+2025,2,FSC,Eritrea,IR2,9,2025-02_dos_iv_fsc_pob_visa_class.xlsx,498
+2025,2,FSC,Eritrea,IR5,36,2025-02_dos_iv_fsc_pob_visa_class.xlsx,499
+2025,2,FSC,Eritrea,SE,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,500
+2025,2,FSC,Estonia,E1,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,501
+2025,2,FSC,Estonia,IR1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,502
+2025,2,FSC,Estonia,IR5,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,503
+2025,2,FSC,Ethiopia,CR1,7,2025-02_dos_iv_fsc_pob_visa_class.xlsx,504
+2025,2,FSC,Ethiopia,DV,268,2025-02_dos_iv_fsc_pob_visa_class.xlsx,505
+2025,2,FSC,Ethiopia,E1,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,506
+2025,2,FSC,Ethiopia,F1,25,2025-02_dos_iv_fsc_pob_visa_class.xlsx,507
+2025,2,FSC,Ethiopia,F2A,43,2025-02_dos_iv_fsc_pob_visa_class.xlsx,508
+2025,2,FSC,Ethiopia,F2B,39,2025-02_dos_iv_fsc_pob_visa_class.xlsx,509
+2025,2,FSC,Ethiopia,F3,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,510
+2025,2,FSC,Ethiopia,F4,10,2025-02_dos_iv_fsc_pob_visa_class.xlsx,511
+2025,2,FSC,Ethiopia,FX,85,2025-02_dos_iv_fsc_pob_visa_class.xlsx,512
+2025,2,FSC,Ethiopia,GV1,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,513
+2025,2,FSC,Ethiopia,GV2,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,514
+2025,2,FSC,Ethiopia,GV3,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,515
+2025,2,FSC,Ethiopia,IR1,115,2025-02_dos_iv_fsc_pob_visa_class.xlsx,516
+2025,2,FSC,Ethiopia,IR2,54,2025-02_dos_iv_fsc_pob_visa_class.xlsx,517
+2025,2,FSC,Ethiopia,IR5,74,2025-02_dos_iv_fsc_pob_visa_class.xlsx,518
+2025,2,FSC,Fiji,CR1,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,519
+2025,2,FSC,Fiji,DV,27,2025-02_dos_iv_fsc_pob_visa_class.xlsx,520
+2025,2,FSC,Fiji,F3,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,521
+2025,2,FSC,Fiji,IR1,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,522
+2025,2,FSC,Fiji,IR5,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,523
+2025,2,FSC,Finland,CR1,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,524
+2025,2,FSC,Finland,E1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,525
+2025,2,FSC,Finland,E2,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,526
+2025,2,FSC,Finland,E3,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,527
+2025,2,FSC,Finland,IR2,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,528
+2025,2,FSC,Finland,SB1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,529
+2025,2,FSC,France,CR1,6,2025-02_dos_iv_fsc_pob_visa_class.xlsx,530
+2025,2,FSC,France,DV,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,531
+2025,2,FSC,France,E1,26,2025-02_dos_iv_fsc_pob_visa_class.xlsx,532
+2025,2,FSC,France,E2,5,2025-02_dos_iv_fsc_pob_visa_class.xlsx,533
+2025,2,FSC,France,E3,8,2025-02_dos_iv_fsc_pob_visa_class.xlsx,534
+2025,2,FSC,France,F1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,535
+2025,2,FSC,France,F2A,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,536
+2025,2,FSC,France,F2B,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,537
+2025,2,FSC,France,F4,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,538
+2025,2,FSC,France,I5,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,539
+2025,2,FSC,France,IR1,10,2025-02_dos_iv_fsc_pob_visa_class.xlsx,540
+2025,2,FSC,France,IR2,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,541
+2025,2,FSC,France,IR5,5,2025-02_dos_iv_fsc_pob_visa_class.xlsx,542
+2025,2,FSC,France,SQ3,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,543
+2025,2,FSC,Gabon,DV,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,544
+2025,2,FSC,Gabon,IR1,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,545
+2025,2,FSC,"Gambia, The",CR1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,546
+2025,2,FSC,"Gambia, The",DV,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,547
+2025,2,FSC,"Gambia, The",E2,7,2025-02_dos_iv_fsc_pob_visa_class.xlsx,548
+2025,2,FSC,"Gambia, The",F1,7,2025-02_dos_iv_fsc_pob_visa_class.xlsx,549
+2025,2,FSC,"Gambia, The",F2A,10,2025-02_dos_iv_fsc_pob_visa_class.xlsx,550
+2025,2,FSC,"Gambia, The",F2B,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,551
+2025,2,FSC,"Gambia, The",F3,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,552
+2025,2,FSC,"Gambia, The",FX,9,2025-02_dos_iv_fsc_pob_visa_class.xlsx,553
+2025,2,FSC,"Gambia, The",GV2,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,554
+2025,2,FSC,"Gambia, The",GV3,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,555
+2025,2,FSC,"Gambia, The",IR1,25,2025-02_dos_iv_fsc_pob_visa_class.xlsx,556
+2025,2,FSC,"Gambia, The",IR2,18,2025-02_dos_iv_fsc_pob_visa_class.xlsx,557
+2025,2,FSC,"Gambia, The",IR5,10,2025-02_dos_iv_fsc_pob_visa_class.xlsx,558
+2025,2,FSC,Georgia,CR1,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,559
+2025,2,FSC,Georgia,DV,14,2025-02_dos_iv_fsc_pob_visa_class.xlsx,560
+2025,2,FSC,Georgia,E1,11,2025-02_dos_iv_fsc_pob_visa_class.xlsx,561
+2025,2,FSC,Georgia,F1,5,2025-02_dos_iv_fsc_pob_visa_class.xlsx,562
+2025,2,FSC,Georgia,F2A,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,563
+2025,2,FSC,Georgia,F2B,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,564
+2025,2,FSC,Georgia,F3,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,565
+2025,2,FSC,Georgia,FX,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,566
+2025,2,FSC,Georgia,GV1,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,567
+2025,2,FSC,Georgia,GV2,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,568
+2025,2,FSC,Georgia,GV3,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,569
+2025,2,FSC,Georgia,IR1,39,2025-02_dos_iv_fsc_pob_visa_class.xlsx,570
+2025,2,FSC,Georgia,IR2,51,2025-02_dos_iv_fsc_pob_visa_class.xlsx,571
+2025,2,FSC,Georgia,IR5,66,2025-02_dos_iv_fsc_pob_visa_class.xlsx,572
+2025,2,FSC,Germany,CR1,21,2025-02_dos_iv_fsc_pob_visa_class.xlsx,573
+2025,2,FSC,Germany,CR2,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,574
+2025,2,FSC,Germany,DV,9,2025-02_dos_iv_fsc_pob_visa_class.xlsx,575
+2025,2,FSC,Germany,E1,13,2025-02_dos_iv_fsc_pob_visa_class.xlsx,576
+2025,2,FSC,Germany,E2,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,577
+2025,2,FSC,Germany,E3,5,2025-02_dos_iv_fsc_pob_visa_class.xlsx,578
+2025,2,FSC,Germany,F1,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,579
+2025,2,FSC,Germany,F2A,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,580
+2025,2,FSC,Germany,I5,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,581
+2025,2,FSC,Germany,IR1,30,2025-02_dos_iv_fsc_pob_visa_class.xlsx,582
+2025,2,FSC,Germany,IR2,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,583
+2025,2,FSC,Germany,IR5,6,2025-02_dos_iv_fsc_pob_visa_class.xlsx,584
+2025,2,FSC,Germany,SQ3,8,2025-02_dos_iv_fsc_pob_visa_class.xlsx,585
+2025,2,FSC,Ghana,CR1,6,2025-02_dos_iv_fsc_pob_visa_class.xlsx,586
+2025,2,FSC,Ghana,DV,35,2025-02_dos_iv_fsc_pob_visa_class.xlsx,587
+2025,2,FSC,Ghana,E2,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,588
+2025,2,FSC,Ghana,E3,33,2025-02_dos_iv_fsc_pob_visa_class.xlsx,589
+2025,2,FSC,Ghana,EW,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,590
+2025,2,FSC,Ghana,F1,53,2025-02_dos_iv_fsc_pob_visa_class.xlsx,591
+2025,2,FSC,Ghana,F2A,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,592
+2025,2,FSC,Ghana,F2B,7,2025-02_dos_iv_fsc_pob_visa_class.xlsx,593
+2025,2,FSC,Ghana,F3,21,2025-02_dos_iv_fsc_pob_visa_class.xlsx,594
+2025,2,FSC,Ghana,F4,23,2025-02_dos_iv_fsc_pob_visa_class.xlsx,595
+2025,2,FSC,Ghana,FX,27,2025-02_dos_iv_fsc_pob_visa_class.xlsx,596
+2025,2,FSC,Ghana,IH3,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,597
+2025,2,FSC,Ghana,IR1,117,2025-02_dos_iv_fsc_pob_visa_class.xlsx,598
+2025,2,FSC,Ghana,IR2,130,2025-02_dos_iv_fsc_pob_visa_class.xlsx,599
+2025,2,FSC,Ghana,IR5,34,2025-02_dos_iv_fsc_pob_visa_class.xlsx,600
+2025,2,FSC,Ghana,IW,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,601
+2025,2,FSC,Great Britain and Northern Ireland,CR1,30,2025-02_dos_iv_fsc_pob_visa_class.xlsx,602
+2025,2,FSC,Great Britain and Northern Ireland,CR2,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,603
+2025,2,FSC,Great Britain and Northern Ireland,E1,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,604
+2025,2,FSC,Great Britain and Northern Ireland,E2,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,605
+2025,2,FSC,Great Britain and Northern Ireland,E3,9,2025-02_dos_iv_fsc_pob_visa_class.xlsx,606
+2025,2,FSC,Great Britain and Northern Ireland,F1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,607
+2025,2,FSC,Great Britain and Northern Ireland,F2A,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,608
+2025,2,FSC,Great Britain and Northern Ireland,F3,10,2025-02_dos_iv_fsc_pob_visa_class.xlsx,609
+2025,2,FSC,Great Britain and Northern Ireland,F4,5,2025-02_dos_iv_fsc_pob_visa_class.xlsx,610
+2025,2,FSC,Great Britain and Northern Ireland,FX,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,611
+2025,2,FSC,Great Britain and Northern Ireland,IH3,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,612
+2025,2,FSC,Great Britain and Northern Ireland,IR1,63,2025-02_dos_iv_fsc_pob_visa_class.xlsx,613
+2025,2,FSC,Great Britain and Northern Ireland,IR2,12,2025-02_dos_iv_fsc_pob_visa_class.xlsx,614
+2025,2,FSC,Great Britain and Northern Ireland,IR5,11,2025-02_dos_iv_fsc_pob_visa_class.xlsx,615
+2025,2,FSC,Great Britain and Northern Ireland,IW,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,616
+2025,2,FSC,Great Britain and Northern Ireland,RU1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,617
+2025,2,FSC,Great Britain and Northern Ireland,RU2,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,618
+2025,2,FSC,Great Britain and Northern Ireland,SB1,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,619
+2025,2,FSC,Great Britain and Northern Ireland,SQ3,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,620
+2025,2,FSC,Greece,CR1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,621
+2025,2,FSC,Greece,DV,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,622
+2025,2,FSC,Greece,E1,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,623
+2025,2,FSC,Greece,E3,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,624
+2025,2,FSC,Greece,EW,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,625
+2025,2,FSC,Greece,F2A,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,626
+2025,2,FSC,Greece,F4,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,627
+2025,2,FSC,Greece,IR1,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,628
+2025,2,FSC,Greece,IR2,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,629
+2025,2,FSC,Greece,IR5,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,630
+2025,2,FSC,Grenada,CR1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,631
+2025,2,FSC,Grenada,F1,8,2025-02_dos_iv_fsc_pob_visa_class.xlsx,632
+2025,2,FSC,Grenada,F3,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,633
+2025,2,FSC,Grenada,IR1,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,634
+2025,2,FSC,Grenada,IR2,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,635
+2025,2,FSC,Grenada,IR5,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,636
+2025,2,FSC,Guatemala,CR1,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,637
+2025,2,FSC,Guatemala,CR2,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,638
+2025,2,FSC,Guatemala,E2,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,639
+2025,2,FSC,Guatemala,EW,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,640
+2025,2,FSC,Guatemala,F1,29,2025-02_dos_iv_fsc_pob_visa_class.xlsx,641
+2025,2,FSC,Guatemala,F2A,26,2025-02_dos_iv_fsc_pob_visa_class.xlsx,642
+2025,2,FSC,Guatemala,F2B,27,2025-02_dos_iv_fsc_pob_visa_class.xlsx,643
+2025,2,FSC,Guatemala,F3,12,2025-02_dos_iv_fsc_pob_visa_class.xlsx,644
+2025,2,FSC,Guatemala,F4,12,2025-02_dos_iv_fsc_pob_visa_class.xlsx,645
+2025,2,FSC,Guatemala,FX,66,2025-02_dos_iv_fsc_pob_visa_class.xlsx,646
+2025,2,FSC,Guatemala,GV1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,647
+2025,2,FSC,Guatemala,GV2,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,648
+2025,2,FSC,Guatemala,GV3,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,649
+2025,2,FSC,Guatemala,IB1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,650
+2025,2,FSC,Guatemala,IR1,215,2025-02_dos_iv_fsc_pob_visa_class.xlsx,651
+2025,2,FSC,Guatemala,IR2,49,2025-02_dos_iv_fsc_pob_visa_class.xlsx,652
+2025,2,FSC,Guatemala,IR5,88,2025-02_dos_iv_fsc_pob_visa_class.xlsx,653
+2025,2,FSC,Guatemala,IW,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,654
+2025,2,FSC,Guinea,CR1,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,655
+2025,2,FSC,Guinea,DV,32,2025-02_dos_iv_fsc_pob_visa_class.xlsx,656
+2025,2,FSC,Guinea,F1,6,2025-02_dos_iv_fsc_pob_visa_class.xlsx,657
+2025,2,FSC,Guinea,F2A,16,2025-02_dos_iv_fsc_pob_visa_class.xlsx,658
+2025,2,FSC,Guinea,F2B,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,659
+2025,2,FSC,Guinea,F4,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,660
+2025,2,FSC,Guinea,FX,32,2025-02_dos_iv_fsc_pob_visa_class.xlsx,661
+2025,2,FSC,Guinea,GV2,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,662
+2025,2,FSC,Guinea,GV3,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,663
+2025,2,FSC,Guinea,IR1,27,2025-02_dos_iv_fsc_pob_visa_class.xlsx,664
+2025,2,FSC,Guinea,IR2,28,2025-02_dos_iv_fsc_pob_visa_class.xlsx,665
+2025,2,FSC,Guinea,IR5,22,2025-02_dos_iv_fsc_pob_visa_class.xlsx,666
+2025,2,FSC,Guinea-Bissau,IR1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,667
+2025,2,FSC,Guyana,CR1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,668
+2025,2,FSC,Guyana,DV,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,669
+2025,2,FSC,Guyana,F1,21,2025-02_dos_iv_fsc_pob_visa_class.xlsx,670
+2025,2,FSC,Guyana,F2A,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,671
+2025,2,FSC,Guyana,F2B,11,2025-02_dos_iv_fsc_pob_visa_class.xlsx,672
+2025,2,FSC,Guyana,F3,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,673
+2025,2,FSC,Guyana,F4,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,674
+2025,2,FSC,Guyana,FX,6,2025-02_dos_iv_fsc_pob_visa_class.xlsx,675
+2025,2,FSC,Guyana,IR1,15,2025-02_dos_iv_fsc_pob_visa_class.xlsx,676
+2025,2,FSC,Guyana,IR2,9,2025-02_dos_iv_fsc_pob_visa_class.xlsx,677
+2025,2,FSC,Guyana,IR5,24,2025-02_dos_iv_fsc_pob_visa_class.xlsx,678
+2025,2,FSC,Guyana,IW,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,679
+2025,2,FSC,Haiti,CR1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,680
+2025,2,FSC,Haiti,F1,28,2025-02_dos_iv_fsc_pob_visa_class.xlsx,681
+2025,2,FSC,Haiti,F2A,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,682
+2025,2,FSC,Haiti,F2B,28,2025-02_dos_iv_fsc_pob_visa_class.xlsx,683
+2025,2,FSC,Haiti,F3,21,2025-02_dos_iv_fsc_pob_visa_class.xlsx,684
+2025,2,FSC,Haiti,F4,17,2025-02_dos_iv_fsc_pob_visa_class.xlsx,685
+2025,2,FSC,Haiti,FX,52,2025-02_dos_iv_fsc_pob_visa_class.xlsx,686
+2025,2,FSC,Haiti,GV1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,687
+2025,2,FSC,Haiti,GV2,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,688
+2025,2,FSC,Haiti,GV3,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,689
+2025,2,FSC,Haiti,IB1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,690
+2025,2,FSC,Haiti,IH3,6,2025-02_dos_iv_fsc_pob_visa_class.xlsx,691
+2025,2,FSC,Haiti,IR1,62,2025-02_dos_iv_fsc_pob_visa_class.xlsx,692
+2025,2,FSC,Haiti,IR2,77,2025-02_dos_iv_fsc_pob_visa_class.xlsx,693
+2025,2,FSC,Haiti,IR5,44,2025-02_dos_iv_fsc_pob_visa_class.xlsx,694
+2025,2,FSC,Haiti,IW,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,695
+2025,2,FSC,Haiti,SR,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,696
+2025,2,FSC,Honduras,C5,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,697
+2025,2,FSC,Honduras,CR1,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,698
+2025,2,FSC,Honduras,CR2,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,699
+2025,2,FSC,Honduras,E2,6,2025-02_dos_iv_fsc_pob_visa_class.xlsx,700
+2025,2,FSC,Honduras,E3,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,701
+2025,2,FSC,Honduras,EW,5,2025-02_dos_iv_fsc_pob_visa_class.xlsx,702
+2025,2,FSC,Honduras,F1,44,2025-02_dos_iv_fsc_pob_visa_class.xlsx,703
+2025,2,FSC,Honduras,F2A,12,2025-02_dos_iv_fsc_pob_visa_class.xlsx,704
+2025,2,FSC,Honduras,F2B,32,2025-02_dos_iv_fsc_pob_visa_class.xlsx,705
+2025,2,FSC,Honduras,F3,9,2025-02_dos_iv_fsc_pob_visa_class.xlsx,706
+2025,2,FSC,Honduras,F4,22,2025-02_dos_iv_fsc_pob_visa_class.xlsx,707
+2025,2,FSC,Honduras,FX,64,2025-02_dos_iv_fsc_pob_visa_class.xlsx,708
+2025,2,FSC,Honduras,GV1,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,709
+2025,2,FSC,Honduras,GV2,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,710
+2025,2,FSC,Honduras,GV3,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,711
+2025,2,FSC,Honduras,IH3,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,712
+2025,2,FSC,Honduras,IR1,190,2025-02_dos_iv_fsc_pob_visa_class.xlsx,713
+2025,2,FSC,Honduras,IR2,79,2025-02_dos_iv_fsc_pob_visa_class.xlsx,714
+2025,2,FSC,Honduras,IR5,75,2025-02_dos_iv_fsc_pob_visa_class.xlsx,715
+2025,2,FSC,Honduras,SU,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,716
+2025,2,FSC,Hong Kong S.A.R.,CR1,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,717
+2025,2,FSC,Hong Kong S.A.R.,E1,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,718
+2025,2,FSC,Hong Kong S.A.R.,F1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,719
+2025,2,FSC,Hong Kong S.A.R.,F2B,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,720
+2025,2,FSC,Hong Kong S.A.R.,F3,7,2025-02_dos_iv_fsc_pob_visa_class.xlsx,721
+2025,2,FSC,Hong Kong S.A.R.,F4,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,722
+2025,2,FSC,Hong Kong S.A.R.,I5,8,2025-02_dos_iv_fsc_pob_visa_class.xlsx,723
+2025,2,FSC,Hong Kong S.A.R.,IH4,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,724
+2025,2,FSC,Hong Kong S.A.R.,IR1,5,2025-02_dos_iv_fsc_pob_visa_class.xlsx,725
+2025,2,FSC,Hong Kong S.A.R.,IR2,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,726
+2025,2,FSC,Hong Kong S.A.R.,IR5,5,2025-02_dos_iv_fsc_pob_visa_class.xlsx,727
+2025,2,FSC,Hong Kong S.A.R.,RH1,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,728
+2025,2,FSC,Hong Kong S.A.R.,RH3,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,729
+2025,2,FSC,Hungary,CR1,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,730
+2025,2,FSC,Hungary,E1,5,2025-02_dos_iv_fsc_pob_visa_class.xlsx,731
+2025,2,FSC,Hungary,IH3,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,732
+2025,2,FSC,Hungary,IR1,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,733
+2025,2,FSC,Iceland,IR1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,734
+2025,2,FSC,India,CR1,98,2025-02_dos_iv_fsc_pob_visa_class.xlsx,735
+2025,2,FSC,India,CR2,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,736
+2025,2,FSC,India,E1,34,2025-02_dos_iv_fsc_pob_visa_class.xlsx,737
+2025,2,FSC,India,E2,16,2025-02_dos_iv_fsc_pob_visa_class.xlsx,738
+2025,2,FSC,India,E3,49,2025-02_dos_iv_fsc_pob_visa_class.xlsx,739
+2025,2,FSC,India,F1,9,2025-02_dos_iv_fsc_pob_visa_class.xlsx,740
+2025,2,FSC,India,F2A,13,2025-02_dos_iv_fsc_pob_visa_class.xlsx,741
+2025,2,FSC,India,F2B,22,2025-02_dos_iv_fsc_pob_visa_class.xlsx,742
+2025,2,FSC,India,F3,322,2025-02_dos_iv_fsc_pob_visa_class.xlsx,743
+2025,2,FSC,India,F4,737,2025-02_dos_iv_fsc_pob_visa_class.xlsx,744
+2025,2,FSC,India,FX,8,2025-02_dos_iv_fsc_pob_visa_class.xlsx,745
+2025,2,FSC,India,GV1,6,2025-02_dos_iv_fsc_pob_visa_class.xlsx,746
+2025,2,FSC,India,GV2,10,2025-02_dos_iv_fsc_pob_visa_class.xlsx,747
+2025,2,FSC,India,GV3,19,2025-02_dos_iv_fsc_pob_visa_class.xlsx,748
+2025,2,FSC,India,I5,93,2025-02_dos_iv_fsc_pob_visa_class.xlsx,749
+2025,2,FSC,India,IH3,20,2025-02_dos_iv_fsc_pob_visa_class.xlsx,750
+2025,2,FSC,India,IR1,159,2025-02_dos_iv_fsc_pob_visa_class.xlsx,751
+2025,2,FSC,India,IR2,28,2025-02_dos_iv_fsc_pob_visa_class.xlsx,752
+2025,2,FSC,India,IR5,634,2025-02_dos_iv_fsc_pob_visa_class.xlsx,753
+2025,2,FSC,India,IW,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,754
+2025,2,FSC,India,RH1,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,755
+2025,2,FSC,India,RH2,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,756
+2025,2,FSC,India,RH3,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,757
+2025,2,FSC,India,RR1,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,758
+2025,2,FSC,India,RR2,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,759
+2025,2,FSC,India,RR3,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,760
+2025,2,FSC,India,SD,11,2025-02_dos_iv_fsc_pob_visa_class.xlsx,761
+2025,2,FSC,India,T5,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,762
+2025,2,FSC,Indonesia,CR1,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,763
+2025,2,FSC,Indonesia,DV,6,2025-02_dos_iv_fsc_pob_visa_class.xlsx,764
+2025,2,FSC,Indonesia,E2,8,2025-02_dos_iv_fsc_pob_visa_class.xlsx,765
+2025,2,FSC,Indonesia,E3,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,766
+2025,2,FSC,Indonesia,F1,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,767
+2025,2,FSC,Indonesia,F3,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,768
+2025,2,FSC,Indonesia,F4,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,769
+2025,2,FSC,Indonesia,FX,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,770
+2025,2,FSC,Indonesia,IR1,7,2025-02_dos_iv_fsc_pob_visa_class.xlsx,771
+2025,2,FSC,Indonesia,IR2,9,2025-02_dos_iv_fsc_pob_visa_class.xlsx,772
+2025,2,FSC,Indonesia,IR5,10,2025-02_dos_iv_fsc_pob_visa_class.xlsx,773
+2025,2,FSC,Iran,CR1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,774
+2025,2,FSC,Iran,DV,126,2025-02_dos_iv_fsc_pob_visa_class.xlsx,775
+2025,2,FSC,Iran,E1,6,2025-02_dos_iv_fsc_pob_visa_class.xlsx,776
+2025,2,FSC,Iran,E2,24,2025-02_dos_iv_fsc_pob_visa_class.xlsx,777
+2025,2,FSC,Iran,E3,6,2025-02_dos_iv_fsc_pob_visa_class.xlsx,778
+2025,2,FSC,Iran,EW,9,2025-02_dos_iv_fsc_pob_visa_class.xlsx,779
+2025,2,FSC,Iran,F1,13,2025-02_dos_iv_fsc_pob_visa_class.xlsx,780
+2025,2,FSC,Iran,F2B,13,2025-02_dos_iv_fsc_pob_visa_class.xlsx,781
+2025,2,FSC,Iran,F3,37,2025-02_dos_iv_fsc_pob_visa_class.xlsx,782
+2025,2,FSC,Iran,F4,44,2025-02_dos_iv_fsc_pob_visa_class.xlsx,783
+2025,2,FSC,Iran,FX,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,784
+2025,2,FSC,Iran,IR1,24,2025-02_dos_iv_fsc_pob_visa_class.xlsx,785
+2025,2,FSC,Iran,IR2,7,2025-02_dos_iv_fsc_pob_visa_class.xlsx,786
+2025,2,FSC,Iran,IR5,188,2025-02_dos_iv_fsc_pob_visa_class.xlsx,787
+2025,2,FSC,Iran,RR1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,788
+2025,2,FSC,Iraq,CR1,32,2025-02_dos_iv_fsc_pob_visa_class.xlsx,789
+2025,2,FSC,Iraq,DV,11,2025-02_dos_iv_fsc_pob_visa_class.xlsx,790
+2025,2,FSC,Iraq,E2,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,791
+2025,2,FSC,Iraq,EW,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,792
+2025,2,FSC,Iraq,F1,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,793
+2025,2,FSC,Iraq,F2B,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,794
+2025,2,FSC,Iraq,F3,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,795
+2025,2,FSC,Iraq,F4,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,796
+2025,2,FSC,Iraq,FX,14,2025-02_dos_iv_fsc_pob_visa_class.xlsx,797
+2025,2,FSC,Iraq,IR1,117,2025-02_dos_iv_fsc_pob_visa_class.xlsx,798
+2025,2,FSC,Iraq,IR2,16,2025-02_dos_iv_fsc_pob_visa_class.xlsx,799
+2025,2,FSC,Iraq,IR5,141,2025-02_dos_iv_fsc_pob_visa_class.xlsx,800
+2025,2,FSC,Iraq,IW,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,801
+2025,2,FSC,Iraq,SI1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,802
+2025,2,FSC,Iraq,SI2,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,803
+2025,2,FSC,Iraq,SQ1,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,804
+2025,2,FSC,Iraq,SQ2,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,805
+2025,2,FSC,Iraq,SQ3,10,2025-02_dos_iv_fsc_pob_visa_class.xlsx,806
+2025,2,FSC,Ireland,CR1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,807
+2025,2,FSC,Ireland,DV,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,808
+2025,2,FSC,Ireland,E1,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,809
+2025,2,FSC,Ireland,E2,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,810
+2025,2,FSC,Ireland,IR1,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,811
+2025,2,FSC,Ireland,IR2,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,812
+2025,2,FSC,Ireland,IR5,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,813
+2025,2,FSC,Israel,CR1,9,2025-02_dos_iv_fsc_pob_visa_class.xlsx,814
+2025,2,FSC,Israel,E1,6,2025-02_dos_iv_fsc_pob_visa_class.xlsx,815
+2025,2,FSC,Israel,F3,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,816
+2025,2,FSC,Israel,F4,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,817
+2025,2,FSC,Israel,FX,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,818
+2025,2,FSC,Israel,GV1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,819
+2025,2,FSC,Israel,GV2,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,820
+2025,2,FSC,Israel,GV3,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,821
+2025,2,FSC,Israel,I5,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,822
+2025,2,FSC,Israel,IR1,29,2025-02_dos_iv_fsc_pob_visa_class.xlsx,823
+2025,2,FSC,Israel,IR2,26,2025-02_dos_iv_fsc_pob_visa_class.xlsx,824
+2025,2,FSC,Israel,IR5,18,2025-02_dos_iv_fsc_pob_visa_class.xlsx,825
+2025,2,FSC,Italy,CR1,14,2025-02_dos_iv_fsc_pob_visa_class.xlsx,826
+2025,2,FSC,Italy,CR2,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,827
+2025,2,FSC,Italy,DV,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,828
+2025,2,FSC,Italy,E1,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,829
+2025,2,FSC,Italy,E2,5,2025-02_dos_iv_fsc_pob_visa_class.xlsx,830
+2025,2,FSC,Italy,E3,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,831
+2025,2,FSC,Italy,F2A,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,832
+2025,2,FSC,Italy,F3,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,833
+2025,2,FSC,Italy,F4,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,834
+2025,2,FSC,Italy,FX,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,835
+2025,2,FSC,Italy,IR1,13,2025-02_dos_iv_fsc_pob_visa_class.xlsx,836
+2025,2,FSC,Italy,IR2,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,837
+2025,2,FSC,Italy,IR5,6,2025-02_dos_iv_fsc_pob_visa_class.xlsx,838
+2025,2,FSC,Italy,SB1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,839
+2025,2,FSC,Jamaica,CR1,33,2025-02_dos_iv_fsc_pob_visa_class.xlsx,840
+2025,2,FSC,Jamaica,CR2,21,2025-02_dos_iv_fsc_pob_visa_class.xlsx,841
+2025,2,FSC,Jamaica,E3,14,2025-02_dos_iv_fsc_pob_visa_class.xlsx,842
+2025,2,FSC,Jamaica,F1,144,2025-02_dos_iv_fsc_pob_visa_class.xlsx,843
+2025,2,FSC,Jamaica,F2A,31,2025-02_dos_iv_fsc_pob_visa_class.xlsx,844
+2025,2,FSC,Jamaica,F2B,41,2025-02_dos_iv_fsc_pob_visa_class.xlsx,845
+2025,2,FSC,Jamaica,F3,47,2025-02_dos_iv_fsc_pob_visa_class.xlsx,846
+2025,2,FSC,Jamaica,F4,14,2025-02_dos_iv_fsc_pob_visa_class.xlsx,847
+2025,2,FSC,Jamaica,FX,39,2025-02_dos_iv_fsc_pob_visa_class.xlsx,848
+2025,2,FSC,Jamaica,IB1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,849
+2025,2,FSC,Jamaica,IB2,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,850
+2025,2,FSC,Jamaica,IR1,145,2025-02_dos_iv_fsc_pob_visa_class.xlsx,851
+2025,2,FSC,Jamaica,IR2,225,2025-02_dos_iv_fsc_pob_visa_class.xlsx,852
+2025,2,FSC,Jamaica,IR5,236,2025-02_dos_iv_fsc_pob_visa_class.xlsx,853
+2025,2,FSC,Jamaica,IW,6,2025-02_dos_iv_fsc_pob_visa_class.xlsx,854
+2025,2,FSC,Jamaica,SB1,5,2025-02_dos_iv_fsc_pob_visa_class.xlsx,855
+2025,2,FSC,Japan,CR1,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,856
+2025,2,FSC,Japan,DV,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,857
+2025,2,FSC,Japan,E1,9,2025-02_dos_iv_fsc_pob_visa_class.xlsx,858
+2025,2,FSC,Japan,E2,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,859
+2025,2,FSC,Japan,E3,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,860
+2025,2,FSC,Japan,F2A,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,861
+2025,2,FSC,Japan,FX,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,862
+2025,2,FSC,Japan,IR1,65,2025-02_dos_iv_fsc_pob_visa_class.xlsx,863
+2025,2,FSC,Japan,IR2,7,2025-02_dos_iv_fsc_pob_visa_class.xlsx,864
+2025,2,FSC,Japan,IR5,5,2025-02_dos_iv_fsc_pob_visa_class.xlsx,865
+2025,2,FSC,Jordan,CR1,81,2025-02_dos_iv_fsc_pob_visa_class.xlsx,866
+2025,2,FSC,Jordan,CR2,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,867
+2025,2,FSC,Jordan,DV,12,2025-02_dos_iv_fsc_pob_visa_class.xlsx,868
+2025,2,FSC,Jordan,E2,5,2025-02_dos_iv_fsc_pob_visa_class.xlsx,869
+2025,2,FSC,Jordan,E3,20,2025-02_dos_iv_fsc_pob_visa_class.xlsx,870
+2025,2,FSC,Jordan,F1,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,871
+2025,2,FSC,Jordan,F2A,5,2025-02_dos_iv_fsc_pob_visa_class.xlsx,872
+2025,2,FSC,Jordan,F2B,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,873
+2025,2,FSC,Jordan,F3,47,2025-02_dos_iv_fsc_pob_visa_class.xlsx,874
+2025,2,FSC,Jordan,F4,45,2025-02_dos_iv_fsc_pob_visa_class.xlsx,875
+2025,2,FSC,Jordan,FX,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,876
+2025,2,FSC,Jordan,I5,6,2025-02_dos_iv_fsc_pob_visa_class.xlsx,877
+2025,2,FSC,Jordan,IR1,140,2025-02_dos_iv_fsc_pob_visa_class.xlsx,878
+2025,2,FSC,Jordan,IR2,103,2025-02_dos_iv_fsc_pob_visa_class.xlsx,879
+2025,2,FSC,Jordan,IR4,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,880
+2025,2,FSC,Jordan,IR5,110,2025-02_dos_iv_fsc_pob_visa_class.xlsx,881
+2025,2,FSC,Jordan,IW,5,2025-02_dos_iv_fsc_pob_visa_class.xlsx,882
+2025,2,FSC,Jordan,SQ3,5,2025-02_dos_iv_fsc_pob_visa_class.xlsx,883
+2025,2,FSC,Kazakhstan,CR1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,884
+2025,2,FSC,Kazakhstan,DV,100,2025-02_dos_iv_fsc_pob_visa_class.xlsx,885
+2025,2,FSC,Kazakhstan,E1,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,886
+2025,2,FSC,Kazakhstan,E3,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,887
+2025,2,FSC,Kazakhstan,F2A,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,888
+2025,2,FSC,Kazakhstan,F2B,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,889
+2025,2,FSC,Kazakhstan,F3,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,890
+2025,2,FSC,Kazakhstan,IR1,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,891
+2025,2,FSC,Kazakhstan,IR2,6,2025-02_dos_iv_fsc_pob_visa_class.xlsx,892
+2025,2,FSC,Kazakhstan,IR5,12,2025-02_dos_iv_fsc_pob_visa_class.xlsx,893
+2025,2,FSC,Kenya,CR1,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,894
+2025,2,FSC,Kenya,DV,16,2025-02_dos_iv_fsc_pob_visa_class.xlsx,895
+2025,2,FSC,Kenya,E1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,896
+2025,2,FSC,Kenya,E2,18,2025-02_dos_iv_fsc_pob_visa_class.xlsx,897
+2025,2,FSC,Kenya,E3,53,2025-02_dos_iv_fsc_pob_visa_class.xlsx,898
+2025,2,FSC,Kenya,F1,30,2025-02_dos_iv_fsc_pob_visa_class.xlsx,899
+2025,2,FSC,Kenya,F2A,12,2025-02_dos_iv_fsc_pob_visa_class.xlsx,900
+2025,2,FSC,Kenya,F2B,11,2025-02_dos_iv_fsc_pob_visa_class.xlsx,901
+2025,2,FSC,Kenya,F3,5,2025-02_dos_iv_fsc_pob_visa_class.xlsx,902
+2025,2,FSC,Kenya,F4,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,903
+2025,2,FSC,Kenya,FX,31,2025-02_dos_iv_fsc_pob_visa_class.xlsx,904
+2025,2,FSC,Kenya,GV1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,905
+2025,2,FSC,Kenya,GV2,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,906
+2025,2,FSC,Kenya,GV3,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,907
+2025,2,FSC,Kenya,IB1,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,908
+2025,2,FSC,Kenya,IR1,160,2025-02_dos_iv_fsc_pob_visa_class.xlsx,909
+2025,2,FSC,Kenya,IR2,184,2025-02_dos_iv_fsc_pob_visa_class.xlsx,910
+2025,2,FSC,Kenya,IR5,126,2025-02_dos_iv_fsc_pob_visa_class.xlsx,911
+2025,2,FSC,Kenya,IW,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,912
+2025,2,FSC,"Korea, South",CR1,25,2025-02_dos_iv_fsc_pob_visa_class.xlsx,913
+2025,2,FSC,"Korea, South",CR2,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,914
+2025,2,FSC,"Korea, South",E1,11,2025-02_dos_iv_fsc_pob_visa_class.xlsx,915
+2025,2,FSC,"Korea, South",E2,99,2025-02_dos_iv_fsc_pob_visa_class.xlsx,916
+2025,2,FSC,"Korea, South",E3,17,2025-02_dos_iv_fsc_pob_visa_class.xlsx,917
+2025,2,FSC,"Korea, South",EW,13,2025-02_dos_iv_fsc_pob_visa_class.xlsx,918
+2025,2,FSC,"Korea, South",F1,6,2025-02_dos_iv_fsc_pob_visa_class.xlsx,919
+2025,2,FSC,"Korea, South",F2B,8,2025-02_dos_iv_fsc_pob_visa_class.xlsx,920
+2025,2,FSC,"Korea, South",F3,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,921
+2025,2,FSC,"Korea, South",F4,5,2025-02_dos_iv_fsc_pob_visa_class.xlsx,922
+2025,2,FSC,"Korea, South",FX,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,923
+2025,2,FSC,"Korea, South",GV1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,924
+2025,2,FSC,"Korea, South",GV2,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,925
+2025,2,FSC,"Korea, South",GV3,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,926
+2025,2,FSC,"Korea, South",I5,24,2025-02_dos_iv_fsc_pob_visa_class.xlsx,927
+2025,2,FSC,"Korea, South",IR1,32,2025-02_dos_iv_fsc_pob_visa_class.xlsx,928
+2025,2,FSC,"Korea, South",IR2,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,929
+2025,2,FSC,"Korea, South",IR5,60,2025-02_dos_iv_fsc_pob_visa_class.xlsx,930
+2025,2,FSC,Kosovo,CR1,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,931
+2025,2,FSC,Kosovo,EW,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,932
+2025,2,FSC,Kosovo,IR1,6,2025-02_dos_iv_fsc_pob_visa_class.xlsx,933
+2025,2,FSC,Kosovo,IR5,6,2025-02_dos_iv_fsc_pob_visa_class.xlsx,934
+2025,2,FSC,Kuwait,CR1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,935
+2025,2,FSC,Kuwait,E3,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,936
+2025,2,FSC,Kuwait,F1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,937
+2025,2,FSC,Kuwait,F3,15,2025-02_dos_iv_fsc_pob_visa_class.xlsx,938
+2025,2,FSC,Kuwait,F4,9,2025-02_dos_iv_fsc_pob_visa_class.xlsx,939
+2025,2,FSC,Kuwait,IR1,11,2025-02_dos_iv_fsc_pob_visa_class.xlsx,940
+2025,2,FSC,Kuwait,IR2,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,941
+2025,2,FSC,Kuwait,IR5,12,2025-02_dos_iv_fsc_pob_visa_class.xlsx,942
+2025,2,FSC,Kyrgyzstan,CR1,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,943
+2025,2,FSC,Kyrgyzstan,DV,123,2025-02_dos_iv_fsc_pob_visa_class.xlsx,944
+2025,2,FSC,Kyrgyzstan,E2,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,945
+2025,2,FSC,Kyrgyzstan,E3,5,2025-02_dos_iv_fsc_pob_visa_class.xlsx,946
+2025,2,FSC,Kyrgyzstan,F2A,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,947
+2025,2,FSC,Kyrgyzstan,F4,6,2025-02_dos_iv_fsc_pob_visa_class.xlsx,948
+2025,2,FSC,Kyrgyzstan,GV1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,949
+2025,2,FSC,Kyrgyzstan,GV2,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,950
+2025,2,FSC,Kyrgyzstan,GV3,5,2025-02_dos_iv_fsc_pob_visa_class.xlsx,951
+2025,2,FSC,Kyrgyzstan,IR1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,952
+2025,2,FSC,Kyrgyzstan,IR5,8,2025-02_dos_iv_fsc_pob_visa_class.xlsx,953
+2025,2,FSC,Laos,CR1,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,954
+2025,2,FSC,Laos,F3,6,2025-02_dos_iv_fsc_pob_visa_class.xlsx,955
+2025,2,FSC,Laos,FX,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,956
+2025,2,FSC,Laos,IR1,5,2025-02_dos_iv_fsc_pob_visa_class.xlsx,957
+2025,2,FSC,Laos,IR2,8,2025-02_dos_iv_fsc_pob_visa_class.xlsx,958
+2025,2,FSC,Laos,IR5,13,2025-02_dos_iv_fsc_pob_visa_class.xlsx,959
+2025,2,FSC,Latvia,DV,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,960
+2025,2,FSC,Latvia,E1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,961
+2025,2,FSC,Latvia,IR1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,962
+2025,2,FSC,Lebanon,CR1,16,2025-02_dos_iv_fsc_pob_visa_class.xlsx,963
+2025,2,FSC,Lebanon,E2,6,2025-02_dos_iv_fsc_pob_visa_class.xlsx,964
+2025,2,FSC,Lebanon,E3,7,2025-02_dos_iv_fsc_pob_visa_class.xlsx,965
+2025,2,FSC,Lebanon,F2A,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,966
+2025,2,FSC,Lebanon,F2B,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,967
+2025,2,FSC,Lebanon,F3,6,2025-02_dos_iv_fsc_pob_visa_class.xlsx,968
+2025,2,FSC,Lebanon,F4,16,2025-02_dos_iv_fsc_pob_visa_class.xlsx,969
+2025,2,FSC,Lebanon,FX,5,2025-02_dos_iv_fsc_pob_visa_class.xlsx,970
+2025,2,FSC,Lebanon,GV1,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,971
+2025,2,FSC,Lebanon,GV2,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,972
+2025,2,FSC,Lebanon,GV3,6,2025-02_dos_iv_fsc_pob_visa_class.xlsx,973
+2025,2,FSC,Lebanon,I5,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,974
+2025,2,FSC,Lebanon,IR1,19,2025-02_dos_iv_fsc_pob_visa_class.xlsx,975
+2025,2,FSC,Lebanon,IR2,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,976
+2025,2,FSC,Lebanon,IR5,51,2025-02_dos_iv_fsc_pob_visa_class.xlsx,977
+2025,2,FSC,Liberia,CR1,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,978
+2025,2,FSC,Liberia,DV,73,2025-02_dos_iv_fsc_pob_visa_class.xlsx,979
+2025,2,FSC,Liberia,E2,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,980
+2025,2,FSC,Liberia,F1,35,2025-02_dos_iv_fsc_pob_visa_class.xlsx,981
+2025,2,FSC,Liberia,F2A,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,982
+2025,2,FSC,Liberia,F2B,6,2025-02_dos_iv_fsc_pob_visa_class.xlsx,983
+2025,2,FSC,Liberia,F3,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,984
+2025,2,FSC,Liberia,FX,35,2025-02_dos_iv_fsc_pob_visa_class.xlsx,985
+2025,2,FSC,Liberia,IR1,61,2025-02_dos_iv_fsc_pob_visa_class.xlsx,986
+2025,2,FSC,Liberia,IR2,107,2025-02_dos_iv_fsc_pob_visa_class.xlsx,987
+2025,2,FSC,Liberia,IR3,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,988
+2025,2,FSC,Liberia,IR5,73,2025-02_dos_iv_fsc_pob_visa_class.xlsx,989
+2025,2,FSC,Libya,DV,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,990
+2025,2,FSC,Libya,F3,6,2025-02_dos_iv_fsc_pob_visa_class.xlsx,991
+2025,2,FSC,Libya,F4,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,992
+2025,2,FSC,Libya,FX,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,993
+2025,2,FSC,Libya,IR1,8,2025-02_dos_iv_fsc_pob_visa_class.xlsx,994
+2025,2,FSC,Libya,IR2,10,2025-02_dos_iv_fsc_pob_visa_class.xlsx,995
+2025,2,FSC,Libya,IR5,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,996
+2025,2,FSC,Lithuania,E1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,997
+2025,2,FSC,Lithuania,F1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,998
+2025,2,FSC,Lithuania,F2B,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,999
+2025,2,FSC,Lithuania,IR1,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1000
+2025,2,FSC,Lithuania,IR5,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1001
+2025,2,FSC,Macau,F2B,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1002
+2025,2,FSC,Macau,IR5,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1003
+2025,2,FSC,Madagascar,CR1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1004
+2025,2,FSC,Madagascar,DV,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1005
+2025,2,FSC,Madagascar,GV1,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1006
+2025,2,FSC,Madagascar,GV2,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1007
+2025,2,FSC,Madagascar,GV3,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1008
+2025,2,FSC,Madagascar,IR1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1009
+2025,2,FSC,Malawi,CR1,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1010
+2025,2,FSC,Malawi,EW,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1011
+2025,2,FSC,Malawi,F1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1012
+2025,2,FSC,Malawi,GV3,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1013
+2025,2,FSC,Malawi,IR5,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1014
+2025,2,FSC,Malaysia,CR1,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1015
+2025,2,FSC,Malaysia,DV,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1016
+2025,2,FSC,Malaysia,E3,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1017
+2025,2,FSC,Malaysia,EW,5,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1018
+2025,2,FSC,Malaysia,F3,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1019
+2025,2,FSC,Malaysia,F4,13,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1020
+2025,2,FSC,Malaysia,IB2,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1021
+2025,2,FSC,Malaysia,IR1,6,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1022
+2025,2,FSC,Malaysia,IR5,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1023
+2025,2,FSC,Mali,DV,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1024
+2025,2,FSC,Mali,F1,6,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1025
+2025,2,FSC,Mali,F2A,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1026
+2025,2,FSC,Mali,FX,8,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1027
+2025,2,FSC,Mali,IR1,6,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1028
+2025,2,FSC,Mali,IR2,12,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1029
+2025,2,FSC,Mali,IR5,5,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1030
+2025,2,FSC,Malta,IR2,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1031
+2025,2,FSC,Mauritania,DV,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1032
+2025,2,FSC,Mauritania,F2A,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1033
+2025,2,FSC,Mauritania,IR1,6,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1034
+2025,2,FSC,Mauritania,IR2,7,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1035
+2025,2,FSC,Mauritania,IR5,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1036
+2025,2,FSC,Mauritius,IR1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1037
+2025,2,FSC,Mauritius,IR5,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1038
+2025,2,FSC,Mexico,BX,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1039
+2025,2,FSC,Mexico,CR1,6,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1040
+2025,2,FSC,Mexico,CR2,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1041
+2025,2,FSC,Mexico,E1,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1042
+2025,2,FSC,Mexico,E2,15,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1043
+2025,2,FSC,Mexico,E3,27,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1044
+2025,2,FSC,Mexico,EW,90,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1045
+2025,2,FSC,Mexico,F1,145,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1046
+2025,2,FSC,Mexico,F2B,42,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1047
+2025,2,FSC,Mexico,F3,156,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1048
+2025,2,FSC,Mexico,F4,156,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1049
+2025,2,FSC,Mexico,FX,2019,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1050
+2025,2,FSC,Mexico,GV1,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1051
+2025,2,FSC,Mexico,GV2,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1052
+2025,2,FSC,Mexico,I5,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1053
+2025,2,FSC,Mexico,IH3,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1054
+2025,2,FSC,Mexico,IR1,1838,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1055
+2025,2,FSC,Mexico,IR2,715,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1056
+2025,2,FSC,Mexico,IR5,1198,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1057
+2025,2,FSC,Mexico,IW,31,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1058
+2025,2,FSC,Mexico,SU,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1059
+2025,2,FSC,Moldova,CR1,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1060
+2025,2,FSC,Moldova,DV,8,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1061
+2025,2,FSC,Moldova,E1,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1062
+2025,2,FSC,Moldova,F1,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1063
+2025,2,FSC,Moldova,F2A,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1064
+2025,2,FSC,Moldova,F3,7,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1065
+2025,2,FSC,Moldova,FX,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1066
+2025,2,FSC,Moldova,IR1,5,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1067
+2025,2,FSC,Moldova,IR2,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1068
+2025,2,FSC,Moldova,IR5,18,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1069
+2025,2,FSC,Monaco,E2,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1070
+2025,2,FSC,Mongolia,CR1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1071
+2025,2,FSC,Mongolia,CR2,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1072
+2025,2,FSC,Mongolia,F1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1073
+2025,2,FSC,Mongolia,IR1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1074
+2025,2,FSC,Mongolia,IR2,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1075
+2025,2,FSC,Mongolia,IR5,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1076
+2025,2,FSC,Mongolia,SB1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1077
+2025,2,FSC,Montenegro,CR1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1078
+2025,2,FSC,Montenegro,DV,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1079
+2025,2,FSC,Montenegro,IR5,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1080
+2025,2,FSC,Morocco,CR1,36,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1081
+2025,2,FSC,Morocco,CR2,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1082
+2025,2,FSC,Morocco,DV,24,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1083
+2025,2,FSC,Morocco,E2,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1084
+2025,2,FSC,Morocco,F1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1085
+2025,2,FSC,Morocco,F2A,7,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1086
+2025,2,FSC,Morocco,F2B,5,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1087
+2025,2,FSC,Morocco,F3,6,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1088
+2025,2,FSC,Morocco,F4,10,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1089
+2025,2,FSC,Morocco,FX,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1090
+2025,2,FSC,Morocco,IR1,88,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1091
+2025,2,FSC,Morocco,IR2,10,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1092
+2025,2,FSC,Morocco,IR4,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1093
+2025,2,FSC,Morocco,IR5,82,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1094
+2025,2,FSC,Morocco,IW,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1095
+2025,2,FSC,Morocco,SB1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1096
+2025,2,FSC,Mozambique,IR1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1097
+2025,2,FSC,Mozambique,IR2,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1098
+2025,2,FSC,Namibia,E3,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1099
+2025,2,FSC,Namibia,F3,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1100
+2025,2,FSC,Namibia,IR2,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1101
+2025,2,FSC,Nauru,IR1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1102
+2025,2,FSC,Nauru,IR2,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1103
+2025,2,FSC,Nepal,CR1,47,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1104
+2025,2,FSC,Nepal,DV,394,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1105
+2025,2,FSC,Nepal,E2,9,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1106
+2025,2,FSC,Nepal,E3,37,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1107
+2025,2,FSC,Nepal,EW,5,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1108
+2025,2,FSC,Nepal,F1,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1109
+2025,2,FSC,Nepal,F2A,19,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1110
+2025,2,FSC,Nepal,F3,11,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1111
+2025,2,FSC,Nepal,F4,6,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1112
+2025,2,FSC,Nepal,FX,5,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1113
+2025,2,FSC,Nepal,GV2,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1114
+2025,2,FSC,Nepal,IR1,77,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1115
+2025,2,FSC,Nepal,IR2,9,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1116
+2025,2,FSC,Nepal,IR5,173,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1117
+2025,2,FSC,Nepal,SB1,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1118
+2025,2,FSC,Netherlands,CR1,5,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1119
+2025,2,FSC,Netherlands,E1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1120
+2025,2,FSC,Netherlands,E2,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1121
+2025,2,FSC,Netherlands,F3,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1122
+2025,2,FSC,Netherlands,FX,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1123
+2025,2,FSC,Netherlands,I5,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1124
+2025,2,FSC,Netherlands,IR1,10,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1125
+2025,2,FSC,Netherlands,IR5,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1126
+2025,2,FSC,New Zealand,CR1,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1127
+2025,2,FSC,New Zealand,DV,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1128
+2025,2,FSC,New Zealand,E3,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1129
+2025,2,FSC,New Zealand,IR1,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1130
+2025,2,FSC,Nicaragua,CR1,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1131
+2025,2,FSC,Nicaragua,DV,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1132
+2025,2,FSC,Nicaragua,E2,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1133
+2025,2,FSC,Nicaragua,F1,9,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1134
+2025,2,FSC,Nicaragua,F2A,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1135
+2025,2,FSC,Nicaragua,F2B,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1136
+2025,2,FSC,Nicaragua,F3,7,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1137
+2025,2,FSC,Nicaragua,F4,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1138
+2025,2,FSC,Nicaragua,FX,5,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1139
+2025,2,FSC,Nicaragua,GV1,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1140
+2025,2,FSC,Nicaragua,GV2,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1141
+2025,2,FSC,Nicaragua,GV3,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1142
+2025,2,FSC,Nicaragua,IB1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1143
+2025,2,FSC,Nicaragua,IR1,31,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1144
+2025,2,FSC,Nicaragua,IR2,35,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1145
+2025,2,FSC,Nicaragua,IR5,12,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1146
+2025,2,FSC,Nicaragua,IW,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1147
+2025,2,FSC,Nicaragua,SB1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1148
+2025,2,FSC,Nigeria,CR1,14,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1149
+2025,2,FSC,Nigeria,E1,11,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1150
+2025,2,FSC,Nigeria,E2,38,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1151
+2025,2,FSC,Nigeria,E3,29,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1152
+2025,2,FSC,Nigeria,EW,5,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1153
+2025,2,FSC,Nigeria,F1,72,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1154
+2025,2,FSC,Nigeria,F2B,27,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1155
+2025,2,FSC,Nigeria,F3,92,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1156
+2025,2,FSC,Nigeria,F4,215,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1157
+2025,2,FSC,Nigeria,FX,7,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1158
+2025,2,FSC,Nigeria,GV1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1159
+2025,2,FSC,Nigeria,GV2,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1160
+2025,2,FSC,Nigeria,GV3,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1161
+2025,2,FSC,Nigeria,I5,5,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1162
+2025,2,FSC,Nigeria,IB1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1163
+2025,2,FSC,Nigeria,IR1,153,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1164
+2025,2,FSC,Nigeria,IR2,184,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1165
+2025,2,FSC,Nigeria,IR3,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1166
+2025,2,FSC,Nigeria,IR5,157,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1167
+2025,2,FSC,Nigeria,IW,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1168
+2025,2,FSC,Nigeria,SB1,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1169
+2025,2,FSC,Nigeria,SD,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1170
+2025,2,FSC,North Macedonia,DV,8,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1171
+2025,2,FSC,North Macedonia,EW,5,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1172
+2025,2,FSC,North Macedonia,GV1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1173
+2025,2,FSC,North Macedonia,GV2,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1174
+2025,2,FSC,North Macedonia,GV3,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1175
+2025,2,FSC,North Macedonia,IR1,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1176
+2025,2,FSC,North Macedonia,IR2,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1177
+2025,2,FSC,North Macedonia,IR5,17,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1178
+2025,2,FSC,Norway,E2,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1179
+2025,2,FSC,Norway,E3,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1180
+2025,2,FSC,Norway,IR1,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1181
+2025,2,FSC,Norway,IR5,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1182
+2025,2,FSC,Oman,DV,5,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1183
+2025,2,FSC,Oman,E3,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1184
+2025,2,FSC,Pakistan,CR1,33,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1185
+2025,2,FSC,Pakistan,CR2,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1186
+2025,2,FSC,Pakistan,E1,5,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1187
+2025,2,FSC,Pakistan,E2,96,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1188
+2025,2,FSC,Pakistan,E3,30,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1189
+2025,2,FSC,Pakistan,EW,7,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1190
+2025,2,FSC,Pakistan,F1,17,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1191
+2025,2,FSC,Pakistan,F2A,12,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1192
+2025,2,FSC,Pakistan,F2B,8,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1193
+2025,2,FSC,Pakistan,F3,81,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1194
+2025,2,FSC,Pakistan,F4,358,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1195
+2025,2,FSC,Pakistan,FX,14,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1196
+2025,2,FSC,Pakistan,I5,6,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1197
+2025,2,FSC,Pakistan,IR1,540,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1198
+2025,2,FSC,Pakistan,IR2,109,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1199
+2025,2,FSC,Pakistan,IR5,520,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1200
+2025,2,FSC,Pakistan,IW,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1201
+2025,2,FSC,Pakistan,SB1,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1202
+2025,2,FSC,Pakistan,SQ3,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1203
+2025,2,FSC,Palau,E3,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1204
+2025,2,FSC,Panama,CR1,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1205
+2025,2,FSC,Panama,DV,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1206
+2025,2,FSC,Panama,E2,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1207
+2025,2,FSC,Panama,E3,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1208
+2025,2,FSC,Panama,F1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1209
+2025,2,FSC,Panama,F3,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1210
+2025,2,FSC,Panama,FX,5,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1211
+2025,2,FSC,Panama,IR1,14,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1212
+2025,2,FSC,Panama,IR2,10,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1213
+2025,2,FSC,Panama,IR5,15,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1214
+2025,2,FSC,Papua New Guinea,DV,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1215
+2025,2,FSC,Paraguay,F1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1216
+2025,2,FSC,Paraguay,IR1,6,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1217
+2025,2,FSC,Paraguay,IR2,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1218
+2025,2,FSC,Paraguay,IR5,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1219
+2025,2,FSC,Peru,B2A,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1220
+2025,2,FSC,Peru,CR1,12,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1221
+2025,2,FSC,Peru,CR2,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1222
+2025,2,FSC,Peru,DV,65,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1223
+2025,2,FSC,Peru,E1,9,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1224
+2025,2,FSC,Peru,E2,26,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1225
+2025,2,FSC,Peru,E3,16,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1226
+2025,2,FSC,Peru,F1,61,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1227
+2025,2,FSC,Peru,F2A,34,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1228
+2025,2,FSC,Peru,F2B,42,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1229
+2025,2,FSC,Peru,F3,34,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1230
+2025,2,FSC,Peru,F4,56,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1231
+2025,2,FSC,Peru,FX,23,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1232
+2025,2,FSC,Peru,I5,10,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1233
+2025,2,FSC,Peru,IR1,62,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1234
+2025,2,FSC,Peru,IR2,39,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1235
+2025,2,FSC,Peru,IR5,151,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1236
+2025,2,FSC,Peru,SB1,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1237
+2025,2,FSC,Philippines,B2A,5,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1238
+2025,2,FSC,Philippines,CR1,58,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1239
+2025,2,FSC,Philippines,CR2,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1240
+2025,2,FSC,Philippines,E1,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1241
+2025,2,FSC,Philippines,E3,624,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1242
+2025,2,FSC,Philippines,EW,190,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1243
+2025,2,FSC,Philippines,F1,169,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1244
+2025,2,FSC,Philippines,F2A,27,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1245
+2025,2,FSC,Philippines,F2B,104,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1246
+2025,2,FSC,Philippines,F3,125,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1247
+2025,2,FSC,Philippines,F4,395,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1248
+2025,2,FSC,Philippines,FX,155,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1249
+2025,2,FSC,Philippines,GV1,6,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1250
+2025,2,FSC,Philippines,GV2,5,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1251
+2025,2,FSC,Philippines,GV3,6,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1252
+2025,2,FSC,Philippines,I5,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1253
+2025,2,FSC,Philippines,IB1,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1254
+2025,2,FSC,Philippines,IH4,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1255
+2025,2,FSC,Philippines,IR1,344,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1256
+2025,2,FSC,Philippines,IR2,153,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1257
+2025,2,FSC,Philippines,IR5,1176,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1258
+2025,2,FSC,Philippines,IW,6,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1259
+2025,2,FSC,Philippines,SB1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1260
+2025,2,FSC,Poland,CR1,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1261
+2025,2,FSC,Poland,DV,17,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1262
+2025,2,FSC,Poland,E3,6,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1263
+2025,2,FSC,Poland,EW,6,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1264
+2025,2,FSC,Poland,F1,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1265
+2025,2,FSC,Poland,F2B,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1266
+2025,2,FSC,Poland,F3,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1267
+2025,2,FSC,Poland,F4,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1268
+2025,2,FSC,Poland,IR1,10,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1269
+2025,2,FSC,Poland,IR2,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1270
+2025,2,FSC,Poland,IR5,8,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1271
+2025,2,FSC,Poland,SB1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1272
+2025,2,FSC,Portugal,CR1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1273
+2025,2,FSC,Portugal,DV,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1274
+2025,2,FSC,Portugal,E3,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1275
+2025,2,FSC,Portugal,F1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1276
+2025,2,FSC,Portugal,F2B,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1277
+2025,2,FSC,Portugal,IR1,7,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1278
+2025,2,FSC,Portugal,IR2,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1279
+2025,2,FSC,Portugal,IR5,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1280
+2025,2,FSC,Qatar,CR1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1281
+2025,2,FSC,Qatar,DV,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1282
+2025,2,FSC,Qatar,E3,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1283
+2025,2,FSC,Qatar,F2A,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1284
+2025,2,FSC,Qatar,IR1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1285
+2025,2,FSC,Qatar,IR2,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1286
+2025,2,FSC,Qatar,IR5,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1287
+2025,2,FSC,Romania,CR1,5,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1288
+2025,2,FSC,Romania,DV,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1289
+2025,2,FSC,Romania,E1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1290
+2025,2,FSC,Romania,E2,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1291
+2025,2,FSC,Romania,E3,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1292
+2025,2,FSC,Romania,F1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1293
+2025,2,FSC,Romania,F3,7,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1294
+2025,2,FSC,Romania,IR1,5,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1295
+2025,2,FSC,Romania,IR2,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1296
+2025,2,FSC,Romania,IR5,10,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1297
+2025,2,FSC,Romania,SB1,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1298
+2025,2,FSC,Russia,CR1,6,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1299
+2025,2,FSC,Russia,CR2,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1300
+2025,2,FSC,Russia,DV,205,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1301
+2025,2,FSC,Russia,E1,39,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1302
+2025,2,FSC,Russia,E2,9,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1303
+2025,2,FSC,Russia,E3,14,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1304
+2025,2,FSC,Russia,EW,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1305
+2025,2,FSC,Russia,F1,5,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1306
+2025,2,FSC,Russia,F2A,6,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1307
+2025,2,FSC,Russia,F2B,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1308
+2025,2,FSC,Russia,F3,11,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1309
+2025,2,FSC,Russia,FX,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1310
+2025,2,FSC,Russia,GV1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1311
+2025,2,FSC,Russia,GV2,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1312
+2025,2,FSC,Russia,GV3,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1313
+2025,2,FSC,Russia,I5,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1314
+2025,2,FSC,Russia,IR1,34,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1315
+2025,2,FSC,Russia,IR2,19,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1316
+2025,2,FSC,Russia,IR5,68,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1317
+2025,2,FSC,Russia,SB1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1318
+2025,2,FSC,Rwanda,DV,20,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1319
+2025,2,FSC,Rwanda,F1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1320
+2025,2,FSC,Rwanda,F2A,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1321
+2025,2,FSC,Rwanda,GV1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1322
+2025,2,FSC,Rwanda,GV3,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1323
+2025,2,FSC,Rwanda,IH3,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1324
+2025,2,FSC,Rwanda,IR1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1325
+2025,2,FSC,Rwanda,IR2,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1326
+2025,2,FSC,Rwanda,IR5,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1327
+2025,2,FSC,Saint Kitts and Nevis,E3,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1328
+2025,2,FSC,Saint Kitts and Nevis,F1,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1329
+2025,2,FSC,Saint Kitts and Nevis,F2A,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1330
+2025,2,FSC,Saint Kitts and Nevis,F3,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1331
+2025,2,FSC,Saint Kitts and Nevis,IR5,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1332
+2025,2,FSC,Saint Lucia,CR1,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1333
+2025,2,FSC,Saint Lucia,CR2,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1334
+2025,2,FSC,Saint Lucia,F1,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1335
+2025,2,FSC,Saint Lucia,F2B,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1336
+2025,2,FSC,Saint Lucia,F4,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1337
+2025,2,FSC,Saint Lucia,FX,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1338
+2025,2,FSC,Saint Lucia,IR1,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1339
+2025,2,FSC,Saint Lucia,IR2,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1340
+2025,2,FSC,Saint Lucia,IR5,9,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1341
+2025,2,FSC,Saint Maarten,CR1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1342
+2025,2,FSC,Saint Maarten,E3,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1343
+2025,2,FSC,Saint Martin,FX,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1344
+2025,2,FSC,Saint Vincent and the Grenadines,E3,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1345
+2025,2,FSC,Saint Vincent and the Grenadines,F4,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1346
+2025,2,FSC,Saint Vincent and the Grenadines,IR1,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1347
+2025,2,FSC,Saint Vincent and the Grenadines,IR2,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1348
+2025,2,FSC,Saint Vincent and the Grenadines,IR5,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1349
+2025,2,FSC,Samoa,IR5,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1350
+2025,2,FSC,Saudi Arabia,CR1,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1351
+2025,2,FSC,Saudi Arabia,DV,14,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1352
+2025,2,FSC,Saudi Arabia,E2,8,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1353
+2025,2,FSC,Saudi Arabia,E3,7,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1354
+2025,2,FSC,Saudi Arabia,EW,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1355
+2025,2,FSC,Saudi Arabia,F2A,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1356
+2025,2,FSC,Saudi Arabia,F2B,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1357
+2025,2,FSC,Saudi Arabia,F3,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1358
+2025,2,FSC,Saudi Arabia,F4,6,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1359
+2025,2,FSC,Saudi Arabia,FX,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1360
+2025,2,FSC,Saudi Arabia,IR1,31,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1361
+2025,2,FSC,Saudi Arabia,IR2,15,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1362
+2025,2,FSC,Saudi Arabia,IR5,11,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1363
+2025,2,FSC,Senegal,CR1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1364
+2025,2,FSC,Senegal,DV,8,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1365
+2025,2,FSC,Senegal,F1,5,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1366
+2025,2,FSC,Senegal,F2A,6,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1367
+2025,2,FSC,Senegal,F2B,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1368
+2025,2,FSC,Senegal,F4,5,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1369
+2025,2,FSC,Senegal,FX,24,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1370
+2025,2,FSC,Senegal,GV1,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1371
+2025,2,FSC,Senegal,GV2,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1372
+2025,2,FSC,Senegal,GV3,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1373
+2025,2,FSC,Senegal,IR1,23,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1374
+2025,2,FSC,Senegal,IR2,37,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1375
+2025,2,FSC,Senegal,IR5,16,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1376
+2025,2,FSC,Serbia,DV,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1377
+2025,2,FSC,Serbia,F2A,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1378
+2025,2,FSC,Serbia,F2B,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1379
+2025,2,FSC,Serbia,F3,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1380
+2025,2,FSC,Serbia,IR1,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1381
+2025,2,FSC,Serbia,IR2,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1382
+2025,2,FSC,Serbia,IR5,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1383
+2025,2,FSC,Sierra Leone,CR1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1384
+2025,2,FSC,Sierra Leone,DV,20,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1385
+2025,2,FSC,Sierra Leone,F1,14,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1386
+2025,2,FSC,Sierra Leone,F2A,10,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1387
+2025,2,FSC,Sierra Leone,F2B,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1388
+2025,2,FSC,Sierra Leone,F4,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1389
+2025,2,FSC,Sierra Leone,FX,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1390
+2025,2,FSC,Sierra Leone,IR1,9,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1391
+2025,2,FSC,Sierra Leone,IR2,8,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1392
+2025,2,FSC,Sierra Leone,IR5,5,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1393
+2025,2,FSC,Singapore,CR1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1394
+2025,2,FSC,Singapore,E1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1395
+2025,2,FSC,Singapore,I5,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1396
+2025,2,FSC,Singapore,IR1,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1397
+2025,2,FSC,Singapore,IR2,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1398
+2025,2,FSC,Singapore,RR3,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1399
+2025,2,FSC,Slovakia,E2,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1400
+2025,2,FSC,Slovakia,IR5,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1401
+2025,2,FSC,Slovenia,E1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1402
+2025,2,FSC,Slovenia,SB1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1403
+2025,2,FSC,Somalia,CR1,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1404
+2025,2,FSC,Somalia,DV,10,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1405
+2025,2,FSC,Somalia,F1,7,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1406
+2025,2,FSC,Somalia,F2A,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1407
+2025,2,FSC,Somalia,F3,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1408
+2025,2,FSC,Somalia,FX,18,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1409
+2025,2,FSC,Somalia,IR1,95,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1410
+2025,2,FSC,Somalia,IR2,87,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1411
+2025,2,FSC,Somalia,IR5,29,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1412
+2025,2,FSC,South Africa,CR1,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1413
+2025,2,FSC,South Africa,CR2,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1414
+2025,2,FSC,South Africa,E1,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1415
+2025,2,FSC,South Africa,E2,7,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1416
+2025,2,FSC,South Africa,E3,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1417
+2025,2,FSC,South Africa,EW,6,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1418
+2025,2,FSC,South Africa,F3,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1419
+2025,2,FSC,South Africa,F4,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1420
+2025,2,FSC,South Africa,I5,35,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1421
+2025,2,FSC,South Africa,IH3,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1422
+2025,2,FSC,South Africa,IR1,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1423
+2025,2,FSC,South Africa,IR2,7,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1424
+2025,2,FSC,South Africa,IR5,15,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1425
+2025,2,FSC,South Africa,RR1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1426
+2025,2,FSC,South Africa,RR2,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1427
+2025,2,FSC,South Africa,SK,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1428
+2025,2,FSC,South Sudan,GV1,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1429
+2025,2,FSC,South Sudan,IR1,11,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1430
+2025,2,FSC,South Sudan,IR2,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1431
+2025,2,FSC,South Sudan,IR5,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1432
+2025,2,FSC,Spain,CR1,6,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1433
+2025,2,FSC,Spain,E1,8,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1434
+2025,2,FSC,Spain,E2,5,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1435
+2025,2,FSC,Spain,E3,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1436
+2025,2,FSC,Spain,F2A,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1437
+2025,2,FSC,Spain,F3,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1438
+2025,2,FSC,Spain,FX,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1439
+2025,2,FSC,Spain,IB1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1440
+2025,2,FSC,Spain,IR1,13,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1441
+2025,2,FSC,Spain,IR2,6,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1442
+2025,2,FSC,Spain,IR5,5,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1443
+2025,2,FSC,Sri Lanka,CR1,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1444
+2025,2,FSC,Sri Lanka,DV,54,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1445
+2025,2,FSC,Sri Lanka,E1,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1446
+2025,2,FSC,Sri Lanka,E2,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1447
+2025,2,FSC,Sri Lanka,E3,16,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1448
+2025,2,FSC,Sri Lanka,EW,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1449
+2025,2,FSC,Sri Lanka,F2A,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1450
+2025,2,FSC,Sri Lanka,F3,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1451
+2025,2,FSC,Sri Lanka,F4,8,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1452
+2025,2,FSC,Sri Lanka,GV1,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1453
+2025,2,FSC,Sri Lanka,GV2,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1454
+2025,2,FSC,Sri Lanka,GV3,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1455
+2025,2,FSC,Sri Lanka,IH3,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1456
+2025,2,FSC,Sri Lanka,IR1,15,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1457
+2025,2,FSC,Sri Lanka,IR2,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1458
+2025,2,FSC,Sri Lanka,IR5,11,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1459
+2025,2,FSC,Sudan,CR1,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1460
+2025,2,FSC,Sudan,DV,179,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1461
+2025,2,FSC,Sudan,F2A,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1462
+2025,2,FSC,Sudan,F2B,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1463
+2025,2,FSC,Sudan,F3,8,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1464
+2025,2,FSC,Sudan,F4,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1465
+2025,2,FSC,Sudan,FX,13,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1466
+2025,2,FSC,Sudan,GV1,9,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1467
+2025,2,FSC,Sudan,GV2,7,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1468
+2025,2,FSC,Sudan,GV3,31,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1469
+2025,2,FSC,Sudan,IR1,43,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1470
+2025,2,FSC,Sudan,IR2,27,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1471
+2025,2,FSC,Sudan,IR5,58,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1472
+2025,2,FSC,Suriname,F3,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1473
+2025,2,FSC,Suriname,IR2,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1474
+2025,2,FSC,Suriname,IR5,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1475
+2025,2,FSC,Sweden,E1,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1476
+2025,2,FSC,Sweden,E2,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1477
+2025,2,FSC,Sweden,IR1,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1478
+2025,2,FSC,Sweden,IR2,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1479
+2025,2,FSC,Sweden,RH1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1480
+2025,2,FSC,Sweden,SB1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1481
+2025,2,FSC,Switzerland,CR1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1482
+2025,2,FSC,Switzerland,DV,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1483
+2025,2,FSC,Switzerland,F1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1484
+2025,2,FSC,Switzerland,IR1,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1485
+2025,2,FSC,Switzerland,RH1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1486
+2025,2,FSC,Switzerland,RH2,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1487
+2025,2,FSC,Syria,CR1,7,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1488
+2025,2,FSC,Syria,CR2,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1489
+2025,2,FSC,Syria,DV,10,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1490
+2025,2,FSC,Syria,E3,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1491
+2025,2,FSC,Syria,F1,8,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1492
+2025,2,FSC,Syria,F2A,6,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1493
+2025,2,FSC,Syria,F2B,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1494
+2025,2,FSC,Syria,F3,13,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1495
+2025,2,FSC,Syria,F4,11,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1496
+2025,2,FSC,Syria,FX,7,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1497
+2025,2,FSC,Syria,GV1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1498
+2025,2,FSC,Syria,IR1,22,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1499
+2025,2,FSC,Syria,IR2,6,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1500
+2025,2,FSC,Syria,IR5,125,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1501
+2025,2,FSC,Taiwan,CR1,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1502
+2025,2,FSC,Taiwan,DV,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1503
+2025,2,FSC,Taiwan,E1,6,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1504
+2025,2,FSC,Taiwan,E2,15,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1505
+2025,2,FSC,Taiwan,E3,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1506
+2025,2,FSC,Taiwan,F1,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1507
+2025,2,FSC,Taiwan,F2A,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1508
+2025,2,FSC,Taiwan,F2B,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1509
+2025,2,FSC,Taiwan,F3,7,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1510
+2025,2,FSC,Taiwan,F4,7,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1511
+2025,2,FSC,Taiwan,I5,65,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1512
+2025,2,FSC,Taiwan,IR1,14,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1513
+2025,2,FSC,Taiwan,IR2,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1514
+2025,2,FSC,Taiwan,IR3,8,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1515
+2025,2,FSC,Taiwan,IR5,36,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1516
+2025,2,FSC,Taiwan,RH1,8,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1517
+2025,2,FSC,Taiwan,RH2,5,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1518
+2025,2,FSC,Taiwan,RH3,11,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1519
+2025,2,FSC,Taiwan,RU1,6,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1520
+2025,2,FSC,Taiwan,RU2,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1521
+2025,2,FSC,Taiwan,RU3,10,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1522
+2025,2,FSC,Taiwan,SB1,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1523
+2025,2,FSC,Tajikistan,DV,121,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1524
+2025,2,FSC,Tajikistan,F2B,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1525
+2025,2,FSC,Tajikistan,FX,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1526
+2025,2,FSC,Tajikistan,IR1,5,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1527
+2025,2,FSC,Tajikistan,IR5,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1528
+2025,2,FSC,Tanzania,CR1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1529
+2025,2,FSC,Tanzania,DV,7,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1530
+2025,2,FSC,Tanzania,E2,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1531
+2025,2,FSC,Tanzania,F2A,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1532
+2025,2,FSC,Tanzania,F2B,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1533
+2025,2,FSC,Tanzania,FX,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1534
+2025,2,FSC,Tanzania,GV1,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1535
+2025,2,FSC,Tanzania,GV2,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1536
+2025,2,FSC,Tanzania,GV3,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1537
+2025,2,FSC,Tanzania,IR1,5,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1538
+2025,2,FSC,Tanzania,IR2,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1539
+2025,2,FSC,Tanzania,IR5,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1540
+2025,2,FSC,Thailand,CR1,18,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1541
+2025,2,FSC,Thailand,CR2,5,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1542
+2025,2,FSC,Thailand,DV,6,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1543
+2025,2,FSC,Thailand,E2,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1544
+2025,2,FSC,Thailand,E3,15,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1545
+2025,2,FSC,Thailand,EW,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1546
+2025,2,FSC,Thailand,F1,5,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1547
+2025,2,FSC,Thailand,F2A,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1548
+2025,2,FSC,Thailand,F2B,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1549
+2025,2,FSC,Thailand,F4,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1550
+2025,2,FSC,Thailand,FX,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1551
+2025,2,FSC,Thailand,GV1,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1552
+2025,2,FSC,Thailand,GV2,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1553
+2025,2,FSC,Thailand,I5,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1554
+2025,2,FSC,Thailand,IR1,37,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1555
+2025,2,FSC,Thailand,IR2,23,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1556
+2025,2,FSC,Thailand,IR5,24,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1557
+2025,2,FSC,Thailand,IW,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1558
+2025,2,FSC,Togo,CR1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1559
+2025,2,FSC,Togo,DV,84,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1560
+2025,2,FSC,Togo,F1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1561
+2025,2,FSC,Togo,F2A,19,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1562
+2025,2,FSC,Togo,F2B,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1563
+2025,2,FSC,Togo,F4,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1564
+2025,2,FSC,Togo,FX,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1565
+2025,2,FSC,Togo,IR1,9,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1566
+2025,2,FSC,Togo,IR2,13,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1567
+2025,2,FSC,Togo,IR5,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1568
+2025,2,FSC,Tonga,IR1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1569
+2025,2,FSC,Trinidad and Tobago,CR1,6,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1570
+2025,2,FSC,Trinidad and Tobago,CR2,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1571
+2025,2,FSC,Trinidad and Tobago,E1,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1572
+2025,2,FSC,Trinidad and Tobago,E2,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1573
+2025,2,FSC,Trinidad and Tobago,F1,11,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1574
+2025,2,FSC,Trinidad and Tobago,F3,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1575
+2025,2,FSC,Trinidad and Tobago,F4,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1576
+2025,2,FSC,Trinidad and Tobago,IR1,11,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1577
+2025,2,FSC,Trinidad and Tobago,IR2,13,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1578
+2025,2,FSC,Trinidad and Tobago,IR5,23,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1579
+2025,2,FSC,Trinidad and Tobago,SB1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1580
+2025,2,FSC,Tunisia,CR1,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1581
+2025,2,FSC,Tunisia,DV,5,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1582
+2025,2,FSC,Tunisia,FX,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1583
+2025,2,FSC,Tunisia,GV1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1584
+2025,2,FSC,Tunisia,IR1,6,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1585
+2025,2,FSC,Tunisia,IR5,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1586
+2025,2,FSC,Turkey,CR1,12,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1587
+2025,2,FSC,Turkey,DV,119,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1588
+2025,2,FSC,Turkey,E1,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1589
+2025,2,FSC,Turkey,E2,15,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1590
+2025,2,FSC,Turkey,E3,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1591
+2025,2,FSC,Turkey,F1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1592
+2025,2,FSC,Turkey,F2A,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1593
+2025,2,FSC,Turkey,F3,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1594
+2025,2,FSC,Turkey,F4,10,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1595
+2025,2,FSC,Turkey,FX,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1596
+2025,2,FSC,Turkey,GV1,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1597
+2025,2,FSC,Turkey,GV2,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1598
+2025,2,FSC,Turkey,GV3,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1599
+2025,2,FSC,Turkey,I5,9,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1600
+2025,2,FSC,Turkey,IB2,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1601
+2025,2,FSC,Turkey,IR1,33,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1602
+2025,2,FSC,Turkey,IR2,12,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1603
+2025,2,FSC,Turkey,IR5,44,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1604
+2025,2,FSC,Turkey,SQ3,13,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1605
+2025,2,FSC,Turkmenistan,DV,77,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1606
+2025,2,FSC,Turkmenistan,E1,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1607
+2025,2,FSC,Turkmenistan,F1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1608
+2025,2,FSC,Turkmenistan,IR1,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1609
+2025,2,FSC,Turks and Caicos Islands,CR2,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1610
+2025,2,FSC,Turks and Caicos Islands,E3,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1611
+2025,2,FSC,Turks and Caicos Islands,IR2,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1612
+2025,2,FSC,Uganda,CR1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1613
+2025,2,FSC,Uganda,DV,12,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1614
+2025,2,FSC,Uganda,E2,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1615
+2025,2,FSC,Uganda,E3,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1616
+2025,2,FSC,Uganda,F1,11,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1617
+2025,2,FSC,Uganda,F2A,6,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1618
+2025,2,FSC,Uganda,F2B,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1619
+2025,2,FSC,Uganda,FX,14,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1620
+2025,2,FSC,Uganda,GV1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1621
+2025,2,FSC,Uganda,GV2,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1622
+2025,2,FSC,Uganda,IR1,28,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1623
+2025,2,FSC,Uganda,IR2,44,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1624
+2025,2,FSC,Uganda,IR3,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1625
+2025,2,FSC,Uganda,IR5,20,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1626
+2025,2,FSC,Ukraine,CR1,10,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1627
+2025,2,FSC,Ukraine,CR2,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1628
+2025,2,FSC,Ukraine,DV,58,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1629
+2025,2,FSC,Ukraine,E1,6,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1630
+2025,2,FSC,Ukraine,E2,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1631
+2025,2,FSC,Ukraine,E3,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1632
+2025,2,FSC,Ukraine,F1,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1633
+2025,2,FSC,Ukraine,F3,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1634
+2025,2,FSC,Ukraine,F4,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1635
+2025,2,FSC,Ukraine,IR1,8,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1636
+2025,2,FSC,Ukraine,IR2,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1637
+2025,2,FSC,Ukraine,IR5,43,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1638
+2025,2,FSC,United Arab Emirates,CR1,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1639
+2025,2,FSC,United Arab Emirates,CR2,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1640
+2025,2,FSC,United Arab Emirates,DV,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1641
+2025,2,FSC,United Arab Emirates,E2,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1642
+2025,2,FSC,United Arab Emirates,E3,51,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1643
+2025,2,FSC,United Arab Emirates,EW,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1644
+2025,2,FSC,United Arab Emirates,F1,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1645
+2025,2,FSC,United Arab Emirates,F2A,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1646
+2025,2,FSC,United Arab Emirates,FX,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1647
+2025,2,FSC,United Arab Emirates,GV3,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1648
+2025,2,FSC,United Arab Emirates,I5,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1649
+2025,2,FSC,United Arab Emirates,IR1,12,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1650
+2025,2,FSC,United Arab Emirates,IR2,6,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1651
+2025,2,FSC,United Arab Emirates,SQ3,9,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1652
+2025,2,FSC,Uruguay,CR1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1653
+2025,2,FSC,Uruguay,E1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1654
+2025,2,FSC,Uruguay,E2,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1655
+2025,2,FSC,Uruguay,E3,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1656
+2025,2,FSC,Uruguay,IR2,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1657
+2025,2,FSC,Uruguay,IR5,7,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1658
+2025,2,FSC,Uzbekistan,CR1,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1659
+2025,2,FSC,Uzbekistan,DV,303,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1660
+2025,2,FSC,Uzbekistan,E1,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1661
+2025,2,FSC,Uzbekistan,E3,14,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1662
+2025,2,FSC,Uzbekistan,F2A,10,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1663
+2025,2,FSC,Uzbekistan,F2B,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1664
+2025,2,FSC,Uzbekistan,F3,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1665
+2025,2,FSC,Uzbekistan,FX,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1666
+2025,2,FSC,Uzbekistan,IR1,28,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1667
+2025,2,FSC,Uzbekistan,IR2,7,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1668
+2025,2,FSC,Uzbekistan,IR5,31,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1669
+2025,2,FSC,Venezuela,CR1,5,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1670
+2025,2,FSC,Venezuela,E1,6,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1671
+2025,2,FSC,Venezuela,E2,19,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1672
+2025,2,FSC,Venezuela,E3,8,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1673
+2025,2,FSC,Venezuela,F1,11,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1674
+2025,2,FSC,Venezuela,F2A,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1675
+2025,2,FSC,Venezuela,F2B,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1676
+2025,2,FSC,Venezuela,F3,8,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1677
+2025,2,FSC,Venezuela,F4,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1678
+2025,2,FSC,Venezuela,FX,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1679
+2025,2,FSC,Venezuela,I5,6,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1680
+2025,2,FSC,Venezuela,IR1,14,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1681
+2025,2,FSC,Venezuela,IR2,13,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1682
+2025,2,FSC,Venezuela,IR5,53,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1683
+2025,2,FSC,Vietnam,C5,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1684
+2025,2,FSC,Vietnam,CR1,147,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1685
+2025,2,FSC,Vietnam,CR2,26,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1686
+2025,2,FSC,Vietnam,E2,5,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1687
+2025,2,FSC,Vietnam,E3,6,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1688
+2025,2,FSC,Vietnam,EW,45,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1689
+2025,2,FSC,Vietnam,F1,64,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1690
+2025,2,FSC,Vietnam,F2A,20,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1691
+2025,2,FSC,Vietnam,F2B,230,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1692
+2025,2,FSC,Vietnam,F3,299,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1693
+2025,2,FSC,Vietnam,F4,78,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1694
+2025,2,FSC,Vietnam,FX,34,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1695
+2025,2,FSC,Vietnam,GV1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1696
+2025,2,FSC,Vietnam,GV2,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1697
+2025,2,FSC,Vietnam,GV3,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1698
+2025,2,FSC,Vietnam,I5,84,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1699
+2025,2,FSC,Vietnam,IR1,179,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1700
+2025,2,FSC,Vietnam,IR2,83,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1701
+2025,2,FSC,Vietnam,IR5,522,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1702
+2025,2,FSC,Vietnam,IW,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1703
+2025,2,FSC,Vietnam,RR1,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1704
+2025,2,FSC,Vietnam,RR2,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1705
+2025,2,FSC,Vietnam,RR3,12,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1706
+2025,2,FSC,Vietnam,RU1,5,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1707
+2025,2,FSC,Vietnam,RU2,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1708
+2025,2,FSC,Vietnam,RU3,8,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1709
+2025,2,FSC,Vietnam,SB1,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1710
+2025,2,FSC,Yemen,CR1,5,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1711
+2025,2,FSC,Yemen,DV,44,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1712
+2025,2,FSC,Yemen,E2,5,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1713
+2025,2,FSC,Yemen,F1,24,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1714
+2025,2,FSC,Yemen,F2A,69,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1715
+2025,2,FSC,Yemen,F2B,10,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1716
+2025,2,FSC,Yemen,F3,64,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1717
+2025,2,FSC,Yemen,F4,23,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1718
+2025,2,FSC,Yemen,FX,194,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1719
+2025,2,FSC,Yemen,GV1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1720
+2025,2,FSC,Yemen,GV2,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1721
+2025,2,FSC,Yemen,GV3,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1722
+2025,2,FSC,Yemen,IR1,323,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1723
+2025,2,FSC,Yemen,IR2,146,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1724
+2025,2,FSC,Yemen,IR5,126,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1725
+2025,2,FSC,Yemen,IW,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1726
+2025,2,FSC,Zambia,DV,5,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1727
+2025,2,FSC,Zambia,E3,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1728
+2025,2,FSC,Zambia,F1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1729
+2025,2,FSC,Zambia,GV1,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1730
+2025,2,FSC,Zambia,GV2,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1731
+2025,2,FSC,Zambia,GV3,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1732
+2025,2,FSC,Zambia,IR1,3,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1733
+2025,2,FSC,Zambia,IR2,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1734
+2025,2,FSC,Zambia,IR5,2,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1735
+2025,2,FSC,Zimbabwe,DV,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1736
+2025,2,FSC,Zimbabwe,E2,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1737
+2025,2,FSC,Zimbabwe,E3,9,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1738
+2025,2,FSC,Zimbabwe,EW,10,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1739
+2025,2,FSC,Zimbabwe,IB1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1740
+2025,2,FSC,Zimbabwe,IR1,1,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1741
+2025,2,FSC,Zimbabwe,IR2,5,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1742
+2025,2,FSC,Zimbabwe,IR5,4,2025-02_dos_iv_fsc_pob_visa_class.xlsx,1743

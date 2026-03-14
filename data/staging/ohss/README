@@ -1,0 +1,5 @@
+## Wide vs. Long Format
+
+- **Wide format** keeps one row per state-year, with many metric columns side by side; it stays close to the original source.
+- **Long format** stores one row per state-year-metric, with the metric name and value in separate columns; it is easier to query, compare, and aggregate in SQL.
+- This project uses **long format as the main analysis-ready structure**, while wide format is kept only when needed to preserve source fidelity.

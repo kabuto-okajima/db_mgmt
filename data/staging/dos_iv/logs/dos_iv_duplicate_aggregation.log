@@ -1,0 +1,32 @@
+DOS IV duplicate aggregation log
+
+=== Duplicate aggregation for 2023-11_dos_iv_fsc_pob_visa_class.xlsx ===
+source_file=2023-11_dos_iv_fsc_pob_visa_class.xlsx | month=2023-11 | basis=FSC | fsc_or_place_of_birth=Egypt | visa_class=IR5 | source_rows=[382, 383] | source_issuances=[62, 1] | summed_issuances=63
+
+=== Duplicate aggregation for 2024-02_dos_iv_fsc_pob_visa_class.xlsx ===
+source_file=2024-02_dos_iv_fsc_pob_visa_class.xlsx | month=2024-02 | basis=FSC | fsc_or_place_of_birth=Egypt | visa_class=IR5 | source_rows=[451, 452] | source_issuances=[76, 1] | summed_issuances=77
+
+=== Duplicate aggregation for 2024-04_dos_iv_fsc_pob_visa_class.xlsx ===
+source_file=2024-04_dos_iv_fsc_pob_visa_class.xlsx | month=2024-04 | basis=FSC | fsc_or_place_of_birth=Jordan | visa_class=IR5 | source_rows=[873, 874] | source_issuances=[62, 1] | summed_issuances=63
+
+=== Duplicate aggregation for 2024-05_dos_iv_fsc_pob_visa_class.xlsx ===
+source_file=2024-05_dos_iv_fsc_pob_visa_class.xlsx | month=2024-05 | basis=FSC | fsc_or_place_of_birth=Jordan | visa_class=CR1 | source_rows=[853, 854] | source_issuances=[97, 1] | summed_issuances=98
+source_file=2024-05_dos_iv_fsc_pob_visa_class.xlsx | month=2024-05 | basis=FSC | fsc_or_place_of_birth=Jordan | visa_class=IR1 | source_rows=[863, 864] | source_issuances=[66, 1] | summed_issuances=67
+source_file=2024-05_dos_iv_fsc_pob_visa_class.xlsx | month=2024-05 | basis=FSC | fsc_or_place_of_birth=Jordan | visa_class=IR2 | source_rows=[865, 866] | source_issuances=[56, 1] | summed_issuances=57
+
+=== Duplicate aggregation for 2024-06_dos_iv_fsc_pob_visa_class.xlsx ===
+source_file=2024-06_dos_iv_fsc_pob_visa_class.xlsx | month=2024-06 | basis=FSC | fsc_or_place_of_birth=Egypt | visa_class=IR5 | source_rows=[469, 470] | source_issuances=[41, 1] | summed_issuances=42
+
+=== Duplicate aggregation for 2024-07_dos_iv_fsc_pob_visa_class.xlsx ===
+source_file=2024-07_dos_iv_fsc_pob_visa_class.xlsx | month=2024-07 | basis=FSC | fsc_or_place_of_birth=Egypt | visa_class=CR1 | source_rows=[503, 504] | source_issuances=[4, 1] | summed_issuances=5
+source_file=2024-07_dos_iv_fsc_pob_visa_class.xlsx | month=2024-07 | basis=FSC | fsc_or_place_of_birth=Jordan | visa_class=CR1 | source_rows=[932, 933] | source_issuances=[42, 2] | summed_issuances=44
+source_file=2024-07_dos_iv_fsc_pob_visa_class.xlsx | month=2024-07 | basis=FSC | fsc_or_place_of_birth=Jordan | visa_class=IR1 | source_rows=[946, 947] | source_issuances=[57, 3] | summed_issuances=60
+source_file=2024-07_dos_iv_fsc_pob_visa_class.xlsx | month=2024-07 | basis=FSC | fsc_or_place_of_birth=Jordan | visa_class=IR2 | source_rows=[948, 949] | source_issuances=[43, 1] | summed_issuances=44
+source_file=2024-07_dos_iv_fsc_pob_visa_class.xlsx | month=2024-07 | basis=FSC | fsc_or_place_of_birth=Jordan | visa_class=IR5 | source_rows=[950, 951] | source_issuances=[63, 2] | summed_issuances=65
+
+=== Duplicate aggregation for 2024-10_dos_iv_fsc_pob_visa_class.xlsx ===
+source_file=2024-10_dos_iv_fsc_pob_visa_class.xlsx | month=2024-10 | basis=FSC | fsc_or_place_of_birth=Egypt | visa_class=IR5 | source_rows=[522, 523] | source_issuances=[71, 2] | summed_issuances=73
+source_file=2024-10_dos_iv_fsc_pob_visa_class.xlsx | month=2024-10 | basis=FSC | fsc_or_place_of_birth=Jordan | visa_class=IR5 | source_rows=[947, 948] | source_issuances=[88, 1] | summed_issuances=89
+
+=== Duplicate aggregation for 2025-03_dos_iv_fsc_pob_visa_class.xlsx ===
+source_file=2025-03_dos_iv_fsc_pob_visa_class.xlsx | month=2025-03 | basis=FSC | fsc_or_place_of_birth=Jordan | visa_class=CR1 | source_rows=[830, 831] | source_issuances=[110, 3] | summed_issuances=113

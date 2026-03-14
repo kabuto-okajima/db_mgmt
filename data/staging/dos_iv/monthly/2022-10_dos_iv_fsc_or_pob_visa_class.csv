@@ -1,0 +1,1545 @@
+year,month,basis,fsc_or_place_of_birth,visa_class,issuances,source_file,source_row
+2022,10,FSC,Afghanistan,CR1,15,2022-10_dos_iv_fsc_pob_visa_class.xlsx,3
+2022,10,FSC,Afghanistan,DV,5,2022-10_dos_iv_fsc_pob_visa_class.xlsx,4
+2022,10,FSC,Afghanistan,F1,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,5
+2022,10,FSC,Afghanistan,F2A,6,2022-10_dos_iv_fsc_pob_visa_class.xlsx,6
+2022,10,FSC,Afghanistan,F2B,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,7
+2022,10,FSC,Afghanistan,F3,4,2022-10_dos_iv_fsc_pob_visa_class.xlsx,8
+2022,10,FSC,Afghanistan,FX,58,2022-10_dos_iv_fsc_pob_visa_class.xlsx,9
+2022,10,FSC,Afghanistan,IR1,31,2022-10_dos_iv_fsc_pob_visa_class.xlsx,10
+2022,10,FSC,Afghanistan,IR2,10,2022-10_dos_iv_fsc_pob_visa_class.xlsx,11
+2022,10,FSC,Afghanistan,IR5,50,2022-10_dos_iv_fsc_pob_visa_class.xlsx,12
+2022,10,FSC,Afghanistan,SQ1,244,2022-10_dos_iv_fsc_pob_visa_class.xlsx,13
+2022,10,FSC,Afghanistan,SQ2,209,2022-10_dos_iv_fsc_pob_visa_class.xlsx,14
+2022,10,FSC,Afghanistan,SQ3,623,2022-10_dos_iv_fsc_pob_visa_class.xlsx,15
+2022,10,FSC,Albania,CR1,15,2022-10_dos_iv_fsc_pob_visa_class.xlsx,16
+2022,10,FSC,Albania,DV,78,2022-10_dos_iv_fsc_pob_visa_class.xlsx,17
+2022,10,FSC,Albania,E1,5,2022-10_dos_iv_fsc_pob_visa_class.xlsx,18
+2022,10,FSC,Albania,E3,4,2022-10_dos_iv_fsc_pob_visa_class.xlsx,19
+2022,10,FSC,Albania,EW,5,2022-10_dos_iv_fsc_pob_visa_class.xlsx,20
+2022,10,FSC,Albania,F1,5,2022-10_dos_iv_fsc_pob_visa_class.xlsx,21
+2022,10,FSC,Albania,F2A,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,22
+2022,10,FSC,Albania,F2B,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,23
+2022,10,FSC,Albania,F4,13,2022-10_dos_iv_fsc_pob_visa_class.xlsx,24
+2022,10,FSC,Albania,FX,41,2022-10_dos_iv_fsc_pob_visa_class.xlsx,25
+2022,10,FSC,Albania,IH3,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,26
+2022,10,FSC,Albania,IR1,13,2022-10_dos_iv_fsc_pob_visa_class.xlsx,27
+2022,10,FSC,Albania,IR5,99,2022-10_dos_iv_fsc_pob_visa_class.xlsx,28
+2022,10,FSC,Algeria,C2A,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,29
+2022,10,FSC,Algeria,CR1,5,2022-10_dos_iv_fsc_pob_visa_class.xlsx,30
+2022,10,FSC,Algeria,CX,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,31
+2022,10,FSC,Algeria,DV,245,2022-10_dos_iv_fsc_pob_visa_class.xlsx,32
+2022,10,FSC,Algeria,F4,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,33
+2022,10,FSC,Algeria,FX,16,2022-10_dos_iv_fsc_pob_visa_class.xlsx,34
+2022,10,FSC,Algeria,IR1,10,2022-10_dos_iv_fsc_pob_visa_class.xlsx,35
+2022,10,FSC,Algeria,IR2,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,36
+2022,10,FSC,Algeria,IR5,19,2022-10_dos_iv_fsc_pob_visa_class.xlsx,37
+2022,10,FSC,Angola,DV,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,38
+2022,10,FSC,Angola,F1,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,39
+2022,10,FSC,Angola,IR2,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,40
+2022,10,FSC,Angola,IR5,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,41
+2022,10,FSC,Anguilla,IR5,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,42
+2022,10,FSC,Antigua and Barbuda,CR1,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,43
+2022,10,FSC,Antigua and Barbuda,E3,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,44
+2022,10,FSC,Antigua and Barbuda,F1,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,45
+2022,10,FSC,Antigua and Barbuda,F3,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,46
+2022,10,FSC,Antigua and Barbuda,IR1,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,47
+2022,10,FSC,Antigua and Barbuda,IR2,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,48
+2022,10,FSC,Antigua and Barbuda,IR5,7,2022-10_dos_iv_fsc_pob_visa_class.xlsx,49
+2022,10,FSC,Argentina,E1,6,2022-10_dos_iv_fsc_pob_visa_class.xlsx,50
+2022,10,FSC,Argentina,E2,14,2022-10_dos_iv_fsc_pob_visa_class.xlsx,51
+2022,10,FSC,Argentina,E3,9,2022-10_dos_iv_fsc_pob_visa_class.xlsx,52
+2022,10,FSC,Argentina,F1,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,53
+2022,10,FSC,Argentina,F2B,4,2022-10_dos_iv_fsc_pob_visa_class.xlsx,54
+2022,10,FSC,Argentina,F3,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,55
+2022,10,FSC,Argentina,F4,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,56
+2022,10,FSC,Argentina,FX,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,57
+2022,10,FSC,Argentina,I5,4,2022-10_dos_iv_fsc_pob_visa_class.xlsx,58
+2022,10,FSC,Argentina,IR1,5,2022-10_dos_iv_fsc_pob_visa_class.xlsx,59
+2022,10,FSC,Argentina,IR2,8,2022-10_dos_iv_fsc_pob_visa_class.xlsx,60
+2022,10,FSC,Argentina,IR5,19,2022-10_dos_iv_fsc_pob_visa_class.xlsx,61
+2022,10,FSC,Armenia,CR1,12,2022-10_dos_iv_fsc_pob_visa_class.xlsx,62
+2022,10,FSC,Armenia,CR2,4,2022-10_dos_iv_fsc_pob_visa_class.xlsx,63
+2022,10,FSC,Armenia,DV,21,2022-10_dos_iv_fsc_pob_visa_class.xlsx,64
+2022,10,FSC,Armenia,E1,4,2022-10_dos_iv_fsc_pob_visa_class.xlsx,65
+2022,10,FSC,Armenia,E2,4,2022-10_dos_iv_fsc_pob_visa_class.xlsx,66
+2022,10,FSC,Armenia,E3,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,67
+2022,10,FSC,Armenia,F1,34,2022-10_dos_iv_fsc_pob_visa_class.xlsx,68
+2022,10,FSC,Armenia,F2B,6,2022-10_dos_iv_fsc_pob_visa_class.xlsx,69
+2022,10,FSC,Armenia,F3,16,2022-10_dos_iv_fsc_pob_visa_class.xlsx,70
+2022,10,FSC,Armenia,F4,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,71
+2022,10,FSC,Armenia,FX,17,2022-10_dos_iv_fsc_pob_visa_class.xlsx,72
+2022,10,FSC,Armenia,IR1,9,2022-10_dos_iv_fsc_pob_visa_class.xlsx,73
+2022,10,FSC,Armenia,IR2,7,2022-10_dos_iv_fsc_pob_visa_class.xlsx,74
+2022,10,FSC,Armenia,IR5,77,2022-10_dos_iv_fsc_pob_visa_class.xlsx,75
+2022,10,FSC,Armenia,IW,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,76
+2022,10,FSC,Armenia,SE,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,77
+2022,10,FSC,Australia,DV,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,78
+2022,10,FSC,Australia,E1,4,2022-10_dos_iv_fsc_pob_visa_class.xlsx,79
+2022,10,FSC,Australia,I5,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,80
+2022,10,FSC,Australia,IR1,5,2022-10_dos_iv_fsc_pob_visa_class.xlsx,81
+2022,10,FSC,Australia,IR2,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,82
+2022,10,FSC,Austria,CR1,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,83
+2022,10,FSC,Austria,E2,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,84
+2022,10,FSC,Austria,E3,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,85
+2022,10,FSC,Azerbaijan,CR1,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,86
+2022,10,FSC,Azerbaijan,DV,10,2022-10_dos_iv_fsc_pob_visa_class.xlsx,87
+2022,10,FSC,Azerbaijan,E1,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,88
+2022,10,FSC,Azerbaijan,E2,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,89
+2022,10,FSC,Azerbaijan,F3,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,90
+2022,10,FSC,Azerbaijan,FX,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,91
+2022,10,FSC,Azerbaijan,IR2,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,92
+2022,10,FSC,Azerbaijan,IR5,9,2022-10_dos_iv_fsc_pob_visa_class.xlsx,93
+2022,10,FSC,"Bahamas, The",CR1,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,94
+2022,10,FSC,"Bahamas, The",E3,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,95
+2022,10,FSC,"Bahamas, The",FX,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,96
+2022,10,FSC,"Bahamas, The",IR1,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,97
+2022,10,FSC,"Bahamas, The",IR5,7,2022-10_dos_iv_fsc_pob_visa_class.xlsx,98
+2022,10,FSC,Bahrain,CR2,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,99
+2022,10,FSC,Bahrain,IR1,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,100
+2022,10,FSC,Bangladesh,CR1,141,2022-10_dos_iv_fsc_pob_visa_class.xlsx,101
+2022,10,FSC,Bangladesh,CR2,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,102
+2022,10,FSC,Bangladesh,E2,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,103
+2022,10,FSC,Bangladesh,EW,6,2022-10_dos_iv_fsc_pob_visa_class.xlsx,104
+2022,10,FSC,Bangladesh,F1,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,105
+2022,10,FSC,Bangladesh,F2B,5,2022-10_dos_iv_fsc_pob_visa_class.xlsx,106
+2022,10,FSC,Bangladesh,F4,302,2022-10_dos_iv_fsc_pob_visa_class.xlsx,107
+2022,10,FSC,Bangladesh,FX,18,2022-10_dos_iv_fsc_pob_visa_class.xlsx,108
+2022,10,FSC,Bangladesh,IR1,241,2022-10_dos_iv_fsc_pob_visa_class.xlsx,109
+2022,10,FSC,Bangladesh,IR2,43,2022-10_dos_iv_fsc_pob_visa_class.xlsx,110
+2022,10,FSC,Bangladesh,IR4,9,2022-10_dos_iv_fsc_pob_visa_class.xlsx,111
+2022,10,FSC,Bangladesh,IR5,540,2022-10_dos_iv_fsc_pob_visa_class.xlsx,112
+2022,10,FSC,Bangladesh,SB1,7,2022-10_dos_iv_fsc_pob_visa_class.xlsx,113
+2022,10,FSC,Bangladesh,SE,4,2022-10_dos_iv_fsc_pob_visa_class.xlsx,114
+2022,10,FSC,Barbados,E3,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,115
+2022,10,FSC,Barbados,IR1,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,116
+2022,10,FSC,Barbados,IR2,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,117
+2022,10,FSC,Barbados,IR5,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,118
+2022,10,FSC,Barbados,IW,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,119
+2022,10,FSC,Belarus,CR1,6,2022-10_dos_iv_fsc_pob_visa_class.xlsx,120
+2022,10,FSC,Belarus,CR2,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,121
+2022,10,FSC,Belarus,DV,21,2022-10_dos_iv_fsc_pob_visa_class.xlsx,122
+2022,10,FSC,Belarus,F1,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,123
+2022,10,FSC,Belarus,F2B,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,124
+2022,10,FSC,Belarus,FX,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,125
+2022,10,FSC,Belarus,IR1,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,126
+2022,10,FSC,Belarus,IR2,4,2022-10_dos_iv_fsc_pob_visa_class.xlsx,127
+2022,10,FSC,Belarus,IR5,26,2022-10_dos_iv_fsc_pob_visa_class.xlsx,128
+2022,10,FSC,Belarus,SE,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,129
+2022,10,FSC,Belgium,CR1,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,130
+2022,10,FSC,Belgium,E1,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,131
+2022,10,FSC,Belgium,E3,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,132
+2022,10,FSC,Belgium,IR1,7,2022-10_dos_iv_fsc_pob_visa_class.xlsx,133
+2022,10,FSC,Belgium,IR2,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,134
+2022,10,FSC,Belize,CR1,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,135
+2022,10,FSC,Belize,F1,5,2022-10_dos_iv_fsc_pob_visa_class.xlsx,136
+2022,10,FSC,Belize,F4,7,2022-10_dos_iv_fsc_pob_visa_class.xlsx,137
+2022,10,FSC,Belize,FX,6,2022-10_dos_iv_fsc_pob_visa_class.xlsx,138
+2022,10,FSC,Belize,IR1,5,2022-10_dos_iv_fsc_pob_visa_class.xlsx,139
+2022,10,FSC,Belize,IR2,4,2022-10_dos_iv_fsc_pob_visa_class.xlsx,140
+2022,10,FSC,Belize,IR5,7,2022-10_dos_iv_fsc_pob_visa_class.xlsx,141
+2022,10,FSC,Benin,CR1,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,142
+2022,10,FSC,Benin,DV,6,2022-10_dos_iv_fsc_pob_visa_class.xlsx,143
+2022,10,FSC,Benin,F4,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,144
+2022,10,FSC,Benin,FX,9,2022-10_dos_iv_fsc_pob_visa_class.xlsx,145
+2022,10,FSC,Benin,IR2,9,2022-10_dos_iv_fsc_pob_visa_class.xlsx,146
+2022,10,FSC,Benin,IR5,5,2022-10_dos_iv_fsc_pob_visa_class.xlsx,147
+2022,10,FSC,Bermuda,F2B,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,148
+2022,10,FSC,Bermuda,IR2,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,149
+2022,10,FSC,Bermuda,IR5,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,150
+2022,10,FSC,Bhutan,DV,4,2022-10_dos_iv_fsc_pob_visa_class.xlsx,151
+2022,10,FSC,Bhutan,EW,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,152
+2022,10,FSC,Bolivia,CR1,6,2022-10_dos_iv_fsc_pob_visa_class.xlsx,153
+2022,10,FSC,Bolivia,E3,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,154
+2022,10,FSC,Bolivia,F1,4,2022-10_dos_iv_fsc_pob_visa_class.xlsx,155
+2022,10,FSC,Bolivia,F2B,4,2022-10_dos_iv_fsc_pob_visa_class.xlsx,156
+2022,10,FSC,Bolivia,F3,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,157
+2022,10,FSC,Bolivia,F4,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,158
+2022,10,FSC,Bolivia,FX,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,159
+2022,10,FSC,Bolivia,IR1,6,2022-10_dos_iv_fsc_pob_visa_class.xlsx,160
+2022,10,FSC,Bolivia,IR2,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,161
+2022,10,FSC,Bolivia,IR5,18,2022-10_dos_iv_fsc_pob_visa_class.xlsx,162
+2022,10,FSC,Bolivia,SE,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,163
+2022,10,FSC,Bosnia-Herzegovina,CR1,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,164
+2022,10,FSC,Bosnia-Herzegovina,DV,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,165
+2022,10,FSC,Bosnia-Herzegovina,E3,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,166
+2022,10,FSC,Bosnia-Herzegovina,F3,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,167
+2022,10,FSC,Bosnia-Herzegovina,F4,8,2022-10_dos_iv_fsc_pob_visa_class.xlsx,168
+2022,10,FSC,Bosnia-Herzegovina,FX,4,2022-10_dos_iv_fsc_pob_visa_class.xlsx,169
+2022,10,FSC,Bosnia-Herzegovina,IR1,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,170
+2022,10,FSC,Bosnia-Herzegovina,IR5,7,2022-10_dos_iv_fsc_pob_visa_class.xlsx,171
+2022,10,FSC,Brazil,CR1,21,2022-10_dos_iv_fsc_pob_visa_class.xlsx,172
+2022,10,FSC,Brazil,CR2,5,2022-10_dos_iv_fsc_pob_visa_class.xlsx,173
+2022,10,FSC,Brazil,E1,43,2022-10_dos_iv_fsc_pob_visa_class.xlsx,174
+2022,10,FSC,Brazil,E2,208,2022-10_dos_iv_fsc_pob_visa_class.xlsx,175
+2022,10,FSC,Brazil,E3,20,2022-10_dos_iv_fsc_pob_visa_class.xlsx,176
+2022,10,FSC,Brazil,EW,10,2022-10_dos_iv_fsc_pob_visa_class.xlsx,177
+2022,10,FSC,Brazil,F1,10,2022-10_dos_iv_fsc_pob_visa_class.xlsx,178
+2022,10,FSC,Brazil,F2A,4,2022-10_dos_iv_fsc_pob_visa_class.xlsx,179
+2022,10,FSC,Brazil,F2B,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,180
+2022,10,FSC,Brazil,F4,4,2022-10_dos_iv_fsc_pob_visa_class.xlsx,181
+2022,10,FSC,Brazil,FX,21,2022-10_dos_iv_fsc_pob_visa_class.xlsx,182
+2022,10,FSC,Brazil,I5,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,183
+2022,10,FSC,Brazil,IR1,49,2022-10_dos_iv_fsc_pob_visa_class.xlsx,184
+2022,10,FSC,Brazil,IR2,39,2022-10_dos_iv_fsc_pob_visa_class.xlsx,185
+2022,10,FSC,Brazil,IR5,79,2022-10_dos_iv_fsc_pob_visa_class.xlsx,186
+2022,10,FSC,Brazil,IW,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,187
+2022,10,FSC,Brazil,SB1,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,188
+2022,10,FSC,Brunei,E3,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,189
+2022,10,FSC,Brunei,IR1,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,190
+2022,10,FSC,Bulgaria,CR1,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,191
+2022,10,FSC,Bulgaria,DV,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,192
+2022,10,FSC,Bulgaria,E3,4,2022-10_dos_iv_fsc_pob_visa_class.xlsx,193
+2022,10,FSC,Bulgaria,EW,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,194
+2022,10,FSC,Bulgaria,F4,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,195
+2022,10,FSC,Bulgaria,FX,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,196
+2022,10,FSC,Bulgaria,IH3,6,2022-10_dos_iv_fsc_pob_visa_class.xlsx,197
+2022,10,FSC,Bulgaria,IR1,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,198
+2022,10,FSC,Bulgaria,IR5,9,2022-10_dos_iv_fsc_pob_visa_class.xlsx,199
+2022,10,FSC,Bulgaria,SB1,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,200
+2022,10,FSC,Burkina Faso,CR1,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,201
+2022,10,FSC,Burkina Faso,F2A,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,202
+2022,10,FSC,Burkina Faso,FX,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,203
+2022,10,FSC,Burkina Faso,IR1,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,204
+2022,10,FSC,Burkina Faso,IR2,10,2022-10_dos_iv_fsc_pob_visa_class.xlsx,205
+2022,10,FSC,Burkina Faso,IR5,4,2022-10_dos_iv_fsc_pob_visa_class.xlsx,206
+2022,10,FSC,Burma,DV,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,207
+2022,10,FSC,Burma,EW,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,208
+2022,10,FSC,Burma,F3,4,2022-10_dos_iv_fsc_pob_visa_class.xlsx,209
+2022,10,FSC,Burma,F4,18,2022-10_dos_iv_fsc_pob_visa_class.xlsx,210
+2022,10,FSC,Burma,FX,5,2022-10_dos_iv_fsc_pob_visa_class.xlsx,211
+2022,10,FSC,Burma,IR1,37,2022-10_dos_iv_fsc_pob_visa_class.xlsx,212
+2022,10,FSC,Burma,IR2,5,2022-10_dos_iv_fsc_pob_visa_class.xlsx,213
+2022,10,FSC,Burma,IR5,31,2022-10_dos_iv_fsc_pob_visa_class.xlsx,214
+2022,10,FSC,Burma,SB1,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,215
+2022,10,FSC,Burma,SD,5,2022-10_dos_iv_fsc_pob_visa_class.xlsx,216
+2022,10,FSC,Burma,SE,7,2022-10_dos_iv_fsc_pob_visa_class.xlsx,217
+2022,10,FSC,Burundi,FX,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,218
+2022,10,FSC,Burundi,IH3,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,219
+2022,10,FSC,Burundi,IR1,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,220
+2022,10,FSC,Cabo Verde,F1,11,2022-10_dos_iv_fsc_pob_visa_class.xlsx,221
+2022,10,FSC,Cabo Verde,F2B,19,2022-10_dos_iv_fsc_pob_visa_class.xlsx,222
+2022,10,FSC,Cabo Verde,F3,11,2022-10_dos_iv_fsc_pob_visa_class.xlsx,223
+2022,10,FSC,Cabo Verde,F4,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,224
+2022,10,FSC,Cabo Verde,FX,24,2022-10_dos_iv_fsc_pob_visa_class.xlsx,225
+2022,10,FSC,Cabo Verde,IR1,7,2022-10_dos_iv_fsc_pob_visa_class.xlsx,226
+2022,10,FSC,Cabo Verde,IR2,19,2022-10_dos_iv_fsc_pob_visa_class.xlsx,227
+2022,10,FSC,Cabo Verde,IR5,23,2022-10_dos_iv_fsc_pob_visa_class.xlsx,228
+2022,10,FSC,Cabo Verde,SB1,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,229
+2022,10,FSC,Cabo Verde,SE,5,2022-10_dos_iv_fsc_pob_visa_class.xlsx,230
+2022,10,FSC,Cambodia,CR1,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,231
+2022,10,FSC,Cambodia,E3,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,232
+2022,10,FSC,Cambodia,EW,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,233
+2022,10,FSC,Cambodia,F1,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,234
+2022,10,FSC,Cambodia,F2A,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,235
+2022,10,FSC,Cambodia,F2B,7,2022-10_dos_iv_fsc_pob_visa_class.xlsx,236
+2022,10,FSC,Cambodia,F3,6,2022-10_dos_iv_fsc_pob_visa_class.xlsx,237
+2022,10,FSC,Cambodia,F4,14,2022-10_dos_iv_fsc_pob_visa_class.xlsx,238
+2022,10,FSC,Cambodia,FX,21,2022-10_dos_iv_fsc_pob_visa_class.xlsx,239
+2022,10,FSC,Cambodia,IR1,9,2022-10_dos_iv_fsc_pob_visa_class.xlsx,240
+2022,10,FSC,Cambodia,IR2,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,241
+2022,10,FSC,Cambodia,IR5,96,2022-10_dos_iv_fsc_pob_visa_class.xlsx,242
+2022,10,FSC,Cambodia,SD,5,2022-10_dos_iv_fsc_pob_visa_class.xlsx,243
+2022,10,FSC,Cameroon,CR1,14,2022-10_dos_iv_fsc_pob_visa_class.xlsx,244
+2022,10,FSC,Cameroon,DV,41,2022-10_dos_iv_fsc_pob_visa_class.xlsx,245
+2022,10,FSC,Cameroon,E3,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,246
+2022,10,FSC,Cameroon,F1,10,2022-10_dos_iv_fsc_pob_visa_class.xlsx,247
+2022,10,FSC,Cameroon,F4,6,2022-10_dos_iv_fsc_pob_visa_class.xlsx,248
+2022,10,FSC,Cameroon,FX,46,2022-10_dos_iv_fsc_pob_visa_class.xlsx,249
+2022,10,FSC,Cameroon,IR1,17,2022-10_dos_iv_fsc_pob_visa_class.xlsx,250
+2022,10,FSC,Cameroon,IR2,25,2022-10_dos_iv_fsc_pob_visa_class.xlsx,251
+2022,10,FSC,Cameroon,IR5,98,2022-10_dos_iv_fsc_pob_visa_class.xlsx,252
+2022,10,FSC,Cameroon,SB1,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,253
+2022,10,FSC,Cameroon,SE,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,254
+2022,10,FSC,Canada,CR1,11,2022-10_dos_iv_fsc_pob_visa_class.xlsx,255
+2022,10,FSC,Canada,CR2,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,256
+2022,10,FSC,Canada,E1,5,2022-10_dos_iv_fsc_pob_visa_class.xlsx,257
+2022,10,FSC,Canada,E2,4,2022-10_dos_iv_fsc_pob_visa_class.xlsx,258
+2022,10,FSC,Canada,E3,12,2022-10_dos_iv_fsc_pob_visa_class.xlsx,259
+2022,10,FSC,Canada,EW,6,2022-10_dos_iv_fsc_pob_visa_class.xlsx,260
+2022,10,FSC,Canada,F1,5,2022-10_dos_iv_fsc_pob_visa_class.xlsx,261
+2022,10,FSC,Canada,F2A,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,262
+2022,10,FSC,Canada,F2B,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,263
+2022,10,FSC,Canada,F3,19,2022-10_dos_iv_fsc_pob_visa_class.xlsx,264
+2022,10,FSC,Canada,F4,7,2022-10_dos_iv_fsc_pob_visa_class.xlsx,265
+2022,10,FSC,Canada,FX,15,2022-10_dos_iv_fsc_pob_visa_class.xlsx,266
+2022,10,FSC,Canada,I5,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,267
+2022,10,FSC,Canada,IR1,30,2022-10_dos_iv_fsc_pob_visa_class.xlsx,268
+2022,10,FSC,Canada,IR2,5,2022-10_dos_iv_fsc_pob_visa_class.xlsx,269
+2022,10,FSC,Canada,IR5,4,2022-10_dos_iv_fsc_pob_visa_class.xlsx,270
+2022,10,FSC,Canada,SB1,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,271
+2022,10,FSC,Canada,SD,4,2022-10_dos_iv_fsc_pob_visa_class.xlsx,272
+2022,10,FSC,Central African Republic,FX,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,273
+2022,10,FSC,Chad,DV,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,274
+2022,10,FSC,Chad,F1,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,275
+2022,10,FSC,Chad,FX,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,276
+2022,10,FSC,Chad,IR5,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,277
+2022,10,FSC,Chile,CR1,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,278
+2022,10,FSC,Chile,F1,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,279
+2022,10,FSC,Chile,F2A,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,280
+2022,10,FSC,Chile,F4,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,281
+2022,10,FSC,Chile,FX,4,2022-10_dos_iv_fsc_pob_visa_class.xlsx,282
+2022,10,FSC,Chile,IR1,7,2022-10_dos_iv_fsc_pob_visa_class.xlsx,283
+2022,10,FSC,Chile,IR2,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,284
+2022,10,FSC,Chile,IR5,12,2022-10_dos_iv_fsc_pob_visa_class.xlsx,285
+2022,10,FSC,China - mainland born,C5,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,286
+2022,10,FSC,China - mainland born,CR1,7,2022-10_dos_iv_fsc_pob_visa_class.xlsx,287
+2022,10,FSC,China - mainland born,CR2,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,288
+2022,10,FSC,China - mainland born,CX,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,289
+2022,10,FSC,China - mainland born,E1,171,2022-10_dos_iv_fsc_pob_visa_class.xlsx,290
+2022,10,FSC,China - mainland born,E2,23,2022-10_dos_iv_fsc_pob_visa_class.xlsx,291
+2022,10,FSC,China - mainland born,E3,29,2022-10_dos_iv_fsc_pob_visa_class.xlsx,292
+2022,10,FSC,China - mainland born,EW,16,2022-10_dos_iv_fsc_pob_visa_class.xlsx,293
+2022,10,FSC,China - mainland born,F1,19,2022-10_dos_iv_fsc_pob_visa_class.xlsx,294
+2022,10,FSC,China - mainland born,F2A,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,295
+2022,10,FSC,China - mainland born,F2B,24,2022-10_dos_iv_fsc_pob_visa_class.xlsx,296
+2022,10,FSC,China - mainland born,F3,37,2022-10_dos_iv_fsc_pob_visa_class.xlsx,297
+2022,10,FSC,China - mainland born,F4,127,2022-10_dos_iv_fsc_pob_visa_class.xlsx,298
+2022,10,FSC,China - mainland born,FX,93,2022-10_dos_iv_fsc_pob_visa_class.xlsx,299
+2022,10,FSC,China - mainland born,I5,82,2022-10_dos_iv_fsc_pob_visa_class.xlsx,300
+2022,10,FSC,China - mainland born,IR1,110,2022-10_dos_iv_fsc_pob_visa_class.xlsx,301
+2022,10,FSC,China - mainland born,IR2,53,2022-10_dos_iv_fsc_pob_visa_class.xlsx,302
+2022,10,FSC,China - mainland born,IR5,463,2022-10_dos_iv_fsc_pob_visa_class.xlsx,303
+2022,10,FSC,China - mainland born,SB1,13,2022-10_dos_iv_fsc_pob_visa_class.xlsx,304
+2022,10,FSC,China - mainland born,SE,5,2022-10_dos_iv_fsc_pob_visa_class.xlsx,305
+2022,10,FSC,China - mainland born,T5,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,306
+2022,10,FSC,Colombia,CR1,55,2022-10_dos_iv_fsc_pob_visa_class.xlsx,307
+2022,10,FSC,Colombia,CR2,4,2022-10_dos_iv_fsc_pob_visa_class.xlsx,308
+2022,10,FSC,Colombia,E2,7,2022-10_dos_iv_fsc_pob_visa_class.xlsx,309
+2022,10,FSC,Colombia,E3,6,2022-10_dos_iv_fsc_pob_visa_class.xlsx,310
+2022,10,FSC,Colombia,EW,35,2022-10_dos_iv_fsc_pob_visa_class.xlsx,311
+2022,10,FSC,Colombia,F1,31,2022-10_dos_iv_fsc_pob_visa_class.xlsx,312
+2022,10,FSC,Colombia,F2B,5,2022-10_dos_iv_fsc_pob_visa_class.xlsx,313
+2022,10,FSC,Colombia,F3,4,2022-10_dos_iv_fsc_pob_visa_class.xlsx,314
+2022,10,FSC,Colombia,F4,20,2022-10_dos_iv_fsc_pob_visa_class.xlsx,315
+2022,10,FSC,Colombia,FX,86,2022-10_dos_iv_fsc_pob_visa_class.xlsx,316
+2022,10,FSC,Colombia,IH3,16,2022-10_dos_iv_fsc_pob_visa_class.xlsx,317
+2022,10,FSC,Colombia,IR1,71,2022-10_dos_iv_fsc_pob_visa_class.xlsx,318
+2022,10,FSC,Colombia,IR2,58,2022-10_dos_iv_fsc_pob_visa_class.xlsx,319
+2022,10,FSC,Colombia,IR5,123,2022-10_dos_iv_fsc_pob_visa_class.xlsx,320
+2022,10,FSC,Colombia,SB1,4,2022-10_dos_iv_fsc_pob_visa_class.xlsx,321
+2022,10,FSC,Colombia,SE,4,2022-10_dos_iv_fsc_pob_visa_class.xlsx,322
+2022,10,FSC,"Congo, Democratic Republic of the",CR1,13,2022-10_dos_iv_fsc_pob_visa_class.xlsx,323
+2022,10,FSC,"Congo, Democratic Republic of the",E3,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,324
+2022,10,FSC,"Congo, Democratic Republic of the",FX,53,2022-10_dos_iv_fsc_pob_visa_class.xlsx,325
+2022,10,FSC,"Congo, Democratic Republic of the",IR1,17,2022-10_dos_iv_fsc_pob_visa_class.xlsx,326
+2022,10,FSC,"Congo, Democratic Republic of the",IR2,18,2022-10_dos_iv_fsc_pob_visa_class.xlsx,327
+2022,10,FSC,"Congo, Democratic Republic of the",IR5,36,2022-10_dos_iv_fsc_pob_visa_class.xlsx,328
+2022,10,FSC,"Congo, Democratic Republic of the",SB1,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,329
+2022,10,FSC,"Congo, Republic of the",FX,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,330
+2022,10,FSC,"Congo, Republic of the",IR1,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,331
+2022,10,FSC,"Congo, Republic of the",IR5,5,2022-10_dos_iv_fsc_pob_visa_class.xlsx,332
+2022,10,FSC,Costa Rica,CR1,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,333
+2022,10,FSC,Costa Rica,CR2,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,334
+2022,10,FSC,Costa Rica,DV,5,2022-10_dos_iv_fsc_pob_visa_class.xlsx,335
+2022,10,FSC,Costa Rica,E2,4,2022-10_dos_iv_fsc_pob_visa_class.xlsx,336
+2022,10,FSC,Costa Rica,E3,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,337
+2022,10,FSC,Costa Rica,EW,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,338
+2022,10,FSC,Costa Rica,F2B,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,339
+2022,10,FSC,Costa Rica,F3,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,340
+2022,10,FSC,Costa Rica,F4,6,2022-10_dos_iv_fsc_pob_visa_class.xlsx,341
+2022,10,FSC,Costa Rica,FX,10,2022-10_dos_iv_fsc_pob_visa_class.xlsx,342
+2022,10,FSC,Costa Rica,IR1,15,2022-10_dos_iv_fsc_pob_visa_class.xlsx,343
+2022,10,FSC,Costa Rica,IR2,8,2022-10_dos_iv_fsc_pob_visa_class.xlsx,344
+2022,10,FSC,Costa Rica,IR5,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,345
+2022,10,FSC,Cote d'Ivoire,CR1,6,2022-10_dos_iv_fsc_pob_visa_class.xlsx,346
+2022,10,FSC,Cote d'Ivoire,F1,6,2022-10_dos_iv_fsc_pob_visa_class.xlsx,347
+2022,10,FSC,Cote d'Ivoire,F3,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,348
+2022,10,FSC,Cote d'Ivoire,FX,14,2022-10_dos_iv_fsc_pob_visa_class.xlsx,349
+2022,10,FSC,Cote d'Ivoire,IR1,8,2022-10_dos_iv_fsc_pob_visa_class.xlsx,350
+2022,10,FSC,Cote d'Ivoire,IR2,17,2022-10_dos_iv_fsc_pob_visa_class.xlsx,351
+2022,10,FSC,Cote d'Ivoire,IR5,11,2022-10_dos_iv_fsc_pob_visa_class.xlsx,352
+2022,10,FSC,Cote d'Ivoire,SE,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,353
+2022,10,FSC,Croatia,SB1,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,354
+2022,10,FSC,Cuba,CR1,4,2022-10_dos_iv_fsc_pob_visa_class.xlsx,355
+2022,10,FSC,Cuba,CR2,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,356
+2022,10,FSC,Cuba,DV,21,2022-10_dos_iv_fsc_pob_visa_class.xlsx,357
+2022,10,FSC,Cuba,F1,22,2022-10_dos_iv_fsc_pob_visa_class.xlsx,358
+2022,10,FSC,Cuba,F2A,432,2022-10_dos_iv_fsc_pob_visa_class.xlsx,359
+2022,10,FSC,Cuba,F2B,117,2022-10_dos_iv_fsc_pob_visa_class.xlsx,360
+2022,10,FSC,Cuba,FX,2052,2022-10_dos_iv_fsc_pob_visa_class.xlsx,361
+2022,10,FSC,Cuba,IR1,166,2022-10_dos_iv_fsc_pob_visa_class.xlsx,362
+2022,10,FSC,Cuba,IR2,204,2022-10_dos_iv_fsc_pob_visa_class.xlsx,363
+2022,10,FSC,Cuba,IR5,1336,2022-10_dos_iv_fsc_pob_visa_class.xlsx,364
+2022,10,FSC,Cuba,SB1,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,365
+2022,10,FSC,Curacao,IR2,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,366
+2022,10,FSC,Cyprus,E1,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,367
+2022,10,FSC,Cyprus,FX,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,368
+2022,10,FSC,Cyprus,I5,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,369
+2022,10,FSC,Cyprus,IR1,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,370
+2022,10,FSC,Cyprus,SB1,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,371
+2022,10,FSC,Czech Republic,CR1,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,372
+2022,10,FSC,Czech Republic,E3,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,373
+2022,10,FSC,Czech Republic,IR1,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,374
+2022,10,FSC,Czech Republic,IR2,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,375
+2022,10,FSC,Czech Republic,IR5,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,376
+2022,10,FSC,Denmark,CR1,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,377
+2022,10,FSC,Denmark,IR1,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,378
+2022,10,FSC,Denmark,IR2,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,379
+2022,10,FSC,Djibouti,F3,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,380
+2022,10,FSC,Djibouti,IR1,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,381
+2022,10,FSC,Dominica,CR1,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,382
+2022,10,FSC,Dominica,F1,6,2022-10_dos_iv_fsc_pob_visa_class.xlsx,383
+2022,10,FSC,Dominica,FX,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,384
+2022,10,FSC,Dominica,IR1,6,2022-10_dos_iv_fsc_pob_visa_class.xlsx,385
+2022,10,FSC,Dominica,IR2,6,2022-10_dos_iv_fsc_pob_visa_class.xlsx,386
+2022,10,FSC,Dominica,IR5,7,2022-10_dos_iv_fsc_pob_visa_class.xlsx,387
+2022,10,FSC,Dominican Republic,CR1,140,2022-10_dos_iv_fsc_pob_visa_class.xlsx,388
+2022,10,FSC,Dominican Republic,CR2,34,2022-10_dos_iv_fsc_pob_visa_class.xlsx,389
+2022,10,FSC,Dominican Republic,E3,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,390
+2022,10,FSC,Dominican Republic,F1,444,2022-10_dos_iv_fsc_pob_visa_class.xlsx,391
+2022,10,FSC,Dominican Republic,F2A,10,2022-10_dos_iv_fsc_pob_visa_class.xlsx,392
+2022,10,FSC,Dominican Republic,F2B,1107,2022-10_dos_iv_fsc_pob_visa_class.xlsx,393
+2022,10,FSC,Dominican Republic,F3,43,2022-10_dos_iv_fsc_pob_visa_class.xlsx,394
+2022,10,FSC,Dominican Republic,F4,179,2022-10_dos_iv_fsc_pob_visa_class.xlsx,395
+2022,10,FSC,Dominican Republic,FX,1937,2022-10_dos_iv_fsc_pob_visa_class.xlsx,396
+2022,10,FSC,Dominican Republic,IB1,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,397
+2022,10,FSC,Dominican Republic,IH3,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,398
+2022,10,FSC,Dominican Republic,IR1,465,2022-10_dos_iv_fsc_pob_visa_class.xlsx,399
+2022,10,FSC,Dominican Republic,IR2,416,2022-10_dos_iv_fsc_pob_visa_class.xlsx,400
+2022,10,FSC,Dominican Republic,IR5,402,2022-10_dos_iv_fsc_pob_visa_class.xlsx,401
+2022,10,FSC,Dominican Republic,IW,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,402
+2022,10,FSC,Dominican Republic,SE,4,2022-10_dos_iv_fsc_pob_visa_class.xlsx,403
+2022,10,FSC,Ecuador,CR1,7,2022-10_dos_iv_fsc_pob_visa_class.xlsx,404
+2022,10,FSC,Ecuador,CR2,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,405
+2022,10,FSC,Ecuador,CX,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,406
+2022,10,FSC,Ecuador,EW,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,407
+2022,10,FSC,Ecuador,F1,30,2022-10_dos_iv_fsc_pob_visa_class.xlsx,408
+2022,10,FSC,Ecuador,F2B,24,2022-10_dos_iv_fsc_pob_visa_class.xlsx,409
+2022,10,FSC,Ecuador,F3,7,2022-10_dos_iv_fsc_pob_visa_class.xlsx,410
+2022,10,FSC,Ecuador,F4,33,2022-10_dos_iv_fsc_pob_visa_class.xlsx,411
+2022,10,FSC,Ecuador,FX,87,2022-10_dos_iv_fsc_pob_visa_class.xlsx,412
+2022,10,FSC,Ecuador,IB1,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,413
+2022,10,FSC,Ecuador,IR1,38,2022-10_dos_iv_fsc_pob_visa_class.xlsx,414
+2022,10,FSC,Ecuador,IR2,47,2022-10_dos_iv_fsc_pob_visa_class.xlsx,415
+2022,10,FSC,Ecuador,IR5,64,2022-10_dos_iv_fsc_pob_visa_class.xlsx,416
+2022,10,FSC,Ecuador,IW,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,417
+2022,10,FSC,Ecuador,SB1,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,418
+2022,10,FSC,Egypt,CR1,16,2022-10_dos_iv_fsc_pob_visa_class.xlsx,419
+2022,10,FSC,Egypt,DV,67,2022-10_dos_iv_fsc_pob_visa_class.xlsx,420
+2022,10,FSC,Egypt,E1,6,2022-10_dos_iv_fsc_pob_visa_class.xlsx,421
+2022,10,FSC,Egypt,E2,7,2022-10_dos_iv_fsc_pob_visa_class.xlsx,422
+2022,10,FSC,Egypt,EW,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,423
+2022,10,FSC,Egypt,F1,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,424
+2022,10,FSC,Egypt,F3,6,2022-10_dos_iv_fsc_pob_visa_class.xlsx,425
+2022,10,FSC,Egypt,F4,50,2022-10_dos_iv_fsc_pob_visa_class.xlsx,426
+2022,10,FSC,Egypt,FX,30,2022-10_dos_iv_fsc_pob_visa_class.xlsx,427
+2022,10,FSC,Egypt,IR1,82,2022-10_dos_iv_fsc_pob_visa_class.xlsx,428
+2022,10,FSC,Egypt,IR2,40,2022-10_dos_iv_fsc_pob_visa_class.xlsx,429
+2022,10,FSC,Egypt,IR5,87,2022-10_dos_iv_fsc_pob_visa_class.xlsx,430
+2022,10,FSC,Egypt,IW,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,431
+2022,10,FSC,Egypt,SB1,4,2022-10_dos_iv_fsc_pob_visa_class.xlsx,432
+2022,10,FSC,Egypt,SE,6,2022-10_dos_iv_fsc_pob_visa_class.xlsx,433
+2022,10,FSC,El Salvador,CR1,45,2022-10_dos_iv_fsc_pob_visa_class.xlsx,434
+2022,10,FSC,El Salvador,CR2,17,2022-10_dos_iv_fsc_pob_visa_class.xlsx,435
+2022,10,FSC,El Salvador,CX,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,436
+2022,10,FSC,El Salvador,E3,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,437
+2022,10,FSC,El Salvador,EW,5,2022-10_dos_iv_fsc_pob_visa_class.xlsx,438
+2022,10,FSC,El Salvador,F1,57,2022-10_dos_iv_fsc_pob_visa_class.xlsx,439
+2022,10,FSC,El Salvador,F2A,9,2022-10_dos_iv_fsc_pob_visa_class.xlsx,440
+2022,10,FSC,El Salvador,F2B,62,2022-10_dos_iv_fsc_pob_visa_class.xlsx,441
+2022,10,FSC,El Salvador,F3,30,2022-10_dos_iv_fsc_pob_visa_class.xlsx,442
+2022,10,FSC,El Salvador,F4,44,2022-10_dos_iv_fsc_pob_visa_class.xlsx,443
+2022,10,FSC,El Salvador,FX,266,2022-10_dos_iv_fsc_pob_visa_class.xlsx,444
+2022,10,FSC,El Salvador,IR1,157,2022-10_dos_iv_fsc_pob_visa_class.xlsx,445
+2022,10,FSC,El Salvador,IR2,128,2022-10_dos_iv_fsc_pob_visa_class.xlsx,446
+2022,10,FSC,El Salvador,IR5,142,2022-10_dos_iv_fsc_pob_visa_class.xlsx,447
+2022,10,FSC,El Salvador,SB1,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,448
+2022,10,FSC,El Salvador,SU,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,449
+2022,10,FSC,Eritrea,F1,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,450
+2022,10,FSC,Eritrea,FX,16,2022-10_dos_iv_fsc_pob_visa_class.xlsx,451
+2022,10,FSC,Eritrea,IR1,17,2022-10_dos_iv_fsc_pob_visa_class.xlsx,452
+2022,10,FSC,Eritrea,IR2,8,2022-10_dos_iv_fsc_pob_visa_class.xlsx,453
+2022,10,FSC,Eritrea,IR5,5,2022-10_dos_iv_fsc_pob_visa_class.xlsx,454
+2022,10,FSC,Eritrea,SB1,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,455
+2022,10,FSC,Eritrea,SE,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,456
+2022,10,FSC,Estonia,IR1,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,457
+2022,10,FSC,Estonia,IR5,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,458
+2022,10,FSC,Eswatini,IR2,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,459
+2022,10,FSC,Ethiopia,CR1,8,2022-10_dos_iv_fsc_pob_visa_class.xlsx,460
+2022,10,FSC,Ethiopia,DV,23,2022-10_dos_iv_fsc_pob_visa_class.xlsx,461
+2022,10,FSC,Ethiopia,E2,4,2022-10_dos_iv_fsc_pob_visa_class.xlsx,462
+2022,10,FSC,Ethiopia,F1,25,2022-10_dos_iv_fsc_pob_visa_class.xlsx,463
+2022,10,FSC,Ethiopia,F2A,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,464
+2022,10,FSC,Ethiopia,F2B,20,2022-10_dos_iv_fsc_pob_visa_class.xlsx,465
+2022,10,FSC,Ethiopia,F3,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,466
+2022,10,FSC,Ethiopia,F4,6,2022-10_dos_iv_fsc_pob_visa_class.xlsx,467
+2022,10,FSC,Ethiopia,FX,138,2022-10_dos_iv_fsc_pob_visa_class.xlsx,468
+2022,10,FSC,Ethiopia,IR1,140,2022-10_dos_iv_fsc_pob_visa_class.xlsx,469
+2022,10,FSC,Ethiopia,IR2,72,2022-10_dos_iv_fsc_pob_visa_class.xlsx,470
+2022,10,FSC,Ethiopia,IR5,77,2022-10_dos_iv_fsc_pob_visa_class.xlsx,471
+2022,10,FSC,Ethiopia,SB1,6,2022-10_dos_iv_fsc_pob_visa_class.xlsx,472
+2022,10,FSC,Ethiopia,SE,5,2022-10_dos_iv_fsc_pob_visa_class.xlsx,473
+2022,10,FSC,Fiji,DV,26,2022-10_dos_iv_fsc_pob_visa_class.xlsx,474
+2022,10,FSC,Fiji,F1,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,475
+2022,10,FSC,Fiji,IR1,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,476
+2022,10,FSC,Fiji,IR2,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,477
+2022,10,FSC,Fiji,IR5,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,478
+2022,10,FSC,Finland,DV,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,479
+2022,10,FSC,Finland,IR1,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,480
+2022,10,FSC,France,CR1,13,2022-10_dos_iv_fsc_pob_visa_class.xlsx,481
+2022,10,FSC,France,CR2,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,482
+2022,10,FSC,France,E1,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,483
+2022,10,FSC,France,E3,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,484
+2022,10,FSC,France,F1,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,485
+2022,10,FSC,France,FX,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,486
+2022,10,FSC,France,IR1,18,2022-10_dos_iv_fsc_pob_visa_class.xlsx,487
+2022,10,FSC,France,IR2,6,2022-10_dos_iv_fsc_pob_visa_class.xlsx,488
+2022,10,FSC,France,IR5,8,2022-10_dos_iv_fsc_pob_visa_class.xlsx,489
+2022,10,FSC,France,SQ3,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,490
+2022,10,FSC,Gabon,CR1,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,491
+2022,10,FSC,Gabon,DV,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,492
+2022,10,FSC,Gabon,F1,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,493
+2022,10,FSC,Gabon,F4,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,494
+2022,10,FSC,Gabon,FX,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,495
+2022,10,FSC,Gabon,IR1,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,496
+2022,10,FSC,Gabon,IR2,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,497
+2022,10,FSC,"Gambia, The",CR1,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,498
+2022,10,FSC,"Gambia, The",DV,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,499
+2022,10,FSC,"Gambia, The",FX,6,2022-10_dos_iv_fsc_pob_visa_class.xlsx,500
+2022,10,FSC,"Gambia, The",IR1,11,2022-10_dos_iv_fsc_pob_visa_class.xlsx,501
+2022,10,FSC,"Gambia, The",IR2,6,2022-10_dos_iv_fsc_pob_visa_class.xlsx,502
+2022,10,FSC,"Gambia, The",IR5,9,2022-10_dos_iv_fsc_pob_visa_class.xlsx,503
+2022,10,FSC,Georgia,CR1,8,2022-10_dos_iv_fsc_pob_visa_class.xlsx,504
+2022,10,FSC,Georgia,CR2,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,505
+2022,10,FSC,Georgia,DV,34,2022-10_dos_iv_fsc_pob_visa_class.xlsx,506
+2022,10,FSC,Georgia,E2,4,2022-10_dos_iv_fsc_pob_visa_class.xlsx,507
+2022,10,FSC,Georgia,E3,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,508
+2022,10,FSC,Georgia,F2A,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,509
+2022,10,FSC,Georgia,F2B,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,510
+2022,10,FSC,Georgia,FX,21,2022-10_dos_iv_fsc_pob_visa_class.xlsx,511
+2022,10,FSC,Georgia,I5,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,512
+2022,10,FSC,Georgia,IR1,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,513
+2022,10,FSC,Georgia,IR2,22,2022-10_dos_iv_fsc_pob_visa_class.xlsx,514
+2022,10,FSC,Georgia,IR5,21,2022-10_dos_iv_fsc_pob_visa_class.xlsx,515
+2022,10,FSC,Georgia,SE,4,2022-10_dos_iv_fsc_pob_visa_class.xlsx,516
+2022,10,FSC,Germany,CR1,18,2022-10_dos_iv_fsc_pob_visa_class.xlsx,517
+2022,10,FSC,Germany,CR2,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,518
+2022,10,FSC,Germany,DV,8,2022-10_dos_iv_fsc_pob_visa_class.xlsx,519
+2022,10,FSC,Germany,E1,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,520
+2022,10,FSC,Germany,E2,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,521
+2022,10,FSC,Germany,E3,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,522
+2022,10,FSC,Germany,F2B,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,523
+2022,10,FSC,Germany,F3,5,2022-10_dos_iv_fsc_pob_visa_class.xlsx,524
+2022,10,FSC,Germany,FX,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,525
+2022,10,FSC,Germany,I5,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,526
+2022,10,FSC,Germany,IR1,29,2022-10_dos_iv_fsc_pob_visa_class.xlsx,527
+2022,10,FSC,Germany,IR2,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,528
+2022,10,FSC,Germany,IR5,5,2022-10_dos_iv_fsc_pob_visa_class.xlsx,529
+2022,10,FSC,Germany,SB1,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,530
+2022,10,FSC,Germany,SQ3,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,531
+2022,10,FSC,Germany,SR,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,532
+2022,10,FSC,Ghana,CR1,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,533
+2022,10,FSC,Ghana,E3,18,2022-10_dos_iv_fsc_pob_visa_class.xlsx,534
+2022,10,FSC,Ghana,F1,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,535
+2022,10,FSC,Ghana,F2B,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,536
+2022,10,FSC,Ghana,F3,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,537
+2022,10,FSC,Ghana,F4,8,2022-10_dos_iv_fsc_pob_visa_class.xlsx,538
+2022,10,FSC,Ghana,FX,5,2022-10_dos_iv_fsc_pob_visa_class.xlsx,539
+2022,10,FSC,Ghana,IH3,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,540
+2022,10,FSC,Ghana,IR1,69,2022-10_dos_iv_fsc_pob_visa_class.xlsx,541
+2022,10,FSC,Ghana,IR2,58,2022-10_dos_iv_fsc_pob_visa_class.xlsx,542
+2022,10,FSC,Ghana,IR5,19,2022-10_dos_iv_fsc_pob_visa_class.xlsx,543
+2022,10,FSC,Ghana,IW,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,544
+2022,10,FSC,Ghana,SE,5,2022-10_dos_iv_fsc_pob_visa_class.xlsx,545
+2022,10,FSC,Great Britain and Northern Ireland,CR1,30,2022-10_dos_iv_fsc_pob_visa_class.xlsx,546
+2022,10,FSC,Great Britain and Northern Ireland,E1,10,2022-10_dos_iv_fsc_pob_visa_class.xlsx,547
+2022,10,FSC,Great Britain and Northern Ireland,E2,10,2022-10_dos_iv_fsc_pob_visa_class.xlsx,548
+2022,10,FSC,Great Britain and Northern Ireland,E3,23,2022-10_dos_iv_fsc_pob_visa_class.xlsx,549
+2022,10,FSC,Great Britain and Northern Ireland,EW,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,550
+2022,10,FSC,Great Britain and Northern Ireland,F3,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,551
+2022,10,FSC,Great Britain and Northern Ireland,FX,4,2022-10_dos_iv_fsc_pob_visa_class.xlsx,552
+2022,10,FSC,Great Britain and Northern Ireland,IR1,39,2022-10_dos_iv_fsc_pob_visa_class.xlsx,553
+2022,10,FSC,Great Britain and Northern Ireland,IR2,8,2022-10_dos_iv_fsc_pob_visa_class.xlsx,554
+2022,10,FSC,Great Britain and Northern Ireland,IR5,13,2022-10_dos_iv_fsc_pob_visa_class.xlsx,555
+2022,10,FSC,Great Britain and Northern Ireland,SB1,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,556
+2022,10,FSC,Greece,CR1,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,557
+2022,10,FSC,Greece,DV,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,558
+2022,10,FSC,Greece,E3,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,559
+2022,10,FSC,Greece,FX,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,560
+2022,10,FSC,Greece,IR1,4,2022-10_dos_iv_fsc_pob_visa_class.xlsx,561
+2022,10,FSC,Greece,IR2,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,562
+2022,10,FSC,Greece,IR5,4,2022-10_dos_iv_fsc_pob_visa_class.xlsx,563
+2022,10,FSC,Grenada,E3,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,564
+2022,10,FSC,Grenada,F1,5,2022-10_dos_iv_fsc_pob_visa_class.xlsx,565
+2022,10,FSC,Grenada,F4,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,566
+2022,10,FSC,Grenada,FX,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,567
+2022,10,FSC,Grenada,IR1,6,2022-10_dos_iv_fsc_pob_visa_class.xlsx,568
+2022,10,FSC,Grenada,IR2,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,569
+2022,10,FSC,Grenada,IR5,8,2022-10_dos_iv_fsc_pob_visa_class.xlsx,570
+2022,10,FSC,Guatemala,CR1,16,2022-10_dos_iv_fsc_pob_visa_class.xlsx,571
+2022,10,FSC,Guatemala,CR2,5,2022-10_dos_iv_fsc_pob_visa_class.xlsx,572
+2022,10,FSC,Guatemala,DV,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,573
+2022,10,FSC,Guatemala,E1,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,574
+2022,10,FSC,Guatemala,E3,8,2022-10_dos_iv_fsc_pob_visa_class.xlsx,575
+2022,10,FSC,Guatemala,EW,12,2022-10_dos_iv_fsc_pob_visa_class.xlsx,576
+2022,10,FSC,Guatemala,F1,46,2022-10_dos_iv_fsc_pob_visa_class.xlsx,577
+2022,10,FSC,Guatemala,F2B,38,2022-10_dos_iv_fsc_pob_visa_class.xlsx,578
+2022,10,FSC,Guatemala,F3,20,2022-10_dos_iv_fsc_pob_visa_class.xlsx,579
+2022,10,FSC,Guatemala,F4,28,2022-10_dos_iv_fsc_pob_visa_class.xlsx,580
+2022,10,FSC,Guatemala,FX,154,2022-10_dos_iv_fsc_pob_visa_class.xlsx,581
+2022,10,FSC,Guatemala,IB1,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,582
+2022,10,FSC,Guatemala,IR1,113,2022-10_dos_iv_fsc_pob_visa_class.xlsx,583
+2022,10,FSC,Guatemala,IR2,62,2022-10_dos_iv_fsc_pob_visa_class.xlsx,584
+2022,10,FSC,Guatemala,IR5,64,2022-10_dos_iv_fsc_pob_visa_class.xlsx,585
+2022,10,FSC,Guatemala,IW,4,2022-10_dos_iv_fsc_pob_visa_class.xlsx,586
+2022,10,FSC,Guatemala,SU,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,587
+2022,10,FSC,Guinea,CR1,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,588
+2022,10,FSC,Guinea,DV,9,2022-10_dos_iv_fsc_pob_visa_class.xlsx,589
+2022,10,FSC,Guinea,F1,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,590
+2022,10,FSC,Guinea,IR1,9,2022-10_dos_iv_fsc_pob_visa_class.xlsx,591
+2022,10,FSC,Guinea,IR2,12,2022-10_dos_iv_fsc_pob_visa_class.xlsx,592
+2022,10,FSC,Guinea,IR5,5,2022-10_dos_iv_fsc_pob_visa_class.xlsx,593
+2022,10,FSC,Guinea,SE,19,2022-10_dos_iv_fsc_pob_visa_class.xlsx,594
+2022,10,FSC,Guinea-Bissau,F1,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,595
+2022,10,FSC,Guyana,CR1,7,2022-10_dos_iv_fsc_pob_visa_class.xlsx,596
+2022,10,FSC,Guyana,E3,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,597
+2022,10,FSC,Guyana,F1,40,2022-10_dos_iv_fsc_pob_visa_class.xlsx,598
+2022,10,FSC,Guyana,F2B,7,2022-10_dos_iv_fsc_pob_visa_class.xlsx,599
+2022,10,FSC,Guyana,F3,8,2022-10_dos_iv_fsc_pob_visa_class.xlsx,600
+2022,10,FSC,Guyana,F4,21,2022-10_dos_iv_fsc_pob_visa_class.xlsx,601
+2022,10,FSC,Guyana,FX,35,2022-10_dos_iv_fsc_pob_visa_class.xlsx,602
+2022,10,FSC,Guyana,IR1,17,2022-10_dos_iv_fsc_pob_visa_class.xlsx,603
+2022,10,FSC,Guyana,IR2,18,2022-10_dos_iv_fsc_pob_visa_class.xlsx,604
+2022,10,FSC,Guyana,IR5,27,2022-10_dos_iv_fsc_pob_visa_class.xlsx,605
+2022,10,FSC,Haiti,CR1,5,2022-10_dos_iv_fsc_pob_visa_class.xlsx,606
+2022,10,FSC,Haiti,E2,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,607
+2022,10,FSC,Haiti,E3,4,2022-10_dos_iv_fsc_pob_visa_class.xlsx,608
+2022,10,FSC,Haiti,F1,40,2022-10_dos_iv_fsc_pob_visa_class.xlsx,609
+2022,10,FSC,Haiti,F2B,41,2022-10_dos_iv_fsc_pob_visa_class.xlsx,610
+2022,10,FSC,Haiti,F3,6,2022-10_dos_iv_fsc_pob_visa_class.xlsx,611
+2022,10,FSC,Haiti,F4,14,2022-10_dos_iv_fsc_pob_visa_class.xlsx,612
+2022,10,FSC,Haiti,FX,77,2022-10_dos_iv_fsc_pob_visa_class.xlsx,613
+2022,10,FSC,Haiti,IH3,11,2022-10_dos_iv_fsc_pob_visa_class.xlsx,614
+2022,10,FSC,Haiti,IR1,208,2022-10_dos_iv_fsc_pob_visa_class.xlsx,615
+2022,10,FSC,Haiti,IR2,239,2022-10_dos_iv_fsc_pob_visa_class.xlsx,616
+2022,10,FSC,Haiti,IR5,90,2022-10_dos_iv_fsc_pob_visa_class.xlsx,617
+2022,10,FSC,Haiti,SB1,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,618
+2022,10,FSC,Haiti,SE,28,2022-10_dos_iv_fsc_pob_visa_class.xlsx,619
+2022,10,FSC,Honduras,CR1,7,2022-10_dos_iv_fsc_pob_visa_class.xlsx,620
+2022,10,FSC,Honduras,CR2,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,621
+2022,10,FSC,Honduras,CX,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,622
+2022,10,FSC,Honduras,E2,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,623
+2022,10,FSC,Honduras,E3,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,624
+2022,10,FSC,Honduras,EW,5,2022-10_dos_iv_fsc_pob_visa_class.xlsx,625
+2022,10,FSC,Honduras,F1,26,2022-10_dos_iv_fsc_pob_visa_class.xlsx,626
+2022,10,FSC,Honduras,F2A,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,627
+2022,10,FSC,Honduras,F2B,17,2022-10_dos_iv_fsc_pob_visa_class.xlsx,628
+2022,10,FSC,Honduras,F3,12,2022-10_dos_iv_fsc_pob_visa_class.xlsx,629
+2022,10,FSC,Honduras,F4,19,2022-10_dos_iv_fsc_pob_visa_class.xlsx,630
+2022,10,FSC,Honduras,FX,141,2022-10_dos_iv_fsc_pob_visa_class.xlsx,631
+2022,10,FSC,Honduras,IB1,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,632
+2022,10,FSC,Honduras,IR1,130,2022-10_dos_iv_fsc_pob_visa_class.xlsx,633
+2022,10,FSC,Honduras,IR2,102,2022-10_dos_iv_fsc_pob_visa_class.xlsx,634
+2022,10,FSC,Honduras,IR5,50,2022-10_dos_iv_fsc_pob_visa_class.xlsx,635
+2022,10,FSC,Hong Kong S.A.R.,CX,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,636
+2022,10,FSC,Hong Kong S.A.R.,E1,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,637
+2022,10,FSC,Hong Kong S.A.R.,E2,5,2022-10_dos_iv_fsc_pob_visa_class.xlsx,638
+2022,10,FSC,Hong Kong S.A.R.,E3,6,2022-10_dos_iv_fsc_pob_visa_class.xlsx,639
+2022,10,FSC,Hong Kong S.A.R.,EW,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,640
+2022,10,FSC,Hong Kong S.A.R.,F1,11,2022-10_dos_iv_fsc_pob_visa_class.xlsx,641
+2022,10,FSC,Hong Kong S.A.R.,F2B,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,642
+2022,10,FSC,Hong Kong S.A.R.,F3,21,2022-10_dos_iv_fsc_pob_visa_class.xlsx,643
+2022,10,FSC,Hong Kong S.A.R.,F4,41,2022-10_dos_iv_fsc_pob_visa_class.xlsx,644
+2022,10,FSC,Hong Kong S.A.R.,FX,15,2022-10_dos_iv_fsc_pob_visa_class.xlsx,645
+2022,10,FSC,Hong Kong S.A.R.,I5,16,2022-10_dos_iv_fsc_pob_visa_class.xlsx,646
+2022,10,FSC,Hong Kong S.A.R.,IH4,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,647
+2022,10,FSC,Hong Kong S.A.R.,IR1,7,2022-10_dos_iv_fsc_pob_visa_class.xlsx,648
+2022,10,FSC,Hong Kong S.A.R.,IR2,4,2022-10_dos_iv_fsc_pob_visa_class.xlsx,649
+2022,10,FSC,Hong Kong S.A.R.,IR5,13,2022-10_dos_iv_fsc_pob_visa_class.xlsx,650
+2022,10,FSC,Hong Kong S.A.R.,SB1,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,651
+2022,10,FSC,Hungary,CR1,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,652
+2022,10,FSC,Hungary,DV,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,653
+2022,10,FSC,Hungary,F1,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,654
+2022,10,FSC,Hungary,FX,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,655
+2022,10,FSC,Hungary,IH3,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,656
+2022,10,FSC,Hungary,IR1,4,2022-10_dos_iv_fsc_pob_visa_class.xlsx,657
+2022,10,FSC,Hungary,IR2,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,658
+2022,10,FSC,Hungary,SB1,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,659
+2022,10,FSC,Iceland,IR1,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,660
+2022,10,FSC,India,C5,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,661
+2022,10,FSC,India,CR1,93,2022-10_dos_iv_fsc_pob_visa_class.xlsx,662
+2022,10,FSC,India,CR2,4,2022-10_dos_iv_fsc_pob_visa_class.xlsx,663
+2022,10,FSC,India,E1,30,2022-10_dos_iv_fsc_pob_visa_class.xlsx,664
+2022,10,FSC,India,E2,6,2022-10_dos_iv_fsc_pob_visa_class.xlsx,665
+2022,10,FSC,India,E3,48,2022-10_dos_iv_fsc_pob_visa_class.xlsx,666
+2022,10,FSC,India,F1,25,2022-10_dos_iv_fsc_pob_visa_class.xlsx,667
+2022,10,FSC,India,F2A,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,668
+2022,10,FSC,India,F2B,36,2022-10_dos_iv_fsc_pob_visa_class.xlsx,669
+2022,10,FSC,India,F3,390,2022-10_dos_iv_fsc_pob_visa_class.xlsx,670
+2022,10,FSC,India,F4,494,2022-10_dos_iv_fsc_pob_visa_class.xlsx,671
+2022,10,FSC,India,FX,164,2022-10_dos_iv_fsc_pob_visa_class.xlsx,672
+2022,10,FSC,India,I5,154,2022-10_dos_iv_fsc_pob_visa_class.xlsx,673
+2022,10,FSC,India,IH3,10,2022-10_dos_iv_fsc_pob_visa_class.xlsx,674
+2022,10,FSC,India,IR1,195,2022-10_dos_iv_fsc_pob_visa_class.xlsx,675
+2022,10,FSC,India,IR2,41,2022-10_dos_iv_fsc_pob_visa_class.xlsx,676
+2022,10,FSC,India,IR5,776,2022-10_dos_iv_fsc_pob_visa_class.xlsx,677
+2022,10,FSC,India,SB1,21,2022-10_dos_iv_fsc_pob_visa_class.xlsx,678
+2022,10,FSC,India,SD,64,2022-10_dos_iv_fsc_pob_visa_class.xlsx,679
+2022,10,FSC,India,SE,15,2022-10_dos_iv_fsc_pob_visa_class.xlsx,680
+2022,10,FSC,India,SR,4,2022-10_dos_iv_fsc_pob_visa_class.xlsx,681
+2022,10,FSC,India,SU,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,682
+2022,10,FSC,India,T5,5,2022-10_dos_iv_fsc_pob_visa_class.xlsx,683
+2022,10,FSC,Indonesia,CR1,4,2022-10_dos_iv_fsc_pob_visa_class.xlsx,684
+2022,10,FSC,Indonesia,DV,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,685
+2022,10,FSC,Indonesia,EW,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,686
+2022,10,FSC,Indonesia,F1,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,687
+2022,10,FSC,Indonesia,F2B,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,688
+2022,10,FSC,Indonesia,F3,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,689
+2022,10,FSC,Indonesia,F4,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,690
+2022,10,FSC,Indonesia,FX,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,691
+2022,10,FSC,Indonesia,IR1,11,2022-10_dos_iv_fsc_pob_visa_class.xlsx,692
+2022,10,FSC,Indonesia,IR2,6,2022-10_dos_iv_fsc_pob_visa_class.xlsx,693
+2022,10,FSC,Indonesia,IR5,10,2022-10_dos_iv_fsc_pob_visa_class.xlsx,694
+2022,10,FSC,Indonesia,SD,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,695
+2022,10,FSC,Indonesia,SE,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,696
+2022,10,FSC,Iran,CR1,5,2022-10_dos_iv_fsc_pob_visa_class.xlsx,697
+2022,10,FSC,Iran,CX,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,698
+2022,10,FSC,Iran,DV,7,2022-10_dos_iv_fsc_pob_visa_class.xlsx,699
+2022,10,FSC,Iran,E1,10,2022-10_dos_iv_fsc_pob_visa_class.xlsx,700
+2022,10,FSC,Iran,E2,28,2022-10_dos_iv_fsc_pob_visa_class.xlsx,701
+2022,10,FSC,Iran,E3,9,2022-10_dos_iv_fsc_pob_visa_class.xlsx,702
+2022,10,FSC,Iran,EW,10,2022-10_dos_iv_fsc_pob_visa_class.xlsx,703
+2022,10,FSC,Iran,F1,30,2022-10_dos_iv_fsc_pob_visa_class.xlsx,704
+2022,10,FSC,Iran,F2B,14,2022-10_dos_iv_fsc_pob_visa_class.xlsx,705
+2022,10,FSC,Iran,F3,43,2022-10_dos_iv_fsc_pob_visa_class.xlsx,706
+2022,10,FSC,Iran,F4,95,2022-10_dos_iv_fsc_pob_visa_class.xlsx,707
+2022,10,FSC,Iran,FX,29,2022-10_dos_iv_fsc_pob_visa_class.xlsx,708
+2022,10,FSC,Iran,I5,14,2022-10_dos_iv_fsc_pob_visa_class.xlsx,709
+2022,10,FSC,Iran,IR1,54,2022-10_dos_iv_fsc_pob_visa_class.xlsx,710
+2022,10,FSC,Iran,IR2,5,2022-10_dos_iv_fsc_pob_visa_class.xlsx,711
+2022,10,FSC,Iran,IR5,285,2022-10_dos_iv_fsc_pob_visa_class.xlsx,712
+2022,10,FSC,Iran,SB1,5,2022-10_dos_iv_fsc_pob_visa_class.xlsx,713
+2022,10,FSC,Iran,SQ3,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,714
+2022,10,FSC,Iraq,CR1,7,2022-10_dos_iv_fsc_pob_visa_class.xlsx,715
+2022,10,FSC,Iraq,DV,15,2022-10_dos_iv_fsc_pob_visa_class.xlsx,716
+2022,10,FSC,Iraq,EW,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,717
+2022,10,FSC,Iraq,F1,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,718
+2022,10,FSC,Iraq,F3,5,2022-10_dos_iv_fsc_pob_visa_class.xlsx,719
+2022,10,FSC,Iraq,F4,9,2022-10_dos_iv_fsc_pob_visa_class.xlsx,720
+2022,10,FSC,Iraq,FX,25,2022-10_dos_iv_fsc_pob_visa_class.xlsx,721
+2022,10,FSC,Iraq,IR1,40,2022-10_dos_iv_fsc_pob_visa_class.xlsx,722
+2022,10,FSC,Iraq,IR2,10,2022-10_dos_iv_fsc_pob_visa_class.xlsx,723
+2022,10,FSC,Iraq,IR5,42,2022-10_dos_iv_fsc_pob_visa_class.xlsx,724
+2022,10,FSC,Iraq,SI1,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,725
+2022,10,FSC,Iraq,SQ1,6,2022-10_dos_iv_fsc_pob_visa_class.xlsx,726
+2022,10,FSC,Iraq,SQ2,5,2022-10_dos_iv_fsc_pob_visa_class.xlsx,727
+2022,10,FSC,Iraq,SQ3,13,2022-10_dos_iv_fsc_pob_visa_class.xlsx,728
+2022,10,FSC,Ireland,CR1,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,729
+2022,10,FSC,Ireland,E3,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,730
+2022,10,FSC,Ireland,IR1,4,2022-10_dos_iv_fsc_pob_visa_class.xlsx,731
+2022,10,FSC,Ireland,IR2,6,2022-10_dos_iv_fsc_pob_visa_class.xlsx,732
+2022,10,FSC,Israel,CR1,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,733
+2022,10,FSC,Israel,E3,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,734
+2022,10,FSC,Israel,IR1,7,2022-10_dos_iv_fsc_pob_visa_class.xlsx,735
+2022,10,FSC,Israel,IR2,7,2022-10_dos_iv_fsc_pob_visa_class.xlsx,736
+2022,10,FSC,Israel,IR5,11,2022-10_dos_iv_fsc_pob_visa_class.xlsx,737
+2022,10,FSC,Italy,CR1,12,2022-10_dos_iv_fsc_pob_visa_class.xlsx,738
+2022,10,FSC,Italy,CR2,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,739
+2022,10,FSC,Italy,DV,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,740
+2022,10,FSC,Italy,E1,4,2022-10_dos_iv_fsc_pob_visa_class.xlsx,741
+2022,10,FSC,Italy,E2,8,2022-10_dos_iv_fsc_pob_visa_class.xlsx,742
+2022,10,FSC,Italy,E3,6,2022-10_dos_iv_fsc_pob_visa_class.xlsx,743
+2022,10,FSC,Italy,EW,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,744
+2022,10,FSC,Italy,F1,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,745
+2022,10,FSC,Italy,F3,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,746
+2022,10,FSC,Italy,F4,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,747
+2022,10,FSC,Italy,FX,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,748
+2022,10,FSC,Italy,IR1,13,2022-10_dos_iv_fsc_pob_visa_class.xlsx,749
+2022,10,FSC,Italy,IR2,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,750
+2022,10,FSC,Italy,IR5,4,2022-10_dos_iv_fsc_pob_visa_class.xlsx,751
+2022,10,FSC,Italy,SB1,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,752
+2022,10,FSC,Jamaica,CR1,8,2022-10_dos_iv_fsc_pob_visa_class.xlsx,753
+2022,10,FSC,Jamaica,CR2,5,2022-10_dos_iv_fsc_pob_visa_class.xlsx,754
+2022,10,FSC,Jamaica,E1,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,755
+2022,10,FSC,Jamaica,E3,21,2022-10_dos_iv_fsc_pob_visa_class.xlsx,756
+2022,10,FSC,Jamaica,F1,176,2022-10_dos_iv_fsc_pob_visa_class.xlsx,757
+2022,10,FSC,Jamaica,F2A,4,2022-10_dos_iv_fsc_pob_visa_class.xlsx,758
+2022,10,FSC,Jamaica,F2B,38,2022-10_dos_iv_fsc_pob_visa_class.xlsx,759
+2022,10,FSC,Jamaica,F3,33,2022-10_dos_iv_fsc_pob_visa_class.xlsx,760
+2022,10,FSC,Jamaica,F4,14,2022-10_dos_iv_fsc_pob_visa_class.xlsx,761
+2022,10,FSC,Jamaica,FX,152,2022-10_dos_iv_fsc_pob_visa_class.xlsx,762
+2022,10,FSC,Jamaica,IB1,4,2022-10_dos_iv_fsc_pob_visa_class.xlsx,763
+2022,10,FSC,Jamaica,IR1,122,2022-10_dos_iv_fsc_pob_visa_class.xlsx,764
+2022,10,FSC,Jamaica,IR2,204,2022-10_dos_iv_fsc_pob_visa_class.xlsx,765
+2022,10,FSC,Jamaica,IR4,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,766
+2022,10,FSC,Jamaica,IR5,170,2022-10_dos_iv_fsc_pob_visa_class.xlsx,767
+2022,10,FSC,Jamaica,SE,6,2022-10_dos_iv_fsc_pob_visa_class.xlsx,768
+2022,10,FSC,Japan,CR1,4,2022-10_dos_iv_fsc_pob_visa_class.xlsx,769
+2022,10,FSC,Japan,E1,5,2022-10_dos_iv_fsc_pob_visa_class.xlsx,770
+2022,10,FSC,Japan,E2,7,2022-10_dos_iv_fsc_pob_visa_class.xlsx,771
+2022,10,FSC,Japan,E3,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,772
+2022,10,FSC,Japan,F1,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,773
+2022,10,FSC,Japan,FX,4,2022-10_dos_iv_fsc_pob_visa_class.xlsx,774
+2022,10,FSC,Japan,IR1,64,2022-10_dos_iv_fsc_pob_visa_class.xlsx,775
+2022,10,FSC,Japan,IR2,8,2022-10_dos_iv_fsc_pob_visa_class.xlsx,776
+2022,10,FSC,Japan,IR5,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,777
+2022,10,FSC,Japan,SB1,6,2022-10_dos_iv_fsc_pob_visa_class.xlsx,778
+2022,10,FSC,Jordan,CR1,20,2022-10_dos_iv_fsc_pob_visa_class.xlsx,779
+2022,10,FSC,Jordan,DV,13,2022-10_dos_iv_fsc_pob_visa_class.xlsx,780
+2022,10,FSC,Jordan,E2,5,2022-10_dos_iv_fsc_pob_visa_class.xlsx,781
+2022,10,FSC,Jordan,E3,11,2022-10_dos_iv_fsc_pob_visa_class.xlsx,782
+2022,10,FSC,Jordan,F1,7,2022-10_dos_iv_fsc_pob_visa_class.xlsx,783
+2022,10,FSC,Jordan,F3,31,2022-10_dos_iv_fsc_pob_visa_class.xlsx,784
+2022,10,FSC,Jordan,F4,15,2022-10_dos_iv_fsc_pob_visa_class.xlsx,785
+2022,10,FSC,Jordan,FX,45,2022-10_dos_iv_fsc_pob_visa_class.xlsx,786
+2022,10,FSC,Jordan,I5,6,2022-10_dos_iv_fsc_pob_visa_class.xlsx,787
+2022,10,FSC,Jordan,IR1,46,2022-10_dos_iv_fsc_pob_visa_class.xlsx,788
+2022,10,FSC,Jordan,IR2,35,2022-10_dos_iv_fsc_pob_visa_class.xlsx,789
+2022,10,FSC,Jordan,IR5,56,2022-10_dos_iv_fsc_pob_visa_class.xlsx,790
+2022,10,FSC,Jordan,SB1,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,791
+2022,10,FSC,Jordan,SE,9,2022-10_dos_iv_fsc_pob_visa_class.xlsx,792
+2022,10,FSC,Kazakhstan,CR1,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,793
+2022,10,FSC,Kazakhstan,CR2,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,794
+2022,10,FSC,Kazakhstan,DV,39,2022-10_dos_iv_fsc_pob_visa_class.xlsx,795
+2022,10,FSC,Kazakhstan,E1,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,796
+2022,10,FSC,Kazakhstan,E3,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,797
+2022,10,FSC,Kazakhstan,F1,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,798
+2022,10,FSC,Kazakhstan,FX,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,799
+2022,10,FSC,Kazakhstan,I5,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,800
+2022,10,FSC,Kazakhstan,IR1,4,2022-10_dos_iv_fsc_pob_visa_class.xlsx,801
+2022,10,FSC,Kazakhstan,IR2,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,802
+2022,10,FSC,Kazakhstan,IR5,8,2022-10_dos_iv_fsc_pob_visa_class.xlsx,803
+2022,10,FSC,Kazakhstan,SE,8,2022-10_dos_iv_fsc_pob_visa_class.xlsx,804
+2022,10,FSC,Kenya,DV,18,2022-10_dos_iv_fsc_pob_visa_class.xlsx,805
+2022,10,FSC,Kenya,E2,4,2022-10_dos_iv_fsc_pob_visa_class.xlsx,806
+2022,10,FSC,Kenya,E3,27,2022-10_dos_iv_fsc_pob_visa_class.xlsx,807
+2022,10,FSC,Kenya,F1,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,808
+2022,10,FSC,Kenya,F2B,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,809
+2022,10,FSC,Kenya,FX,13,2022-10_dos_iv_fsc_pob_visa_class.xlsx,810
+2022,10,FSC,Kenya,IR1,8,2022-10_dos_iv_fsc_pob_visa_class.xlsx,811
+2022,10,FSC,Kenya,IR2,11,2022-10_dos_iv_fsc_pob_visa_class.xlsx,812
+2022,10,FSC,Kenya,IR5,8,2022-10_dos_iv_fsc_pob_visa_class.xlsx,813
+2022,10,FSC,Kenya,SE,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,814
+2022,10,FSC,"Korea, South",BC1,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,815
+2022,10,FSC,"Korea, South",CR1,26,2022-10_dos_iv_fsc_pob_visa_class.xlsx,816
+2022,10,FSC,"Korea, South",E1,8,2022-10_dos_iv_fsc_pob_visa_class.xlsx,817
+2022,10,FSC,"Korea, South",E2,120,2022-10_dos_iv_fsc_pob_visa_class.xlsx,818
+2022,10,FSC,"Korea, South",E3,19,2022-10_dos_iv_fsc_pob_visa_class.xlsx,819
+2022,10,FSC,"Korea, South",EW,20,2022-10_dos_iv_fsc_pob_visa_class.xlsx,820
+2022,10,FSC,"Korea, South",F1,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,821
+2022,10,FSC,"Korea, South",F2A,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,822
+2022,10,FSC,"Korea, South",F2B,6,2022-10_dos_iv_fsc_pob_visa_class.xlsx,823
+2022,10,FSC,"Korea, South",F3,6,2022-10_dos_iv_fsc_pob_visa_class.xlsx,824
+2022,10,FSC,"Korea, South",F4,13,2022-10_dos_iv_fsc_pob_visa_class.xlsx,825
+2022,10,FSC,"Korea, South",FX,11,2022-10_dos_iv_fsc_pob_visa_class.xlsx,826
+2022,10,FSC,"Korea, South",I5,29,2022-10_dos_iv_fsc_pob_visa_class.xlsx,827
+2022,10,FSC,"Korea, South",IR1,32,2022-10_dos_iv_fsc_pob_visa_class.xlsx,828
+2022,10,FSC,"Korea, South",IR2,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,829
+2022,10,FSC,"Korea, South",IR5,48,2022-10_dos_iv_fsc_pob_visa_class.xlsx,830
+2022,10,FSC,"Korea, South",SE,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,831
+2022,10,FSC,Kosovo,CR1,6,2022-10_dos_iv_fsc_pob_visa_class.xlsx,832
+2022,10,FSC,Kosovo,DV,10,2022-10_dos_iv_fsc_pob_visa_class.xlsx,833
+2022,10,FSC,Kosovo,EW,7,2022-10_dos_iv_fsc_pob_visa_class.xlsx,834
+2022,10,FSC,Kosovo,F1,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,835
+2022,10,FSC,Kosovo,F3,6,2022-10_dos_iv_fsc_pob_visa_class.xlsx,836
+2022,10,FSC,Kosovo,F4,11,2022-10_dos_iv_fsc_pob_visa_class.xlsx,837
+2022,10,FSC,Kosovo,FX,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,838
+2022,10,FSC,Kosovo,IR1,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,839
+2022,10,FSC,Kosovo,IR2,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,840
+2022,10,FSC,Kosovo,IR5,8,2022-10_dos_iv_fsc_pob_visa_class.xlsx,841
+2022,10,FSC,Kosovo,SE,10,2022-10_dos_iv_fsc_pob_visa_class.xlsx,842
+2022,10,FSC,Kuwait,E3,6,2022-10_dos_iv_fsc_pob_visa_class.xlsx,843
+2022,10,FSC,Kuwait,F3,6,2022-10_dos_iv_fsc_pob_visa_class.xlsx,844
+2022,10,FSC,Kuwait,F4,5,2022-10_dos_iv_fsc_pob_visa_class.xlsx,845
+2022,10,FSC,Kuwait,FX,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,846
+2022,10,FSC,Kuwait,IR1,4,2022-10_dos_iv_fsc_pob_visa_class.xlsx,847
+2022,10,FSC,Kuwait,IR2,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,848
+2022,10,FSC,Kuwait,IR5,11,2022-10_dos_iv_fsc_pob_visa_class.xlsx,849
+2022,10,FSC,Kyrgyzstan,CR1,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,850
+2022,10,FSC,Kyrgyzstan,DV,46,2022-10_dos_iv_fsc_pob_visa_class.xlsx,851
+2022,10,FSC,Kyrgyzstan,F3,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,852
+2022,10,FSC,Kyrgyzstan,F4,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,853
+2022,10,FSC,Kyrgyzstan,FX,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,854
+2022,10,FSC,Kyrgyzstan,IR2,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,855
+2022,10,FSC,Kyrgyzstan,IR5,12,2022-10_dos_iv_fsc_pob_visa_class.xlsx,856
+2022,10,FSC,Laos,FX,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,857
+2022,10,FSC,Laos,IR1,14,2022-10_dos_iv_fsc_pob_visa_class.xlsx,858
+2022,10,FSC,Laos,IR2,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,859
+2022,10,FSC,Laos,IR5,12,2022-10_dos_iv_fsc_pob_visa_class.xlsx,860
+2022,10,FSC,Laos,SB1,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,861
+2022,10,FSC,Latvia,CR1,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,862
+2022,10,FSC,Latvia,E3,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,863
+2022,10,FSC,Latvia,F1,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,864
+2022,10,FSC,Latvia,IR1,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,865
+2022,10,FSC,Latvia,IR2,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,866
+2022,10,FSC,Latvia,IR5,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,867
+2022,10,FSC,Lebanon,CR1,16,2022-10_dos_iv_fsc_pob_visa_class.xlsx,868
+2022,10,FSC,Lebanon,DV,4,2022-10_dos_iv_fsc_pob_visa_class.xlsx,869
+2022,10,FSC,Lebanon,E3,4,2022-10_dos_iv_fsc_pob_visa_class.xlsx,870
+2022,10,FSC,Lebanon,F1,8,2022-10_dos_iv_fsc_pob_visa_class.xlsx,871
+2022,10,FSC,Lebanon,F3,35,2022-10_dos_iv_fsc_pob_visa_class.xlsx,872
+2022,10,FSC,Lebanon,F4,28,2022-10_dos_iv_fsc_pob_visa_class.xlsx,873
+2022,10,FSC,Lebanon,FX,11,2022-10_dos_iv_fsc_pob_visa_class.xlsx,874
+2022,10,FSC,Lebanon,IR1,30,2022-10_dos_iv_fsc_pob_visa_class.xlsx,875
+2022,10,FSC,Lebanon,IR2,25,2022-10_dos_iv_fsc_pob_visa_class.xlsx,876
+2022,10,FSC,Lebanon,IR5,63,2022-10_dos_iv_fsc_pob_visa_class.xlsx,877
+2022,10,FSC,Lebanon,SR,4,2022-10_dos_iv_fsc_pob_visa_class.xlsx,878
+2022,10,FSC,Lesotho,E3,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,879
+2022,10,FSC,Liberia,DV,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,880
+2022,10,FSC,Liberia,F1,7,2022-10_dos_iv_fsc_pob_visa_class.xlsx,881
+2022,10,FSC,Liberia,FX,5,2022-10_dos_iv_fsc_pob_visa_class.xlsx,882
+2022,10,FSC,Liberia,IR1,4,2022-10_dos_iv_fsc_pob_visa_class.xlsx,883
+2022,10,FSC,Liberia,IR2,9,2022-10_dos_iv_fsc_pob_visa_class.xlsx,884
+2022,10,FSC,Liberia,IR3,6,2022-10_dos_iv_fsc_pob_visa_class.xlsx,885
+2022,10,FSC,Liberia,IR5,10,2022-10_dos_iv_fsc_pob_visa_class.xlsx,886
+2022,10,FSC,Liberia,SB1,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,887
+2022,10,FSC,Liberia,SE,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,888
+2022,10,FSC,Libya,DV,17,2022-10_dos_iv_fsc_pob_visa_class.xlsx,889
+2022,10,FSC,Libya,FX,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,890
+2022,10,FSC,Libya,IR1,5,2022-10_dos_iv_fsc_pob_visa_class.xlsx,891
+2022,10,FSC,Libya,IR2,6,2022-10_dos_iv_fsc_pob_visa_class.xlsx,892
+2022,10,FSC,Libya,IR5,6,2022-10_dos_iv_fsc_pob_visa_class.xlsx,893
+2022,10,FSC,Libya,SE,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,894
+2022,10,FSC,Lithuania,DV,10,2022-10_dos_iv_fsc_pob_visa_class.xlsx,895
+2022,10,FSC,Lithuania,E1,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,896
+2022,10,FSC,Lithuania,EW,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,897
+2022,10,FSC,Lithuania,F2B,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,898
+2022,10,FSC,Lithuania,FX,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,899
+2022,10,FSC,Lithuania,IR5,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,900
+2022,10,FSC,Luxembourg,IR1,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,901
+2022,10,FSC,Macau,F3,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,902
+2022,10,FSC,Macau,IR1,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,903
+2022,10,FSC,Madagascar,IR1,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,904
+2022,10,FSC,Madagascar,IR2,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,905
+2022,10,FSC,Madagascar,SE,8,2022-10_dos_iv_fsc_pob_visa_class.xlsx,906
+2022,10,FSC,Malawi,CR1,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,907
+2022,10,FSC,Malawi,E3,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,908
+2022,10,FSC,Malaysia,CR1,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,909
+2022,10,FSC,Malaysia,E3,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,910
+2022,10,FSC,Malaysia,F2B,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,911
+2022,10,FSC,Malaysia,F4,4,2022-10_dos_iv_fsc_pob_visa_class.xlsx,912
+2022,10,FSC,Malaysia,FX,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,913
+2022,10,FSC,Malaysia,I5,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,914
+2022,10,FSC,Malaysia,IR1,6,2022-10_dos_iv_fsc_pob_visa_class.xlsx,915
+2022,10,FSC,Malaysia,IR2,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,916
+2022,10,FSC,Malaysia,IR5,4,2022-10_dos_iv_fsc_pob_visa_class.xlsx,917
+2022,10,FSC,Malaysia,SB1,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,918
+2022,10,FSC,Mali,FX,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,919
+2022,10,FSC,Mali,IR1,6,2022-10_dos_iv_fsc_pob_visa_class.xlsx,920
+2022,10,FSC,Mali,IR2,9,2022-10_dos_iv_fsc_pob_visa_class.xlsx,921
+2022,10,FSC,Mali,IR5,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,922
+2022,10,FSC,Malta,E3,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,923
+2022,10,FSC,Mauritania,CR1,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,924
+2022,10,FSC,Mauritania,DV,4,2022-10_dos_iv_fsc_pob_visa_class.xlsx,925
+2022,10,FSC,Mauritania,IR1,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,926
+2022,10,FSC,Mauritania,IR2,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,927
+2022,10,FSC,Mexico,CR1,24,2022-10_dos_iv_fsc_pob_visa_class.xlsx,928
+2022,10,FSC,Mexico,CR2,7,2022-10_dos_iv_fsc_pob_visa_class.xlsx,929
+2022,10,FSC,Mexico,E1,5,2022-10_dos_iv_fsc_pob_visa_class.xlsx,930
+2022,10,FSC,Mexico,E2,4,2022-10_dos_iv_fsc_pob_visa_class.xlsx,931
+2022,10,FSC,Mexico,E3,4,2022-10_dos_iv_fsc_pob_visa_class.xlsx,932
+2022,10,FSC,Mexico,EW,77,2022-10_dos_iv_fsc_pob_visa_class.xlsx,933
+2022,10,FSC,Mexico,F1,121,2022-10_dos_iv_fsc_pob_visa_class.xlsx,934
+2022,10,FSC,Mexico,F2B,165,2022-10_dos_iv_fsc_pob_visa_class.xlsx,935
+2022,10,FSC,Mexico,F3,162,2022-10_dos_iv_fsc_pob_visa_class.xlsx,936
+2022,10,FSC,Mexico,F4,513,2022-10_dos_iv_fsc_pob_visa_class.xlsx,937
+2022,10,FSC,Mexico,FX,806,2022-10_dos_iv_fsc_pob_visa_class.xlsx,938
+2022,10,FSC,Mexico,I5,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,939
+2022,10,FSC,Mexico,IH3,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,940
+2022,10,FSC,Mexico,IR1,2043,2022-10_dos_iv_fsc_pob_visa_class.xlsx,941
+2022,10,FSC,Mexico,IR2,583,2022-10_dos_iv_fsc_pob_visa_class.xlsx,942
+2022,10,FSC,Mexico,IR5,878,2022-10_dos_iv_fsc_pob_visa_class.xlsx,943
+2022,10,FSC,Mexico,IW,21,2022-10_dos_iv_fsc_pob_visa_class.xlsx,944
+2022,10,FSC,Mexico,SD,10,2022-10_dos_iv_fsc_pob_visa_class.xlsx,945
+2022,10,FSC,Mexico,SR,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,946
+2022,10,FSC,Moldova,CX,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,947
+2022,10,FSC,Moldova,DV,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,948
+2022,10,FSC,Moldova,E2,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,949
+2022,10,FSC,Moldova,FX,9,2022-10_dos_iv_fsc_pob_visa_class.xlsx,950
+2022,10,FSC,Moldova,IR1,4,2022-10_dos_iv_fsc_pob_visa_class.xlsx,951
+2022,10,FSC,Moldova,IR2,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,952
+2022,10,FSC,Moldova,IR5,18,2022-10_dos_iv_fsc_pob_visa_class.xlsx,953
+2022,10,FSC,Moldova,SD,4,2022-10_dos_iv_fsc_pob_visa_class.xlsx,954
+2022,10,FSC,Monaco,IR5,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,955
+2022,10,FSC,Mongolia,E2,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,956
+2022,10,FSC,Mongolia,EW,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,957
+2022,10,FSC,Mongolia,FX,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,958
+2022,10,FSC,Mongolia,IR5,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,959
+2022,10,FSC,Mongolia,SB1,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,960
+2022,10,FSC,Montenegro,CR1,4,2022-10_dos_iv_fsc_pob_visa_class.xlsx,961
+2022,10,FSC,Montenegro,E3,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,962
+2022,10,FSC,Montenegro,IR1,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,963
+2022,10,FSC,Montenegro,IR5,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,964
+2022,10,FSC,Montenegro,SD,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,965
+2022,10,FSC,Morocco,CR1,36,2022-10_dos_iv_fsc_pob_visa_class.xlsx,966
+2022,10,FSC,Morocco,CR2,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,967
+2022,10,FSC,Morocco,E3,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,968
+2022,10,FSC,Morocco,F1,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,969
+2022,10,FSC,Morocco,F2B,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,970
+2022,10,FSC,Morocco,F4,11,2022-10_dos_iv_fsc_pob_visa_class.xlsx,971
+2022,10,FSC,Morocco,FX,40,2022-10_dos_iv_fsc_pob_visa_class.xlsx,972
+2022,10,FSC,Morocco,IR1,32,2022-10_dos_iv_fsc_pob_visa_class.xlsx,973
+2022,10,FSC,Morocco,IR2,10,2022-10_dos_iv_fsc_pob_visa_class.xlsx,974
+2022,10,FSC,Morocco,IR5,21,2022-10_dos_iv_fsc_pob_visa_class.xlsx,975
+2022,10,FSC,Morocco,SB1,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,976
+2022,10,FSC,Morocco,SE,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,977
+2022,10,FSC,Mozambique,CR1,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,978
+2022,10,FSC,Mozambique,IR1,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,979
+2022,10,FSC,Mozambique,IR2,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,980
+2022,10,FSC,Namibia,E3,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,981
+2022,10,FSC,Nepal,CR1,31,2022-10_dos_iv_fsc_pob_visa_class.xlsx,982
+2022,10,FSC,Nepal,CR2,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,983
+2022,10,FSC,Nepal,CX,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,984
+2022,10,FSC,Nepal,DV,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,985
+2022,10,FSC,Nepal,E1,4,2022-10_dos_iv_fsc_pob_visa_class.xlsx,986
+2022,10,FSC,Nepal,E2,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,987
+2022,10,FSC,Nepal,E3,13,2022-10_dos_iv_fsc_pob_visa_class.xlsx,988
+2022,10,FSC,Nepal,EW,6,2022-10_dos_iv_fsc_pob_visa_class.xlsx,989
+2022,10,FSC,Nepal,F2B,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,990
+2022,10,FSC,Nepal,F4,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,991
+2022,10,FSC,Nepal,FX,71,2022-10_dos_iv_fsc_pob_visa_class.xlsx,992
+2022,10,FSC,Nepal,IR1,31,2022-10_dos_iv_fsc_pob_visa_class.xlsx,993
+2022,10,FSC,Nepal,IR2,9,2022-10_dos_iv_fsc_pob_visa_class.xlsx,994
+2022,10,FSC,Nepal,IR5,107,2022-10_dos_iv_fsc_pob_visa_class.xlsx,995
+2022,10,FSC,Nepal,SB1,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,996
+2022,10,FSC,Nepal,SE,4,2022-10_dos_iv_fsc_pob_visa_class.xlsx,997
+2022,10,FSC,Netherlands,CR1,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,998
+2022,10,FSC,Netherlands,E1,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,999
+2022,10,FSC,Netherlands,IR1,4,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1000
+2022,10,FSC,Netherlands,IR2,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1001
+2022,10,FSC,Netherlands,IR5,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1002
+2022,10,FSC,Netherlands,SR,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1003
+2022,10,FSC,New Zealand,CR1,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1004
+2022,10,FSC,New Zealand,DV,4,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1005
+2022,10,FSC,New Zealand,E3,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1006
+2022,10,FSC,New Zealand,FX,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1007
+2022,10,FSC,New Zealand,IR1,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1008
+2022,10,FSC,New Zealand,IR2,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1009
+2022,10,FSC,New Zealand,SB1,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1010
+2022,10,FSC,Nicaragua,CR1,12,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1011
+2022,10,FSC,Nicaragua,DV,5,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1012
+2022,10,FSC,Nicaragua,F1,14,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1013
+2022,10,FSC,Nicaragua,F3,10,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1014
+2022,10,FSC,Nicaragua,F4,9,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1015
+2022,10,FSC,Nicaragua,FX,33,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1016
+2022,10,FSC,Nicaragua,IB1,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1017
+2022,10,FSC,Nicaragua,IR1,28,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1018
+2022,10,FSC,Nicaragua,IR2,33,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1019
+2022,10,FSC,Nicaragua,IR5,14,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1020
+2022,10,FSC,Nicaragua,IW,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1021
+2022,10,FSC,Nicaragua,SB1,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1022
+2022,10,FSC,Niger,DV,9,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1023
+2022,10,FSC,Nigeria,CR1,13,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1024
+2022,10,FSC,Nigeria,CR2,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1025
+2022,10,FSC,Nigeria,E1,4,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1026
+2022,10,FSC,Nigeria,E2,80,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1027
+2022,10,FSC,Nigeria,E3,117,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1028
+2022,10,FSC,Nigeria,F1,12,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1029
+2022,10,FSC,Nigeria,F2B,5,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1030
+2022,10,FSC,Nigeria,F3,11,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1031
+2022,10,FSC,Nigeria,F4,4,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1032
+2022,10,FSC,Nigeria,FX,10,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1033
+2022,10,FSC,Nigeria,I5,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1034
+2022,10,FSC,Nigeria,IR1,109,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1035
+2022,10,FSC,Nigeria,IR2,113,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1036
+2022,10,FSC,Nigeria,IR3,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1037
+2022,10,FSC,Nigeria,IR5,126,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1038
+2022,10,FSC,Nigeria,IW,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1039
+2022,10,FSC,Nigeria,SB1,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1040
+2022,10,FSC,North Macedonia,CR1,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1041
+2022,10,FSC,North Macedonia,DV,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1042
+2022,10,FSC,North Macedonia,E3,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1043
+2022,10,FSC,North Macedonia,EW,7,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1044
+2022,10,FSC,North Macedonia,F3,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1045
+2022,10,FSC,North Macedonia,F4,6,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1046
+2022,10,FSC,North Macedonia,IR5,8,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1047
+2022,10,FSC,Norway,CR1,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1048
+2022,10,FSC,Norway,E2,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1049
+2022,10,FSC,Oman,E2,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1050
+2022,10,FSC,Oman,E3,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1051
+2022,10,FSC,Pakistan,CR1,13,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1052
+2022,10,FSC,Pakistan,E2,6,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1053
+2022,10,FSC,Pakistan,E3,7,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1054
+2022,10,FSC,Pakistan,EW,13,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1055
+2022,10,FSC,Pakistan,F1,6,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1056
+2022,10,FSC,Pakistan,F2B,7,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1057
+2022,10,FSC,Pakistan,F3,25,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1058
+2022,10,FSC,Pakistan,F4,103,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1059
+2022,10,FSC,Pakistan,FX,33,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1060
+2022,10,FSC,Pakistan,IR1,140,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1061
+2022,10,FSC,Pakistan,IR2,27,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1062
+2022,10,FSC,Pakistan,IR4,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1063
+2022,10,FSC,Pakistan,IR5,88,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1064
+2022,10,FSC,Pakistan,SB1,4,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1065
+2022,10,FSC,Pakistan,SE,18,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1066
+2022,10,FSC,Pakistan,SQ3,4,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1067
+2022,10,FSC,Panama,CR1,4,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1068
+2022,10,FSC,Panama,E2,4,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1069
+2022,10,FSC,Panama,E3,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1070
+2022,10,FSC,Panama,F1,8,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1071
+2022,10,FSC,Panama,F2A,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1072
+2022,10,FSC,Panama,F2B,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1073
+2022,10,FSC,Panama,F4,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1074
+2022,10,FSC,Panama,FX,5,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1075
+2022,10,FSC,Panama,IR1,7,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1076
+2022,10,FSC,Panama,IR2,6,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1077
+2022,10,FSC,Panama,IR5,9,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1078
+2022,10,FSC,Panama,SB1,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1079
+2022,10,FSC,Paraguay,CR2,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1080
+2022,10,FSC,Paraguay,E1,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1081
+2022,10,FSC,Paraguay,F1,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1082
+2022,10,FSC,Paraguay,IR1,5,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1083
+2022,10,FSC,Paraguay,IR2,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1084
+2022,10,FSC,Paraguay,IR5,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1085
+2022,10,FSC,Peru,CR1,15,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1086
+2022,10,FSC,Peru,CR2,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1087
+2022,10,FSC,Peru,DV,26,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1088
+2022,10,FSC,Peru,E1,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1089
+2022,10,FSC,Peru,E2,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1090
+2022,10,FSC,Peru,EW,6,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1091
+2022,10,FSC,Peru,F1,11,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1092
+2022,10,FSC,Peru,F2B,9,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1093
+2022,10,FSC,Peru,F3,17,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1094
+2022,10,FSC,Peru,F4,45,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1095
+2022,10,FSC,Peru,FX,23,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1096
+2022,10,FSC,Peru,IR1,60,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1097
+2022,10,FSC,Peru,IR2,57,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1098
+2022,10,FSC,Peru,IR5,154,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1099
+2022,10,FSC,Peru,IW,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1100
+2022,10,FSC,Peru,SB1,6,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1101
+2022,10,FSC,Peru,SE,4,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1102
+2022,10,FSC,Philippines,CR1,46,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1103
+2022,10,FSC,Philippines,CR2,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1104
+2022,10,FSC,Philippines,E2,6,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1105
+2022,10,FSC,Philippines,E3,1768,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1106
+2022,10,FSC,Philippines,EW,10,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1107
+2022,10,FSC,Philippines,F1,109,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1108
+2022,10,FSC,Philippines,F2B,157,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1109
+2022,10,FSC,Philippines,F3,83,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1110
+2022,10,FSC,Philippines,F4,134,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1111
+2022,10,FSC,Philippines,FX,267,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1112
+2022,10,FSC,Philippines,IR1,206,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1113
+2022,10,FSC,Philippines,IR2,201,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1114
+2022,10,FSC,Philippines,IR5,171,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1115
+2022,10,FSC,Philippines,IW,10,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1116
+2022,10,FSC,Philippines,SB1,8,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1117
+2022,10,FSC,Philippines,SE,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1118
+2022,10,FSC,Poland,CR1,4,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1119
+2022,10,FSC,Poland,E3,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1120
+2022,10,FSC,Poland,EW,7,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1121
+2022,10,FSC,Poland,F1,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1122
+2022,10,FSC,Poland,F3,7,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1123
+2022,10,FSC,Poland,F4,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1124
+2022,10,FSC,Poland,FX,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1125
+2022,10,FSC,Poland,IR1,13,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1126
+2022,10,FSC,Poland,IR2,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1127
+2022,10,FSC,Poland,IR5,19,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1128
+2022,10,FSC,Poland,SB1,10,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1129
+2022,10,FSC,Poland,SE,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1130
+2022,10,FSC,Portugal,CR1,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1131
+2022,10,FSC,Portugal,E1,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1132
+2022,10,FSC,Portugal,EW,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1133
+2022,10,FSC,Portugal,IR1,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1134
+2022,10,FSC,Portugal,IR5,4,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1135
+2022,10,FSC,Portugal,SE,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1136
+2022,10,FSC,Qatar,CR1,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1137
+2022,10,FSC,Qatar,E2,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1138
+2022,10,FSC,Qatar,E3,10,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1139
+2022,10,FSC,Qatar,I5,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1140
+2022,10,FSC,Qatar,IR1,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1141
+2022,10,FSC,Qatar,IR2,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1142
+2022,10,FSC,Qatar,SQ3,10,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1143
+2022,10,FSC,Romania,CR1,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1144
+2022,10,FSC,Romania,DV,19,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1145
+2022,10,FSC,Romania,E1,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1146
+2022,10,FSC,Romania,E2,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1147
+2022,10,FSC,Romania,E3,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1148
+2022,10,FSC,Romania,EW,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1149
+2022,10,FSC,Romania,F1,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1150
+2022,10,FSC,Romania,F3,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1151
+2022,10,FSC,Romania,F4,6,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1152
+2022,10,FSC,Romania,IR1,9,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1153
+2022,10,FSC,Romania,IR2,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1154
+2022,10,FSC,Romania,IR5,9,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1155
+2022,10,FSC,Romania,SB1,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1156
+2022,10,FSC,Russia,CR1,12,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1157
+2022,10,FSC,Russia,CR2,4,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1158
+2022,10,FSC,Russia,DV,86,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1159
+2022,10,FSC,Russia,E1,9,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1160
+2022,10,FSC,Russia,E2,6,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1161
+2022,10,FSC,Russia,E3,7,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1162
+2022,10,FSC,Russia,EW,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1163
+2022,10,FSC,Russia,F1,7,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1164
+2022,10,FSC,Russia,F2A,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1165
+2022,10,FSC,Russia,F2B,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1166
+2022,10,FSC,Russia,F4,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1167
+2022,10,FSC,Russia,FX,7,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1168
+2022,10,FSC,Russia,I5,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1169
+2022,10,FSC,Russia,IR1,26,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1170
+2022,10,FSC,Russia,IR2,10,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1171
+2022,10,FSC,Russia,IR5,112,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1172
+2022,10,FSC,Russia,SE,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1173
+2022,10,FSC,Rwanda,CR1,6,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1174
+2022,10,FSC,Rwanda,F2A,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1175
+2022,10,FSC,Rwanda,FX,6,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1176
+2022,10,FSC,Rwanda,IR1,8,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1177
+2022,10,FSC,Rwanda,IR2,6,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1178
+2022,10,FSC,Rwanda,IR5,5,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1179
+2022,10,FSC,Saint Kitts and Nevis,F1,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1180
+2022,10,FSC,Saint Kitts and Nevis,IR1,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1181
+2022,10,FSC,Saint Kitts and Nevis,IR2,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1182
+2022,10,FSC,Saint Kitts and Nevis,IR5,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1183
+2022,10,FSC,Saint Lucia,CR1,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1184
+2022,10,FSC,Saint Lucia,E3,7,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1185
+2022,10,FSC,Saint Lucia,F2B,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1186
+2022,10,FSC,Saint Lucia,F3,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1187
+2022,10,FSC,Saint Lucia,IR1,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1188
+2022,10,FSC,Saint Lucia,IR2,4,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1189
+2022,10,FSC,Saint Lucia,IR5,8,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1190
+2022,10,FSC,Saint Maarten,FX,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1191
+2022,10,FSC,Saint Vincent and the Grenadines,F1,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1192
+2022,10,FSC,Saint Vincent and the Grenadines,IR1,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1193
+2022,10,FSC,Saint Vincent and the Grenadines,IR2,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1194
+2022,10,FSC,Saint Vincent and the Grenadines,IR5,5,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1195
+2022,10,FSC,Saudi Arabia,C5,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1196
+2022,10,FSC,Saudi Arabia,CR1,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1197
+2022,10,FSC,Saudi Arabia,DV,12,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1198
+2022,10,FSC,Saudi Arabia,E1,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1199
+2022,10,FSC,Saudi Arabia,E3,32,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1200
+2022,10,FSC,Saudi Arabia,EW,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1201
+2022,10,FSC,Saudi Arabia,F2B,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1202
+2022,10,FSC,Saudi Arabia,F4,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1203
+2022,10,FSC,Saudi Arabia,FX,15,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1204
+2022,10,FSC,Saudi Arabia,IR1,11,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1205
+2022,10,FSC,Saudi Arabia,IR2,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1206
+2022,10,FSC,Saudi Arabia,SE,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1207
+2022,10,FSC,Senegal,CR1,4,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1208
+2022,10,FSC,Senegal,DV,4,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1209
+2022,10,FSC,Senegal,FX,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1210
+2022,10,FSC,Senegal,IR1,12,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1211
+2022,10,FSC,Senegal,IR2,15,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1212
+2022,10,FSC,Senegal,IR5,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1213
+2022,10,FSC,Serbia,CR1,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1214
+2022,10,FSC,Serbia,DV,5,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1215
+2022,10,FSC,Serbia,E2,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1216
+2022,10,FSC,Serbia,E3,6,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1217
+2022,10,FSC,Serbia,EW,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1218
+2022,10,FSC,Serbia,FX,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1219
+2022,10,FSC,Serbia,IH3,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1220
+2022,10,FSC,Serbia,IR1,6,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1221
+2022,10,FSC,Serbia,IR5,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1222
+2022,10,FSC,Serbia,SD,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1223
+2022,10,FSC,Sierra Leone,CR1,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1224
+2022,10,FSC,Sierra Leone,DV,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1225
+2022,10,FSC,Sierra Leone,F1,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1226
+2022,10,FSC,Sierra Leone,F4,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1227
+2022,10,FSC,Sierra Leone,FX,12,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1228
+2022,10,FSC,Sierra Leone,IR1,18,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1229
+2022,10,FSC,Sierra Leone,IR2,35,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1230
+2022,10,FSC,Sierra Leone,IR3,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1231
+2022,10,FSC,Sierra Leone,IR5,18,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1232
+2022,10,FSC,Singapore,E1,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1233
+2022,10,FSC,Singapore,E2,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1234
+2022,10,FSC,Singapore,E3,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1235
+2022,10,FSC,Singapore,F1,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1236
+2022,10,FSC,Singapore,F3,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1237
+2022,10,FSC,Singapore,FX,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1238
+2022,10,FSC,Singapore,I5,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1239
+2022,10,FSC,Slovakia,CR1,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1240
+2022,10,FSC,Slovakia,IR1,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1241
+2022,10,FSC,Slovenia,IR1,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1242
+2022,10,FSC,Slovenia,IR2,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1243
+2022,10,FSC,Somalia,CR1,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1244
+2022,10,FSC,Somalia,DV,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1245
+2022,10,FSC,Somalia,F1,6,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1246
+2022,10,FSC,Somalia,F2B,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1247
+2022,10,FSC,Somalia,FX,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1248
+2022,10,FSC,Somalia,IR1,16,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1249
+2022,10,FSC,Somalia,IR2,10,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1250
+2022,10,FSC,Somalia,IR5,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1251
+2022,10,FSC,Somalia,SE,4,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1252
+2022,10,FSC,South Africa,CR1,8,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1253
+2022,10,FSC,South Africa,CR2,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1254
+2022,10,FSC,South Africa,DV,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1255
+2022,10,FSC,South Africa,E1,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1256
+2022,10,FSC,South Africa,E2,5,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1257
+2022,10,FSC,South Africa,E3,16,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1258
+2022,10,FSC,South Africa,EW,5,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1259
+2022,10,FSC,South Africa,F1,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1260
+2022,10,FSC,South Africa,F2B,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1261
+2022,10,FSC,South Africa,I5,4,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1262
+2022,10,FSC,South Africa,IH3,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1263
+2022,10,FSC,South Africa,IR1,6,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1264
+2022,10,FSC,South Africa,IR2,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1265
+2022,10,FSC,South Africa,IR5,5,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1266
+2022,10,FSC,South Africa,SB1,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1267
+2022,10,FSC,South Sudan,IR1,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1268
+2022,10,FSC,South Sudan,IR5,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1269
+2022,10,FSC,Spain,CR1,4,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1270
+2022,10,FSC,Spain,E1,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1271
+2022,10,FSC,Spain,E3,4,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1272
+2022,10,FSC,Spain,EW,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1273
+2022,10,FSC,Spain,F1,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1274
+2022,10,FSC,Spain,F2B,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1275
+2022,10,FSC,Spain,F4,5,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1276
+2022,10,FSC,Spain,FX,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1277
+2022,10,FSC,Spain,IR1,8,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1278
+2022,10,FSC,Spain,IR2,4,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1279
+2022,10,FSC,Spain,IR5,4,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1280
+2022,10,FSC,Spain,SB1,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1281
+2022,10,FSC,Sri Lanka,CR1,6,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1282
+2022,10,FSC,Sri Lanka,DV,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1283
+2022,10,FSC,Sri Lanka,E3,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1284
+2022,10,FSC,Sri Lanka,F1,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1285
+2022,10,FSC,Sri Lanka,F2A,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1286
+2022,10,FSC,Sri Lanka,F2B,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1287
+2022,10,FSC,Sri Lanka,F4,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1288
+2022,10,FSC,Sri Lanka,FX,9,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1289
+2022,10,FSC,Sri Lanka,IR1,5,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1290
+2022,10,FSC,Sri Lanka,IR5,14,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1291
+2022,10,FSC,Sri Lanka,SD,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1292
+2022,10,FSC,Sri Lanka,SE,12,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1293
+2022,10,FSC,Sudan,CR1,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1294
+2022,10,FSC,Sudan,DV,21,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1295
+2022,10,FSC,Sudan,F1,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1296
+2022,10,FSC,Sudan,F2B,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1297
+2022,10,FSC,Sudan,F4,5,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1298
+2022,10,FSC,Sudan,FX,5,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1299
+2022,10,FSC,Sudan,IR1,23,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1300
+2022,10,FSC,Sudan,IR2,7,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1301
+2022,10,FSC,Sudan,IR5,20,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1302
+2022,10,FSC,Sudan,SB1,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1303
+2022,10,FSC,Suriname,E3,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1304
+2022,10,FSC,Suriname,IR5,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1305
+2022,10,FSC,Sweden,CR1,5,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1306
+2022,10,FSC,Sweden,E2,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1307
+2022,10,FSC,Sweden,E3,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1308
+2022,10,FSC,Sweden,F2B,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1309
+2022,10,FSC,Sweden,FX,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1310
+2022,10,FSC,Sweden,IR1,7,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1311
+2022,10,FSC,Sweden,IR2,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1312
+2022,10,FSC,Switzerland,CR1,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1313
+2022,10,FSC,Switzerland,E1,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1314
+2022,10,FSC,Switzerland,FX,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1315
+2022,10,FSC,Switzerland,IR1,4,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1316
+2022,10,FSC,Syria,CR1,5,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1317
+2022,10,FSC,Syria,DV,7,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1318
+2022,10,FSC,Syria,E3,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1319
+2022,10,FSC,Syria,F1,6,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1320
+2022,10,FSC,Syria,F2A,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1321
+2022,10,FSC,Syria,F2B,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1322
+2022,10,FSC,Syria,F3,12,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1323
+2022,10,FSC,Syria,F4,46,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1324
+2022,10,FSC,Syria,FX,11,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1325
+2022,10,FSC,Syria,I5,6,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1326
+2022,10,FSC,Syria,IR1,23,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1327
+2022,10,FSC,Syria,IR2,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1328
+2022,10,FSC,Syria,IR5,65,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1329
+2022,10,FSC,Syria,IW,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1330
+2022,10,FSC,Syria,SB1,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1331
+2022,10,FSC,Taiwan,CR1,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1332
+2022,10,FSC,Taiwan,DV,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1333
+2022,10,FSC,Taiwan,E1,5,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1334
+2022,10,FSC,Taiwan,E2,12,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1335
+2022,10,FSC,Taiwan,E3,9,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1336
+2022,10,FSC,Taiwan,F3,10,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1337
+2022,10,FSC,Taiwan,F4,24,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1338
+2022,10,FSC,Taiwan,FX,6,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1339
+2022,10,FSC,Taiwan,I5,19,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1340
+2022,10,FSC,Taiwan,IR1,14,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1341
+2022,10,FSC,Taiwan,IR2,5,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1342
+2022,10,FSC,Taiwan,IR3,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1343
+2022,10,FSC,Taiwan,IR5,16,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1344
+2022,10,FSC,Taiwan,SB1,10,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1345
+2022,10,FSC,Tajikistan,CR1,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1346
+2022,10,FSC,Tajikistan,CR2,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1347
+2022,10,FSC,Tajikistan,DV,27,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1348
+2022,10,FSC,Tajikistan,F2B,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1349
+2022,10,FSC,Tajikistan,FX,4,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1350
+2022,10,FSC,Tajikistan,IR1,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1351
+2022,10,FSC,Tajikistan,IR2,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1352
+2022,10,FSC,Tanzania,CR1,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1353
+2022,10,FSC,Tanzania,F4,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1354
+2022,10,FSC,Tanzania,FX,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1355
+2022,10,FSC,Tanzania,IR1,7,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1356
+2022,10,FSC,Tanzania,IR2,4,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1357
+2022,10,FSC,Tanzania,IR5,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1358
+2022,10,FSC,Thailand,CR1,11,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1359
+2022,10,FSC,Thailand,CR2,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1360
+2022,10,FSC,Thailand,DV,14,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1361
+2022,10,FSC,Thailand,E3,5,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1362
+2022,10,FSC,Thailand,EW,4,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1363
+2022,10,FSC,Thailand,F1,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1364
+2022,10,FSC,Thailand,F4,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1365
+2022,10,FSC,Thailand,FX,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1366
+2022,10,FSC,Thailand,IH4,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1367
+2022,10,FSC,Thailand,IR1,15,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1368
+2022,10,FSC,Thailand,IR2,14,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1369
+2022,10,FSC,Thailand,IR5,12,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1370
+2022,10,FSC,Thailand,SB1,4,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1371
+2022,10,FSC,Thailand,SR,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1372
+2022,10,FSC,Togo,CR1,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1373
+2022,10,FSC,Togo,DV,22,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1374
+2022,10,FSC,Togo,F1,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1375
+2022,10,FSC,Togo,F4,4,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1376
+2022,10,FSC,Togo,FX,30,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1377
+2022,10,FSC,Togo,IR1,12,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1378
+2022,10,FSC,Togo,IR2,20,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1379
+2022,10,FSC,Togo,IR5,19,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1380
+2022,10,FSC,Togo,SB1,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1381
+2022,10,FSC,Tonga,IR1,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1382
+2022,10,FSC,Tonga,IR2,5,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1383
+2022,10,FSC,Tonga,IR5,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1384
+2022,10,FSC,Tonga,SB1,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1385
+2022,10,FSC,Trinidad and Tobago,DV,6,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1386
+2022,10,FSC,Trinidad and Tobago,E1,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1387
+2022,10,FSC,Trinidad and Tobago,E3,11,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1388
+2022,10,FSC,Trinidad and Tobago,EW,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1389
+2022,10,FSC,Trinidad and Tobago,F1,16,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1390
+2022,10,FSC,Trinidad and Tobago,F2B,7,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1391
+2022,10,FSC,Trinidad and Tobago,F3,6,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1392
+2022,10,FSC,Trinidad and Tobago,F4,12,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1393
+2022,10,FSC,Trinidad and Tobago,FX,8,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1394
+2022,10,FSC,Trinidad and Tobago,I5,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1395
+2022,10,FSC,Trinidad and Tobago,IR1,8,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1396
+2022,10,FSC,Trinidad and Tobago,IR2,10,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1397
+2022,10,FSC,Trinidad and Tobago,IR5,32,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1398
+2022,10,FSC,Trinidad and Tobago,SB1,5,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1399
+2022,10,FSC,Tunisia,CR1,9,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1400
+2022,10,FSC,Tunisia,DV,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1401
+2022,10,FSC,Tunisia,FX,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1402
+2022,10,FSC,Tunisia,IR1,6,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1403
+2022,10,FSC,Tunisia,IR5,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1404
+2022,10,FSC,Tunisia,IW,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1405
+2022,10,FSC,Turkey,CR1,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1406
+2022,10,FSC,Turkey,CX,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1407
+2022,10,FSC,Turkey,DV,39,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1408
+2022,10,FSC,Turkey,E1,5,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1409
+2022,10,FSC,Turkey,E2,5,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1410
+2022,10,FSC,Turkey,E3,5,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1411
+2022,10,FSC,Turkey,EW,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1412
+2022,10,FSC,Turkey,F1,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1413
+2022,10,FSC,Turkey,FX,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1414
+2022,10,FSC,Turkey,I5,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1415
+2022,10,FSC,Turkey,IR1,5,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1416
+2022,10,FSC,Turkey,IR2,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1417
+2022,10,FSC,Turkey,IR5,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1418
+2022,10,FSC,Turkey,SB1,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1419
+2022,10,FSC,Turkey,SQ3,4,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1420
+2022,10,FSC,Turkmenistan,DV,9,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1421
+2022,10,FSC,Turkmenistan,E3,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1422
+2022,10,FSC,Turkmenistan,IR5,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1423
+2022,10,FSC,Turkmenistan,SE,9,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1424
+2022,10,FSC,Turks and Caicos Islands,FX,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1425
+2022,10,FSC,Uganda,CR1,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1426
+2022,10,FSC,Uganda,CR2,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1427
+2022,10,FSC,Uganda,DV,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1428
+2022,10,FSC,Uganda,F4,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1429
+2022,10,FSC,Uganda,IR1,4,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1430
+2022,10,FSC,Uganda,IR2,7,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1431
+2022,10,FSC,Uganda,IR3,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1432
+2022,10,FSC,Uganda,IR5,4,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1433
+2022,10,FSC,Uganda,SB1,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1434
+2022,10,FSC,Uganda,SE,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1435
+2022,10,FSC,Ukraine,CR1,13,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1436
+2022,10,FSC,Ukraine,CR2,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1437
+2022,10,FSC,Ukraine,CX,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1438
+2022,10,FSC,Ukraine,DV,50,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1439
+2022,10,FSC,Ukraine,E1,8,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1440
+2022,10,FSC,Ukraine,E2,9,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1441
+2022,10,FSC,Ukraine,EW,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1442
+2022,10,FSC,Ukraine,F1,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1443
+2022,10,FSC,Ukraine,F2A,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1444
+2022,10,FSC,Ukraine,F3,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1445
+2022,10,FSC,Ukraine,F4,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1446
+2022,10,FSC,Ukraine,FX,57,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1447
+2022,10,FSC,Ukraine,IR1,18,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1448
+2022,10,FSC,Ukraine,IR2,21,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1449
+2022,10,FSC,Ukraine,IR3,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1450
+2022,10,FSC,Ukraine,IR5,77,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1451
+2022,10,FSC,Ukraine,SB1,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1452
+2022,10,FSC,United Arab Emirates,CR1,6,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1453
+2022,10,FSC,United Arab Emirates,CR2,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1454
+2022,10,FSC,United Arab Emirates,DV,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1455
+2022,10,FSC,United Arab Emirates,E1,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1456
+2022,10,FSC,United Arab Emirates,E3,58,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1457
+2022,10,FSC,United Arab Emirates,EW,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1458
+2022,10,FSC,United Arab Emirates,F1,5,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1459
+2022,10,FSC,United Arab Emirates,F2B,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1460
+2022,10,FSC,United Arab Emirates,F3,10,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1461
+2022,10,FSC,United Arab Emirates,F4,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1462
+2022,10,FSC,United Arab Emirates,FX,4,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1463
+2022,10,FSC,United Arab Emirates,I5,5,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1464
+2022,10,FSC,United Arab Emirates,IR1,4,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1465
+2022,10,FSC,United Arab Emirates,IR2,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1466
+2022,10,FSC,United Arab Emirates,IR5,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1467
+2022,10,FSC,United Arab Emirates,SQ3,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1468
+2022,10,FSC,Uruguay,DV,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1469
+2022,10,FSC,Uruguay,F1,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1470
+2022,10,FSC,Uruguay,FX,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1471
+2022,10,FSC,Uruguay,I5,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1472
+2022,10,FSC,Uruguay,IR1,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1473
+2022,10,FSC,Uruguay,IR2,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1474
+2022,10,FSC,Uruguay,IR5,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1475
+2022,10,FSC,Uzbekistan,CR1,8,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1476
+2022,10,FSC,Uzbekistan,DV,111,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1477
+2022,10,FSC,Uzbekistan,E1,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1478
+2022,10,FSC,Uzbekistan,EW,4,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1479
+2022,10,FSC,Uzbekistan,F1,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1480
+2022,10,FSC,Uzbekistan,F2B,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1481
+2022,10,FSC,Uzbekistan,F4,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1482
+2022,10,FSC,Uzbekistan,FX,113,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1483
+2022,10,FSC,Uzbekistan,IB2,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1484
+2022,10,FSC,Uzbekistan,IR1,10,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1485
+2022,10,FSC,Uzbekistan,IR2,5,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1486
+2022,10,FSC,Uzbekistan,IR5,40,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1487
+2022,10,FSC,Uzbekistan,SE,6,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1488
+2022,10,FSC,Vanuatu,DV,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1489
+2022,10,FSC,Venezuela,CR1,7,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1490
+2022,10,FSC,Venezuela,E1,11,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1491
+2022,10,FSC,Venezuela,E2,7,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1492
+2022,10,FSC,Venezuela,E3,9,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1493
+2022,10,FSC,Venezuela,EW,5,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1494
+2022,10,FSC,Venezuela,F1,10,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1495
+2022,10,FSC,Venezuela,F2B,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1496
+2022,10,FSC,Venezuela,F3,8,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1497
+2022,10,FSC,Venezuela,F4,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1498
+2022,10,FSC,Venezuela,FX,22,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1499
+2022,10,FSC,Venezuela,IR1,19,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1500
+2022,10,FSC,Venezuela,IR2,17,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1501
+2022,10,FSC,Venezuela,IR5,55,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1502
+2022,10,FSC,Venezuela,IW,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1503
+2022,10,FSC,Vietnam,AM,36,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1504
+2022,10,FSC,Vietnam,CR1,6,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1505
+2022,10,FSC,Vietnam,CR2,5,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1506
+2022,10,FSC,Vietnam,E3,4,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1507
+2022,10,FSC,Vietnam,EW,26,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1508
+2022,10,FSC,Vietnam,F1,90,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1509
+2022,10,FSC,Vietnam,F2B,111,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1510
+2022,10,FSC,Vietnam,F3,129,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1511
+2022,10,FSC,Vietnam,F4,572,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1512
+2022,10,FSC,Vietnam,FX,317,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1513
+2022,10,FSC,Vietnam,I5,36,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1514
+2022,10,FSC,Vietnam,IH3,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1515
+2022,10,FSC,Vietnam,IR1,205,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1516
+2022,10,FSC,Vietnam,IR2,93,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1517
+2022,10,FSC,Vietnam,IR5,592,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1518
+2022,10,FSC,Vietnam,IW,4,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1519
+2022,10,FSC,Vietnam,SB1,21,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1520
+2022,10,FSC,Yemen,CR1,10,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1521
+2022,10,FSC,Yemen,DV,17,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1522
+2022,10,FSC,Yemen,E2,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1523
+2022,10,FSC,Yemen,F1,7,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1524
+2022,10,FSC,Yemen,F2B,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1525
+2022,10,FSC,Yemen,F3,53,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1526
+2022,10,FSC,Yemen,F4,36,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1527
+2022,10,FSC,Yemen,FX,29,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1528
+2022,10,FSC,Yemen,IR1,75,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1529
+2022,10,FSC,Yemen,IR2,75,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1530
+2022,10,FSC,Yemen,IR5,42,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1531
+2022,10,FSC,Yemen,IW,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1532
+2022,10,FSC,Yemen,SE,19,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1533
+2022,10,FSC,Zambia,CR1,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1534
+2022,10,FSC,Zambia,E3,4,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1535
+2022,10,FSC,Zambia,IR1,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1536
+2022,10,FSC,Zambia,IR2,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1537
+2022,10,FSC,Zambia,IR5,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1538
+2022,10,FSC,Zambia,SB1,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1539
+2022,10,FSC,Zimbabwe,E3,24,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1540
+2022,10,FSC,Zimbabwe,EW,4,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1541
+2022,10,FSC,Zimbabwe,FX,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1542
+2022,10,FSC,Zimbabwe,IR1,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1543
+2022,10,FSC,Zimbabwe,IR2,2,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1544
+2022,10,FSC,Zimbabwe,IR5,3,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1545
+2022,10,FSC,Zimbabwe,SB1,1,2022-10_dos_iv_fsc_pob_visa_class.xlsx,1546
