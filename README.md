@@ -152,3 +152,151 @@ Alabama,2014,4841799,3690,35,2050,34,1640,37,141340,34,1270,42,110,43,10,40,761.
 Alabama,2015,4852347,3930,35,2100,36,1830,35,151470,34,2830,32,110,43,30,40,809.505,49,432.574,48,376.931,49,31215.822,43,584.047,47,21.639,43,5.358,43
 ```
 
+
+
+# Tables
+3 layers:
+- stg_\*
+- map_\*/dim_\*
+- fact_\*
+
+## Staging Table
+`stg_cbp_encounters`
+```
+year
+month
+state
+land_border_region
+demographic_group
+nationality
+nationality_raw
+title_of_authority
+encounter_count
+source_file
+```
+`stg_dos_niv`
+```
+year
+month
+nationality
+visa_class
+issuances
+source_file
+```
+`stg_dos_iv`
+```
+year
+month
+basis
+fsc_or_place_of_birth
+visa_class
+issuances
+source_file
+```
+`stg_ohss` (long)
+```
+state
+year
+population
+metric_name
+measure_type
+metric_value
+source_file
+```
+
+## Mapping / Dimension Table
+`dim_state`
+```
+state_id          PK
+state_name        UNIQUE
+```
+`dim_country`
+```
+country_id        PK
+country_name      UNIQUE
+```
+`map_country_name`
+```
+map_country_name_id   PK
+source_system         -- cbp / dos_niv / dos_iv
+source_column         -- nationality / fsc_or_place_of_birth
+raw_value
+canonical_country_id  FK -> dim_country.country_id
+```
+`dim_demographic_group`
+```
+demographic_group_id   PK
+demographic_group_name UNIQUE
+```
+e.g., Family Units, Unaccompanied Children, and Single Adults
+`dim_visa_class_niv`
+```
+visa_class_niv_id   PK
+visa_class_code     UNIQUE
+```
+`dim_visa_class_iv`
+```
+visa_class_iv_id    PK
+visa_class_code     UNIQUE
+```
+`dim_ohss_metric`
+```
+metric_id           PK
+metric_name
+measure_type
+UNIQUE(metric_name, measure_type)
+```
+e.g., naturalizations / total, naturalizations / rank, refugees / total, and refugees / per_million
+
+## Fact Table
+`fact_cbp_encounter`
+```
+cbp_fact_id             PK
+year
+month
+state_id                FK -> dim_state
+country_id              FK -> dim_country
+demographic_group_id    FK -> dim_demographic_group
+land_border_region
+title_of_authority
+encounter_count
+source_file
+UNIQUE(
+  year, month, state_id, country_id,
+  demographic_group_id, land_border_region, title_of_authority
+)
+```
+`fact_dos_niv_issuance`
+```
+dos_niv_fact_id         PK
+year
+month
+country_id              FK -> dim_country
+visa_class_niv_id       FK -> dim_visa_class_niv
+issuances
+source_file
+UNIQUE(year, month, country_id, visa_class_niv_id)
+```
+`fact_dos_iv_issuance`
+```
+dos_iv_fact_id          PK
+year
+month
+basis                   -- FSC / POB
+country_id              FK -> dim_country
+visa_class_iv_id        FK -> dim_visa_class_iv
+issuances
+source_file
+UNIQUE(year, month, basis, country_id, visa_class_iv_id)
+```
+`fact_ohss_state_metric`
+```
+ohss_fact_id            PK
+state_id                FK -> dim_state
+year
+population
+metric_id               FK -> dim_ohss_metric
+metric_value
+source_file
+UNIQUE(state_id, year, metric_id)
+```
