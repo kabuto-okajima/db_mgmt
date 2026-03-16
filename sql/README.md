@@ -17,7 +17,7 @@ sql/
 │   ├── ddl/
 │   │   ├── create_dim_state.sql
 │   │   ├── create_dim_country.sql
-│   │   ├── create_map_country_name.sql
+│   │   ├── create_map_country_label.sql
 │   │   ├── create_dim_demographic_group.sql
 │   │   ├── create_dim_visa_class_niv.sql
 │   │   ├── create_dim_visa_class_iv.sql
@@ -28,7 +28,7 @@ sql/
 │   │   └── create_fact_ohss_state_metric.sql
 │   └── populate/
 │       ├── populate_dim_state.sql
-│       ├── populate_map_country_name.sql
+│       ├── populate_map_country_label.sql
 │       ├── populate_dim_country.sql
 │       ├── populate_dim_demographic_group.sql
 │       ├── populate_dim_visa_class_niv.sql
