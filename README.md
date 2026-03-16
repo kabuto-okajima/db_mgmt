@@ -204,41 +204,38 @@ metric_value
 source_file
 ```
 
-## Mapping / Dimension Table
+## Dimension / Mapping Table
 `dim_state`
 ```
 state_id          PK
 state_name        UNIQUE
 ```
+
 `dim_country`
 ```
 country_id        PK
 country_name      UNIQUE
 ```
-`map_country_name`
-```
-map_country_name_id   PK
-source_system         -- cbp / dos_niv / dos_iv
-source_column         -- nationality / fsc_or_place_of_birth
-raw_value
-canonical_country_id  FK -> dim_country.country_id
-```
+
 `dim_demographic_group`
 ```
 demographic_group_id   PK
 demographic_group_name UNIQUE
 ```
-e.g., Family Units, Unaccompanied Children, and Single Adults
+e.g., Family Units, Unaccompanied Children, and Single Adults  
+
 `dim_visa_class_niv`
 ```
 visa_class_niv_id   PK
 visa_class_code     UNIQUE
 ```
+
 `dim_visa_class_iv`
 ```
 visa_class_iv_id    PK
 visa_class_code     UNIQUE
 ```
+
 `dim_ohss_metric`
 ```
 metric_id           PK
@@ -246,7 +243,16 @@ metric_name
 measure_type
 UNIQUE(metric_name, measure_type)
 ```
-e.g., naturalizations / total, naturalizations / rank, refugees / total, and refugees / per_million
+e.g., naturalizations / total, naturalizations / rank, refugees / total, and refugees / per_million  
+
+`map_country_name`
+```
+source_system PK -- cbp / dos_niv / dos_iv
+source_country_label PK
+country_id FK -> dim_country.country_id
+```
+
+
 
 ## Fact Table
 `fact_cbp_encounter`
