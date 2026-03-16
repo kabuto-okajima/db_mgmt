@@ -41,7 +41,12 @@ FROM (
 
     SELECT
         CASE
-            WHEN TRIM(nationality) IN ('Other', 'Unknown', 'No Nationality') THEN NULL
+            WHEN TRIM(nationality) IN (
+                '*Non-Nationality Based Issuances',
+                'Other',
+                'Unknown',
+                'No Nationality'
+            ) THEN NULL
             WHEN TRIM(nationality) = 'Bahamas, The' THEN 'Bahamas'
             WHEN TRIM(nationality) = 'Bosnia-Herzegovina' THEN 'Bosnia and Herzegovina'
             WHEN TRIM(nationality) IN ('Burma', 'Myanmar (Burma)') THEN 'Myanmar'
@@ -79,6 +84,7 @@ FROM (
             WHEN TRIM(fsc_or_place_of_birth) = 'Bosnia-Herzegovina' THEN 'Bosnia and Herzegovina'
             WHEN TRIM(fsc_or_place_of_birth) IN ('Burma', 'Myanmar (Burma)') THEN 'Myanmar'
             WHEN TRIM(fsc_or_place_of_birth) IN ('China - mainland', 'China - mainland born') THEN 'China'
+            WHEN TRIM(fsc_or_place_of_birth) = 'Cocos Islands' THEN 'Cocos (Keeling) Islands'
             WHEN TRIM(fsc_or_place_of_birth) = 'Congo, Democratic Republic of the' THEN 'Democratic Republic of the Congo'
             WHEN TRIM(fsc_or_place_of_birth) = 'Congo, Republic of the' THEN 'Republic of the Congo'
             WHEN TRIM(fsc_or_place_of_birth) = 'Great Britain and Northern Ireland' THEN 'United Kingdom'
