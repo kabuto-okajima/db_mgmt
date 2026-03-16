@@ -15,9 +15,9 @@ DROP TABLE IF EXISTS dim_ohss_metric;
 DROP TABLE IF EXISTS dim_visa_class_iv;
 DROP TABLE IF EXISTS dim_visa_class_niv;
 DROP TABLE IF EXISTS dim_demographic_group;
+DROP TABLE IF EXISTS map_country_label;
 DROP TABLE IF EXISTS dim_country;
 DROP TABLE IF EXISTS dim_state;
-DROP TABLE IF EXISTS map_country_label;
 
 
 SOURCE sql/core/ddl/create_dim_state.sql;
@@ -27,11 +27,3 @@ SOURCE sql/core/ddl/create_dim_visa_class_niv.sql;
 SOURCE sql/core/ddl/create_dim_visa_class_iv.sql;
 SOURCE sql/core/ddl/create_dim_ohss_metric.sql;
 SOURCE sql/core/ddl/create_map_country_label.sql;
-
-
-/*
-TODO:
-- Add fact-table DDL after the dimension / mapping layer is validated.
-- Then create sql/run/04_populate_core.sql to populate these dimensions first,
-  followed by the fact tables.
-*/
