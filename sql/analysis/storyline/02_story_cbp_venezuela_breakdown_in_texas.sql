@@ -11,7 +11,7 @@ SET NAMES utf8mb4;
 SET @state_name = 'Texas';
 SET @country_name = 'Venezuela';
 SET @start_yyyymm = 202301;
-SET @end_yyyymm = 202512;
+SET @end_yyyymm = 202508;
 
 SELECT
     ddg.demographic_group_name,

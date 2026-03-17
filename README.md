@@ -63,7 +63,7 @@ CBP National Encounters
 "FY23 - FY26 (FYTD) Nationwide Encounters by State - January"
 > FYTD: Fiscal Year to date
 > CBP fiscal year starts from Oct 1, ends on Sep 30 in the next year.
-> e.g., ) **FY 2023** runs from **Oct 1, 2022 to Sep 30, 2023**
+> e.g., **FY 2023** runs from **Oct 1, 2022 to Sep 30, 2023**
 
 Data Range:
 - FROM: 2022, October
@@ -107,7 +107,7 @@ https://travel.state.gov/content/travel/en/legal/visa-law0/visa-statistics/nonim
 
 ## DOS — Monthly Immigrant Visa Issuances by FSC or Place of Birth and Visa Class
 https://travel.state.gov/content/travel/en/legal/visa-law0/visa-statistics/immigrant-visa-statistics/monthly-immigrant-visa-issuances.html?fs=e&s=cl
-- Excel available since 2023 Jan
+- Excel available in this project since 2022 Oct
 - It provides only monthly file
 	- Scraping -> convert to CSV -> aggregate
 
@@ -161,7 +161,7 @@ Alabama,2015,4852347,3930,35,2100,36,1830,35,151470,34,2830,32,110,43,30,40,809.
 - fact_\*
 
 ## Staging Table
-`stg_cbp_encounters`
+`stg_cbp`
 ```
 year
 month
@@ -245,7 +245,7 @@ UNIQUE(metric_name, measure_type)
 ```
 e.g., naturalizations / total, naturalizations / rank, refugees / total, and refugees / per_million  
 
-`map_country_name`
+`map_country_label`
 ```
 source_system PK -- cbp / dos_niv / dos_iv
 source_country_label PK

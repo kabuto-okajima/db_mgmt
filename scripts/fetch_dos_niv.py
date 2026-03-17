@@ -4,7 +4,7 @@ Download DOS Monthly Nonimmigrant Visa Issuances by Nationality and Visa Class
 Excel files for 2022-10 through 2025-08.
 
 Usage:
-    python fetch_dos_niv_excel.py
+    python scripts/fetch_dos_niv.py
 
 Dependencies:
     pip install requests beautifulsoup4

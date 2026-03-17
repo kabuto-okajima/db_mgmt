@@ -1,12 +1,8 @@
 /*
-    Populate core mapping and dimension tables.
+    Populate core dimensions, mappings, and facts.
 
-    This script is intended to orchestrate all core-level populate steps.
-    At this stage, it loads only dimensions that can be populated directly
-    from staging tables without manual country canonicalization.
-
-    Additional populate scripts, such as those for dim_country and
-    map_country_label, should be added here once their mapping logic is finalized.
+    This script orchestrates the full core-layer load after staging data
+    has already been created and populated.
 */
 
 USE db_mgmt;

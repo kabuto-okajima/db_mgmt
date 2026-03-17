@@ -1,18 +1,18 @@
 Open the MySQL client with the required options:
 ```
-mysql --commands=ON --binary-mode=OFF -u root -p db_mgmt
+mysql --local-infile=1 --commands=ON --binary-mode=OFF -u root -p
 ```
-Then run the staging DDL script:
+Then create the database and staging tables:
 ```
 SOURCE sql/run/00_create_database.sql;
 SOURCE sql/run/01_create_staging.sql;
 ```
-To allow LOAD DATA LOCAL INFILE, enable local_infile temporarily:
-```
-SET GLOBAL local_infile = 1;
-SHOW GLOBAL VARIABLES LIKE 'local_infile';
-```
-Then run the staging load script:
+Then load the staging CSV files:
 ```
 SOURCE sql/run/02_load_staging.sql;
+```
+Then create and populate the core schema:
+```
+SOURCE sql/run/03_create_core.sql;
+SOURCE sql/run/04_populate_core.sql;
 ```

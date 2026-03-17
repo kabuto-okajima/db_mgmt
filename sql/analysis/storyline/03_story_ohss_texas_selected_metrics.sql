@@ -9,8 +9,8 @@ USE db_mgmt;
 SET NAMES utf8mb4;
 
 SET @state_name = 'Texas';
-SET @start_year = 2023;
-SET @end_year = 2025;
+SET @start_year = 2021;
+SET @end_year = 2023;
 
 SELECT
     f.year,

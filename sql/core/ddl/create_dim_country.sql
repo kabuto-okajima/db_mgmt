@@ -4,7 +4,7 @@ Canonical geography dimension for country-like entities.
 Design notes:
 - Store canonical geography names only.
 - Do not force source-specific aliases or special buckets into this table.
-- Source-specific labels belong in map_country_name.
+- Source-specific labels belong in map_country_label.
 */
 
 CREATE TABLE dim_country (

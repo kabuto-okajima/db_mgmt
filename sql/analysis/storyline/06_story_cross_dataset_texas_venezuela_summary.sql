@@ -11,9 +11,9 @@ SET NAMES utf8mb4;
 SET @state_name = 'Texas';
 SET @country_name = 'Venezuela';
 SET @start_yyyymm = 202301;
-SET @end_yyyymm = 202512;
+SET @end_yyyymm = 202508;
 SET @start_year = 2023;
-SET @end_year = 2025;
+SET @end_year = 2023;
 
 SELECT
     'CBP' AS source_name,

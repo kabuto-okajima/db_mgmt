@@ -12,7 +12,7 @@ SET NAMES utf8mb4;
 
 SET @iv_visa_class_code = 'IR1';
 SET @start_yyyymm = 202301;
-SET @end_yyyymm = 202512;
+SET @end_yyyymm = 202508;
 
 SELECT
     f.basis,
