@@ -178,10 +178,9 @@ Flow:
 
 
 # Tables
-3 layers:
-- stg_\*
-- dim_\*/map_\*
-- fact_\*
+- `stg_*`: Temporary staging tables used during ingestion and normalization. These tables are not intended for analysis.
+- `dim_*` / `map_*`: Reference and mapping tables that standardize source values and provide canonical dimensions for downstream use.
+- `fact_*`: Analysis-ready tables that store cleaned, structured measurements for reporting and analytical queries.
 
 ## ER Diagram
 [![Core ER Diagram](assets/core_schema_er.png)](assets/core_schema_er.png)
