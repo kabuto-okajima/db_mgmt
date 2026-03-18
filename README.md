@@ -183,6 +183,10 @@ Flow:
 - dim_\*/map_\*
 - fact_\*
 
+## ER Diagram
+[![Core ER Diagram](assets/core_schema_er.png)](assets/core_schema_er.png)
+> Source: [dbdocs.io](https://dbdocs.io/okajimakabuto/db_mgmt?view=relationships)
+
 ## Staging Table
 `stg_cbp`
 Cleaned monthly CBP encounter records at the state × nationality × demographic × authority level, kept close to the cleaned source file for loading and traceability.
