@@ -71,8 +71,15 @@ sql/
 
 ## `sql/` Directory Explanation
 
+The `sql/` folder is organized around the full warehouse lifecycle:
+- define staging tables
+- load normalized CSV data
+- define the core schema
+- populate dimensions, mappings, and facts
+- run analysis queries on the populated database
+
 ### `sql/staging/`
-SQL for the raw staging layer. These scripts create tables that closely mirror the cleaned CSV outputs and then load those files into MySQL.
+SQL for the raw staging layer. These scripts create tables that closely mirror the normalized CSV outputs and then load those files into MySQL.
 
 #### `sql/staging/ddl/`
 `CREATE TABLE` statements for the four staging tables:
@@ -94,17 +101,17 @@ This folder also contains a short README explaining common loading clauses and t
 SQL for the normalized relational schema used after staging data has been loaded.
 
 #### `sql/core/ddl/`
-`CREATE TABLE` statements for dimensions, mapping tables, and fact tables.
+`CREATE TABLE` statements for dimensions, the country-label mapping table, and fact tables.
 
 #### `sql/core/populate/`
-`INSERT ... SELECT ...` scripts that populate the core tables from staging data.
+`INSERT ... SELECT ...` scripts that populate dimensions, mappings, and fact tables from staging data.
 
 `sql/core/README.md` contains notes about expected row counts and design choices for some core tables.
 
 ---
 
 ### `sql/run/`
-Ordered runner scripts for building the database in sequence.
+Ordered runner scripts for building the database end to end in sequence.
 
 - `00_create_database.sql` - create the target database and switch to it
 - `01_create_staging.sql` - create all staging tables
@@ -112,7 +119,7 @@ Ordered runner scripts for building the database in sequence.
 - `03_create_core.sql` - create all core tables
 - `04_populate_core.sql` - populate dimensions, mappings, and fact tables
 
-`sql/run/README.md` shows the expected MySQL client setup and the recommended order for running these scripts.
+`sql/run/README.md` shows the expected MySQL client setup and the recommended order for running the full build.
 
 ---
 
@@ -120,10 +127,10 @@ Ordered runner scripts for building the database in sequence.
 Query scripts used after the warehouse is populated.
 
 #### `sql/analysis/basic/`
-Small foundational analysis queries for each dataset, useful for checking totals and understanding the grain of the data.
+Small foundational analysis queries for each dataset. These are useful for sanity checks, totals, and understanding the grain of each fact table.
 
 #### `sql/analysis/examples/`
 General-purpose example queries grouped by source dataset.
 
 #### `sql/analysis/storyline/`
-Numbered queries that build a cross-dataset narrative, including the Texas and Venezuela-focused summary flow.
+Numbered queries that build a cross-dataset narrative, including the Texas and Venezuela-focused summary flow across CBP, OHSS, DOS NIV, and DOS IV.
