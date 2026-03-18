@@ -180,11 +180,12 @@ Flow:
 # Tables
 3 layers:
 - stg_\*
-- map_\*/dim_\*
+- dim_\*/map_\*
 - fact_\*
 
 ## Staging Table
 `stg_cbp`
+Cleaned monthly CBP encounter records at the state × nationality × demographic × authority level, kept close to the cleaned source file for loading and traceability.
 ```
 year
 month
@@ -198,6 +199,7 @@ encounter_count
 source_file
 ```
 `stg_dos_niv`
+Cleaned monthly DOS nonimmigrant visa issuance records by nationality and visa class, stored in a source-aligned format before normalization.
 ```
 year
 month
@@ -207,6 +209,7 @@ issuances
 source_file
 ```
 `stg_dos_iv`
+Cleaned monthly DOS immigrant visa issuance records by basis, country label, and visa class, preserved before canonical country mapping.
 ```
 year
 month
@@ -217,6 +220,7 @@ issuances
 source_file
 ```
 `stg_ohss` (long)
+Cleaned yearly OHSS state-level metric records, including population and one metric per row, used as the staging layer for state-level outcomes.
 ```
 state
 year
@@ -229,18 +233,21 @@ source_file
 
 ## Dimension / Mapping Table
 `dim_state`
+Canonical list of U.S. states, districts, and territories used across the project.
 ```
 state_id          PK
 state_name        UNIQUE
 ```
 
 `dim_country`
+Canonical list of country-like entities used after resolving source-specific labels.
 ```
 country_id        PK
 country_name      UNIQUE
 ```
 
 `dim_demographic_group`
+Canonical CBP demographic categories such as Family Units, Single Adults, and Unaccompanied Children.
 ```
 demographic_group_id   PK
 demographic_group_name UNIQUE
@@ -248,18 +255,21 @@ demographic_group_name UNIQUE
 e.g., Family Units, Unaccompanied Children, and Single Adults  
 
 `dim_visa_class_niv`
+Canonical dimension for DOS nonimmigrant visa class codes.
 ```
 visa_class_niv_id   PK
 visa_class_code     UNIQUE
 ```
 
 `dim_visa_class_iv`
+Canonical dimension for DOS immigrant visa class codes, kept separate from NIV classes because the same code may mean something different.
 ```
 visa_class_iv_id    PK
 visa_class_code     UNIQUE
 ```
 
 `dim_ohss_metric`
+Canonical OHSS metric definitions at the metric_name × measure_type level.
 ```
 metric_id           PK
 metric_name
@@ -269,6 +279,7 @@ UNIQUE(metric_name, measure_type)
 e.g., naturalizations / total, naturalizations / rank, refugees / total, and refugees / per_million  
 
 `map_country_label`
+Dictionary that maps each source-specific country label from CBP, DOS NIV, or DOS IV to a canonical country in dim_country.
 ```
 source_system PK -- cbp / dos_niv / dos_iv
 source_country_label PK
@@ -279,6 +290,7 @@ country_id FK -> dim_country.country_id
 
 ## Fact Table
 `fact_cbp_encounter`
+Core CBP fact table storing encounter counts at the year × month × state × country × demographic group × land border region × authority grain.
 ```
 cbp_fact_id             PK
 year
@@ -296,6 +308,7 @@ UNIQUE(
 )
 ```
 `fact_dos_niv_issuance`
+Core DOS NIV fact table storing monthly visa issuance counts by canonical country and NIV visa class.
 ```
 dos_niv_fact_id         PK
 year
@@ -307,6 +320,7 @@ source_file
 UNIQUE(year, month, country_id, visa_class_niv_id)
 ```
 `fact_dos_iv_issuance`
+Core DOS IV fact table storing monthly immigrant visa issuance counts by basis, canonical country, and IV visa class.
 ```
 dos_iv_fact_id          PK
 year
@@ -319,6 +333,7 @@ source_file
 UNIQUE(year, month, basis, country_id, visa_class_iv_id)
 ```
 `fact_ohss_state_metric`
+Core OHSS fact table storing state-year metric values, with one row per state × year × metric.
 ```
 ohss_fact_id            PK
 state_id                FK -> dim_state
