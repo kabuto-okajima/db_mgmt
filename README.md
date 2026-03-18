@@ -49,6 +49,21 @@ This Project does **not** allow you to:
 	- DOS_NIV: nationality
 	- DOS_IV: chargeability or place of birth
 
+### Interface Scope
+This project intentionally does not introduce SQL VIEWs or a dedicated read-only database user.  
+Those omissions are intentional simplifications for the course scope. The goal is to keep the interface simple and aligned with the database design itself, using canned queries and direct SQL over the existing schema rather than adding another abstraction layer.
+
+## Minimal Query CLI
+The repository includes a very small Python CLI that sits on top of the existing MySQL schema and SQL assets.
+
+- No SQL VIEW layer is added.
+- No dedicated read-only database user is configured.
+- The CLI is intentionally thin and reuses the analysis SQL under `sql/analysis/` as canned queries.
+- The canned query set comes directly from `sql/analysis/basic/` and `sql/analysis/storyline/`.
+
+Connection settings are loaded from the repository root `.env.local`, and a template is provided in `.env.example`.
+For setup and command usage, see `cli/README.md`.
+
 
 
 # Dataset Sources
@@ -59,6 +74,7 @@ This Project does **not** allow you to:
 
 ## CBP — Nationwide Encounters by State
 https://www.cbp.gov/document/stats/nationwide-encounters
+
 CBP National Encounters
 "FY23 - FY26 (FYTD) Nationwide Encounters by State - January"
 > FYTD: Fiscal Year to date
@@ -68,21 +84,25 @@ CBP National Encounters
 Data Range:
 - FROM: 2022, October
 - TO: 2026, January
-```
-Fiscal Year,Month Grouping,Month (abbv),Component,Land Border Region,Area of Responsibility,AOR (Abbv),Demographic,Citizenship,Title of Authority,Encounter Type,Encounter Count
 
-2023,FYTD,DEC,Office of Field Operations,Northern Land Border,Boston Field Office,Boston,Accompanied Minors,BRAZIL,Title 42,Expulsions,3
+Flow:
+`data/raw/cbp/nationwide-encounters-fy23-fy26-jan-state.csv` -> `scripts/normalize_cbp.py` -> `data/staging/cbp/cbp_encounters_state_monthly.csv` -> `stg_cbp` -> `dim_state`, `dim_country`, `dim_demographic_group`, `map_country_label` -> `fact_cbp_encounter`
 
-2023,FYTD,DEC,Office of Field Operations,Northern Land Border,Boston Field Office,Boston,Accompanied Minors,CANADA,Title 42,Expulsions,1
-
-2023,FYTD,DEC,Office of Field Operations,Northern Land Border,Boston Field Office,Boston,Accompanied Minors,CANADA,Title 8,Inadmissibles,1
-```
+| Fiscal Year | Month Grouping | Month (abbv) | Land Border Region | State | Demographic | Citizenship | Title of Authority | Encounter Count |
+| ----------- | -------------- | ------------ | ------------------ | ----- | ----------- | ----------- | ------------------ | --------------- |
+| 2023 | FYTD | DEC | Northern Land Border | AK | Single Adults | CANADA | Title 8 | 1 |
+| 2023 | FYTD | DEC | Northern Land Border | AK | Single Adults | OTHER | Title 8 | 5 |
+| 2023 | FYTD | DEC | Northern Land Border | AK | Single Adults | UKRAINE | Title 8 | 2 |
 
 ## DOS — Monthly Nonimmigrant Visa Issuances by Nationality and Visa Class
 https://travel.state.gov/content/travel/en/legal/visa-law0/visa-statistics/nonimmigrant-visa-statistics/monthly-nonimmigrant-visa-issuances.html?trk=public_post_comment-text
+
 - Excel available since 2022 Oct
 - It provides only monthly file
-	- Scraping -> convert to CSV -> aggregate
+- Scraping -> convert to CSV
+
+Flow:
+`data/raw/dos_niv/*.xlsx` -> `scripts/normalize_dos_niv.py` -> `data/staging/dos_niv/dos_niv_nationality_visa_class_monthly.csv` -> `stg_dos_niv` -> `dim_country`, `dim_visa_class_niv`, `map_country_label` -> `fact_dos_niv_issuance`
 
 2025 August Data:
 
@@ -107,9 +127,13 @@ https://travel.state.gov/content/travel/en/legal/visa-law0/visa-statistics/nonim
 
 ## DOS — Monthly Immigrant Visa Issuances by FSC or Place of Birth and Visa Class
 https://travel.state.gov/content/travel/en/legal/visa-law0/visa-statistics/immigrant-visa-statistics/monthly-immigrant-visa-issuances.html?fs=e&s=cl
+
 - Excel available in this project since 2022 Oct
 - It provides only monthly file
-	- Scraping -> convert to CSV -> aggregate
+- Scraping -> convert to CSV
+
+Flow:
+`data/raw/dos_iv/*.xlsx` -> `scripts/normalize_dos_iv.py` -> `data/staging/dos_iv/dos_iv_fsc_or_place_of_birth_visa_class_monthly.csv` -> `stg_dos_iv` -> `dim_country`, `dim_visa_class_iv`, `map_country_label` -> `fact_dos_iv_issuance`
 
 > `F1` Difference in NIV and IV datasets:
 > NIV (Non-Immigration Visa)'s `F1`: F1 Student visa.
@@ -142,15 +166,14 @@ https://travel.state.gov/content/travel/en/legal/visa-law0/visa-statistics/immig
 ## OHSS — State Immigration Data Flat File (FY 2013–2023)
 https://ohss.dhs.gov/topics/immigration/state-immigration-data
 
-```
-State,Year,Population,Lawful Permanent Residents Total,Lawful Permanent Residents Rank,Adjustments Total,Adjustments Rank,New Arrivals Total,New Arrivals Rank,Nonimmigrants Total,Nonimmigrants Rank,Naturalizations Total,Naturalizations Rank,Refugees Total,Refugees Rank,Asylees Total,Asylees Rank,Lawful Permanent Residents Per Million,Lawful Permanent Residents Per Million Rank,Adjustments Per Million,Adjustments Per Million Rank,New Arrivals Per Million,New Arrivals Per Million Rank,Nonimmigrants Per Million,Nonimmigrants Per Million Rank,Naturalizations Per Million,Naturalizations Per Million Rank,Refugees Per Million,Refugees Per Million Rank,Asylees Per Million,Asylees Per Million Rank
+Flow:
+`data/raw/ohss/state_data_2013-2023_20250514_3.csv` -> `scripts/normalize_ohss.py` -> `data/staging/ohss/ohss_state_annual_long.csv` -> `stg_ohss` -> `dim_state`, `dim_ohss_metric` -> `fact_ohss_state_metric`
 
-Alabama,2013,4830081,3850,35,2150,34,1700,34,126750,35,1810,39,130,42,20,36,796.674,49,444.713,48,351.961,48,26240.761,44,374.942,49,26.708,43,4.762,46
-
-Alabama,2014,4841799,3690,35,2050,34,1640,37,141340,34,1270,42,110,43,10,40,761.081,48,422.57,47,338.511,47,29191.009,43,261.473,51,22.099,44,2.891,47
-
-Alabama,2015,4852347,3930,35,2100,36,1830,35,151470,34,2830,32,110,43,30,40,809.505,49,432.574,48,376.931,49,31215.822,43,584.047,47,21.639,43,5.358,43
-```
+| State | Year | Population | Lawful Permanent Residents Total | Lawful Permanent Residents Rank | Adjustments Total | Adjustments Rank | New Arrivals Total | New Arrivals Rank | Nonimmigrants Total | Nonimmigrants Rank | Naturalizations Total | Naturalizations Rank | Refugees Total | Refugees Rank | Asylees Total | Asylees Rank | Lawful Permanent Residents Per Million | Lawful Permanent Residents Per Million Rank | Adjustments Per Million | Adjustments Per Million Rank | New Arrivals Per Million | New Arrivals Per Million Rank | Nonimmigrants Per Million | Nonimmigrants Per Million Rank | Naturalizations Per Million | Naturalizations Per Million Rank | Refugees Per Million | Refugees Per Million Rank | Asylees Per Million | Asylees Per Million Rank |
+| ----- | ---- | ---------- | -------------------------------- | ------------------------------- | ----------------- | ---------------- | ------------------ | ----------------- | ------------------- | ------------------ | -------------------- | -------------------- | -------------- | ------------- | ------------- | ------------ | -------------------------------------- | ------------------------------------------- | ---------------------- | --------------------------- | ------------------------ | ----------------------------- | ------------------------- | ------------------------------ | -------------------------- | ------------------------------- | -------------------- | ------------------------- | ------------------- | ------------------------ |
+| Alabama | 2013 | 4830081 | 3850 | 35 | 2150 | 34 | 1700 | 34 | 126750 | 35 | 1810 | 39 | 130 | 42 | 20 | 36 | 796.674 | 49 | 444.713 | 48 | 351.961 | 48 | 26240.761 | 44 | 374.942 | 49 | 26.708 | 43 | 4.762 | 46 |
+| Alabama | 2014 | 4841799 | 3690 | 35 | 2050 | 34 | 1640 | 37 | 141340 | 34 | 1270 | 42 | 110 | 43 | 10 | 40 | 761.081 | 48 | 422.57 | 47 | 338.511 | 47 | 29191.009 | 43 | 261.473 | 51 | 22.099 | 44 | 2.891 | 47 |
+| Alabama | 2015 | 4852347 | 3930 | 35 | 2100 | 36 | 1830 | 35 | 151470 | 34 | 2830 | 32 | 110 | 43 | 30 | 40 | 809.505 | 49 | 432.574 | 48 | 376.931 | 49 | 31215.822 | 43 | 584.047 | 47 | 21.639 | 43 | 5.358 | 43 |
 
 
 
