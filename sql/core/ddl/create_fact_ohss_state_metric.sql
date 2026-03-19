@@ -3,8 +3,8 @@ OHSS state metric fact table.
 
 Design notes:
 - Keep the grain at state x year x metric.
-- population is retained here because the current core schema does not
-  yet have a separate state-year table to hold it.
+- Keep only metric values here; state-year population lives in a
+  separate OHSS fact table.
 - metric_id references the canonical metric dimension at the
   (metric_name, measure_type) grain.
 */
@@ -13,7 +13,6 @@ CREATE TABLE fact_ohss_state_metric (
     ohss_fact_id BIGINT UNSIGNED NOT NULL AUTO_INCREMENT,
     state_id SMALLINT UNSIGNED NOT NULL,
     year SMALLINT UNSIGNED NOT NULL,
-    population INT UNSIGNED NULL,
     metric_id SMALLINT UNSIGNED NOT NULL,
     metric_value DECIMAL(18, 6) NULL,
     PRIMARY KEY (ohss_fact_id),

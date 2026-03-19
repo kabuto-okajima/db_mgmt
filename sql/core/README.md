@@ -36,3 +36,10 @@ This is not strange. It is exactly what I would expect if the table stores sourc
 - DOS IV labels: 218
 
 Total: 22 + 209 + 218 = 449
+
+### OHSS population normalization
+The OHSS core schema now separates:
+- `fact_ohss_state_year_population` at the `(state_id, year)` grain for `population`
+- `fact_ohss_state_metric` at the `(state_id, year, metric_id)` grain for `metric_value`
+
+This keeps the OHSS core layer aligned with the underlying functional dependencies.

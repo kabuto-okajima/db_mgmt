@@ -3,12 +3,12 @@ OHSS-only analysis examples.
 
 Purpose:
 - Provide easy-to-read example queries for analyzing OHSS state outcomes.
-- Assume fact_ohss_state_metric has already been created and populated.
+- Assume the OHSS fact tables have already been created and populated.
 - Start with simple state-year comparisons, then move to rankings and
   rate-based interpretation.
 
 Notes:
-- These queries use only the OHSS fact and its related dimensions.
+- These queries use the OHSS fact tables and their related dimensions.
 - They are intended for manual exploration in MySQL.
 */
 
@@ -155,18 +155,18 @@ ORDER BY
 /* ------------------------------------------------------------
 Example 7
 Population context for one state across years.
-This is useful because OHSS includes population alongside each state-year.
+This reads from the separate OHSS state-year population fact table.
 ------------------------------------------------------------ */
-SELECT DISTINCT
+SELECT
     ds.state_name,
-    f.year,
-    f.population
-FROM fact_ohss_state_metric AS f
+    fp.year,
+    fp.population
+FROM fact_ohss_state_year_population AS fp
 INNER JOIN dim_state AS ds
-    ON ds.state_id = f.state_id
+    ON ds.state_id = fp.state_id
 WHERE ds.state_name = 'Texas'
 ORDER BY
-    f.year;
+    fp.year;
 
 /* ------------------------------------------------------------
 Example 8

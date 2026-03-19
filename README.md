@@ -167,7 +167,7 @@ Flow:
 https://ohss.dhs.gov/topics/immigration/state-immigration-data
 
 Flow:
-`data/raw/ohss/state_data_2013-2023_20250514_3.csv` -> `scripts/normalize_ohss.py` -> `data/staging/ohss/ohss_state_annual_long.csv` -> `stg_ohss` -> `dim_state`, `dim_ohss_metric` -> `fact_ohss_state_metric`
+`data/raw/ohss/state_data_2013-2023_20250514_3.csv` -> `scripts/normalize_ohss.py` -> `data/staging/ohss/ohss_state_annual_long.csv` -> `stg_ohss` -> `dim_state`, `dim_ohss_metric` -> `fact_ohss_state_year_population`, `fact_ohss_state_metric`
 
 | State | Year | Population | Lawful Permanent Residents Total | Lawful Permanent Residents Rank | Adjustments Total | Adjustments Rank | New Arrivals Total | New Arrivals Rank | Nonimmigrants Total | Nonimmigrants Rank | Naturalizations Total | Naturalizations Rank | Refugees Total | Refugees Rank | Asylees Total | Asylees Rank | Lawful Permanent Residents Per Million | Lawful Permanent Residents Per Million Rank | Adjustments Per Million | Adjustments Per Million Rank | New Arrivals Per Million | New Arrivals Per Million Rank | Nonimmigrants Per Million | Nonimmigrants Per Million Rank | Naturalizations Per Million | Naturalizations Per Million Rank | Refugees Per Million | Refugees Per Million Rank | Asylees Per Million | Asylees Per Million Rank |
 | ----- | ---- | ---------- | -------------------------------- | ------------------------------- | ----------------- | ---------------- | ------------------ | ----------------- | ------------------- | ------------------ | -------------------- | -------------------- | -------------- | ------------- | ------------- | ------------ | -------------------------------------- | ------------------------------------------- | ---------------------- | --------------------------- | ------------------------ | ----------------------------- | ------------------------- | ------------------------------ | -------------------------- | ------------------------------- | -------------------- | ------------------------- | ------------------- | ------------------------ |
@@ -183,7 +183,7 @@ Flow:
 - `fact_*`: Analysis-ready tables that store cleaned, structured measurements for reporting and analytical queries.
 
 ## ER Diagram
-[![Core ER Diagram](assets/core_schema_er.png)](assets/core_schema_er.png)
+[![Core ER Diagram](docs/er/core_schema_er.png)](docs/er/core_schema_er.png)
 > Source: [dbdocs.io](https://dbdocs.io/okajimakabuto/db_mgmt?view=relationships)
 
 ## Staging Table
@@ -223,7 +223,7 @@ issuances
 source_file
 ```
 `stg_ohss` (long)
-Cleaned yearly OHSS state-level metric records, including population and one metric per row, used as the staging layer for state-level outcomes.
+Cleaned yearly OHSS state-level metric records, including population and one metric per row, used as the staging layer for the separate OHSS population fact and the OHSS metric fact.
 ```
 state
 year
@@ -335,15 +335,22 @@ issuances
 source_file
 UNIQUE(year, month, basis, country_id, visa_class_iv_id)
 ```
+`fact_ohss_state_year_population`
+Core OHSS fact table storing one population row per state × year.
+```
+ohss_state_year_population_fact_id   PK
+state_id                             FK -> dim_state
+year
+population
+UNIQUE(state_id, year)
+```
 `fact_ohss_state_metric`
 Core OHSS fact table storing state-year metric values, with one row per state × year × metric.
 ```
 ohss_fact_id            PK
 state_id                FK -> dim_state
 year
-population
 metric_id               FK -> dim_ohss_metric
 metric_value
-source_file
 UNIQUE(state_id, year, metric_id)
 ```

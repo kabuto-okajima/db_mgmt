@@ -3,22 +3,19 @@ Populate fact_ohss_state_metric from OHSS staging data.
 
 Design notes:
 - Resolve state and metric through the canonical dimensions.
-- Keep population because the current core schema does not yet have a
-  separate state-year table to store it.
+- Load only state x year x metric values here.
 - Keep source_file only in staging as lineage metadata.
 */
 
 INSERT IGNORE INTO fact_ohss_state_metric (
     state_id,
     year,
-    population,
     metric_id,
     metric_value
 )
 SELECT DISTINCT
     ds.state_id,
     s.year,
-    s.population,
     dom.metric_id,
     s.metric_value
 FROM stg_ohss AS s

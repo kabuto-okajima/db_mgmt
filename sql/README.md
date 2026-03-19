@@ -34,6 +34,7 @@ sql/
 │   │   ├── create_fact_dos_iv_issuance.sql
 │   │   ├── create_fact_dos_niv_issuance.sql
 │   │   ├── create_fact_ohss_state_metric.sql
+│   │   ├── create_fact_ohss_state_year_population.sql
 │   │   └── create_map_country_label.sql
 │   └── populate/
 │       ├── populate_dim_country.sql
@@ -46,6 +47,7 @@ sql/
 │       ├── populate_fact_dos_iv_issuance.sql
 │       ├── populate_fact_dos_niv_issuance.sql
 │       ├── populate_fact_ohss_state_metric.sql
+│       ├── populate_fact_ohss_state_year_population.sql
 │       └── populate_map_country_label.sql
 ├── run/
 │   ├── README.md
@@ -101,7 +103,7 @@ This folder also contains a short README explaining common loading clauses and t
 SQL for the normalized relational schema used after staging data has been loaded.
 
 #### `sql/core/ddl/`
-`CREATE TABLE` statements for dimensions, the country-label mapping table, and fact tables.
+`CREATE TABLE` statements for dimensions, the country-label mapping table, and fact tables, including the separate OHSS state-year population fact.
 
 #### `sql/core/populate/`
 `INSERT ... SELECT ...` scripts that populate dimensions, mappings, and fact tables from staging data.

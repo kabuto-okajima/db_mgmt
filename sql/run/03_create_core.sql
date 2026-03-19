@@ -11,6 +11,7 @@ Reason:
 */
 
 DROP TABLE IF EXISTS fact_ohss_state_metric;
+DROP TABLE IF EXISTS fact_ohss_state_year_population;
 DROP TABLE IF EXISTS fact_dos_iv_issuance;
 DROP TABLE IF EXISTS fact_dos_niv_issuance;
 DROP TABLE IF EXISTS fact_cbp_encounter;
@@ -34,4 +35,5 @@ SOURCE sql/core/ddl/create_map_country_label.sql;
 SOURCE sql/core/ddl/create_fact_cbp_encounter.sql;
 SOURCE sql/core/ddl/create_fact_dos_niv_issuance.sql;
 SOURCE sql/core/ddl/create_fact_dos_iv_issuance.sql;
+SOURCE sql/core/ddl/create_fact_ohss_state_year_population.sql;
 SOURCE sql/core/ddl/create_fact_ohss_state_metric.sql;

@@ -2,7 +2,7 @@
 Basic OHSS query.
 
 Purpose:
-- Explain the state x year x metric structure of the OHSS fact.
+- Explain the state x year x metric structure of the OHSS metric fact.
 - Show annual totals for major state-level immigration outcomes.
 */
 

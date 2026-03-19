@@ -19,4 +19,5 @@ SOURCE sql/core/populate/populate_map_country_label.sql;
 SOURCE sql/core/populate/populate_fact_cbp_encounter.sql;
 SOURCE sql/core/populate/populate_fact_dos_niv_issuance.sql;
 SOURCE sql/core/populate/populate_fact_dos_iv_issuance.sql;
+SOURCE sql/core/populate/populate_fact_ohss_state_year_population.sql;
 SOURCE sql/core/populate/populate_fact_ohss_state_metric.sql;
