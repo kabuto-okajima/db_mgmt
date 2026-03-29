@@ -137,6 +137,15 @@ QUERY_REGISTRY: tuple[CannedQuery, ...] = (
             QueryParameter("end_year", "Inclusive end year for OHSS rows.", 2023, int),
         ),
     ),
+    CannedQuery(
+        query_id="story-ohss-top-states-by-metric",
+        title="OHSS top states by metric for one year",
+        description="Ranks states by selected OHSS total metrics for a target year.",
+        sql_path=_sql("sql/analysis/storyline/07_story_ohss_top_states_by_metric.sql"),
+        parameters=(
+            QueryParameter("target_year", "Target OHSS year to analyze.", 2023, int),
+        ),
+    ),
 )
 
 QUERY_BY_ID = {query.query_id: query for query in QUERY_REGISTRY}

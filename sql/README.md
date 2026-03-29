@@ -20,7 +20,8 @@ sql/
 │       ├── 03_story_ohss_texas_selected_metrics.sql
 │       ├── 04_story_niv_venezuela_selected_classes.sql
 │       ├── 05_story_iv_venezuela_basis_totals.sql
-│       └── 06_story_cross_dataset_texas_venezuela_summary.sql
+│       ├── 06_story_cross_dataset_texas_venezuela_summary.sql
+│       └── 07_story_ohss_top_states_by_metric.sql
 ├── core/
 │   ├── README.md
 │   ├── ddl/
@@ -135,4 +136,4 @@ Small foundational analysis queries for each dataset. These are useful for sanit
 General-purpose example queries grouped by source dataset.
 
 #### `sql/analysis/storyline/`
-Numbered queries that build a cross-dataset narrative, including the Texas and Venezuela-focused summary flow across CBP, OHSS, DOS NIV, and DOS IV.
+Numbered queries that build a cross-dataset narrative, including the Texas and Venezuela-focused summary flow across CBP, OHSS, DOS NIV, and DOS IV, plus an OHSS state-ranking query for selected metrics in one year.
